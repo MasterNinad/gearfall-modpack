@@ -2,7 +2,7 @@
 
 [📥 Download on Curseforge](bruhbruh)
 
-CreateVerse is a feature-packed NeoForge **1.21.1** modpack built for the **Gearfall SMP** community by **VoltCore Network**.  
+Gearfall is a feature-packed NeoForge **1.21.1** modpack built for the **Gearfall SMP** community by **VoltCore Network**.  
 It focuses on performance, creativity, exploration, and multiplayer fun — all without locking you into a specific theme.
 
 Whether you're here to engineer massive Create factories, explore world-gen overhauls, automate farms, or complete quests, CreateVerse offers something for every playstyle.
