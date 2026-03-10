@@ -32,7 +32,7 @@
 |---|---|---|---|
 | AppleSkin | [Click Here](https://www.curseforge.com/minecraft/mc-mods/appleskin) | [Click Here](https://modrinth.com/mod/appleskin) | Adds more features to player food bar |
 | Mouse Tweaks | [Click Here](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) | [Click Here](https://modrinth.com/mod/mouse-tweaks) | Adds a few mouse shortcuts, which should actually be in the base game :/ |
-| Just Enough Items | [Click Here](https://www.curseforge.com/minecraft/mc-mods/jei) | [Click Here](https://modrinth.com/mod/jei) | A prety good recipe viewer (only exists for mod compaitability with EMI) |
+| Just Enough Items | [Click Here](https://www.curseforge.com/minecraft/mc-mods/jei) | [Click Here](https://modrinth.com/mod/jei) | A pretty good recipe viewer (only exists for mod compaitability with EMI) |
 | EMI | [Click Here](https://www.curseforge.com/minecraft/mc-mods/emi) | [Click Here](https://modrinth.com/mod/emi) | JEI with better UI |
 | EMI++ | [Click Here](https://www.curseforge.com/minecraft/mc-mods/emi-plus-plus) | [Click Here](https://modrinth.com/mod/emixx) | Creative Mode Tabs, Collapsible Item Groups, Villager Trades |
 | EMI Loot | [Click Here](https://www.curseforge.com/minecraft/mc-mods/emi-loot) | [Click Here](https://modrinth.com/mod/emi-loot) | Displays loot tables for chests, blocks, and mobs |
