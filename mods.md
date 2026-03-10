@@ -62,9 +62,9 @@
 |---|---|---|---|---|
 | KubeJS | [Click Here](https://www.curseforge.com/minecraft/mc-mods/kubejs/files) | [Click Here](https://modrinth.com/mod/kubejs/version/8nuqyxbw) | 2101.7.2-build.348 | Tell me 1 good modpack made without this mod |
 | Molten Vents Worldgen | [Click Here](https://www.curseforge.com/minecraft/mc-mods/molten-vents-worldgen/files) | [Click Here](https://modrinth.com/mod/create-molten-vents/version/By33YVeb) | 2.1.1 | Adds vent feature from molten vents |
-| FTB Quests | [Click Here](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge/files) | N/A | N/A | Well, Quests!! |
-| FTB Filter System | [Click Here](https://www.curseforge.com/minecraft/mc-mods/ftb-filter-system/files) | N/A | N/A | Adds a tag filter system for FTB Quests |
-| FTB Teams | [Click Here](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge/files) | N/A | N/A | Ability to create player teams for FTB Quests |
+| FTB Quests | [Click Here](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge/files) | N/A | 2101.1.22 | Well, Quests!! |
+| FTB Filter System | [Click Here](https://www.curseforge.com/minecraft/mc-mods/ftb-filter-system/files) | N/A | 21.1.4 | Adds a tag filter system for FTB Quests |
+| FTB Teams | [Click Here](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge/files) | N/A | 2001.3.2 | Ability to create player teams for FTB Quests |
 
 ### Performance Mods [8]
 
