@@ -1,12 +1,13 @@
 ## Content (14)
+- Since FTB mods are Curseforge only, this modpack will be available only on Curseforge
 
 ### Technology Mods (core of Gearfall) [5]
 
 | Mod | CurseForge | Modrinth | Purpose |
 |---|---|---|---|
 | Create Mod | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create) | [Click Here](https://modrinth.com/mod/create) | Do I need to say anything? |
-| Create Mechanical Extruder | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-mechanical-extruder) | [Click Here](https://modrinth.com/mod/create-mechanical-extruder) | A performance friendly alternative to world interaction recipes like cobble gen, etc. |
-| Create: The Factory Must Grow | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-industry) | [Click Here](https://modrinth.com/mod/create-tfmg) | Makes create a bit harder, and is core part of Gearfall |
+| Create Mechanical Extruder | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-mechanical-extruder) | [Click Here](https://modrinth.com/mod/create-mechanical-extruder) | A performance-friendly alternative to world interaction recipes like cobble gen, etc. |
+| Create: The Factory Must Grow | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-industry) | [Click Here](https://modrinth.com/mod/create-tfmg) | Makes create a bit harder, and is a core part of Gearfall |
 | Create: Northstar - Redux | [Click Here](https://www.curseforge.com/minecraft/mc-mods/northstar-redux) | [Click Here](https://modrinth.com/mod/northstar-redux) | Space exploration! |
 | Chemica | [Click Here](https://www.curseforge.com/minecraft/mc-mods/chemica) | [Click Here](https://modrinth.com/mod/chemica) | TFMG addon that adds real world chemistry |
 
@@ -16,13 +17,13 @@
 |---|---|---|---|
 | Create Confectionery | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-confectionery) | [Click Here](https://modrinth.com/mod/create-confectionery) | Chocolates! |
 | Create Encased | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-encased) | [Click Here](https://modrinth.com/mod/create-encased) | Allows all casings to be used on shafts, cogwheels and pipes |
-| Create More: Package Couriers | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-more-package-couriers) | [Click Here](https://modrinth.com/mod/create-more-package-couriers) | Adds a cardboard plane for long range package logistics that can also cross dimensions |
+| Create More: Package Couriers | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-more-package-couriers) | [Click Here](https://modrinth.com/mod/create-more-package-couriers) | Adds a cardboard plane for long-range package logistics that can also cross dimensions |
 | Create: Enchantment Industry | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry) | [Click Here](https://modrinth.com/mod/create-enchantment-industry) | Offers more tools and methods to handle experience & enchantment in Create |
 | Create: Escalated | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-escalated) | [Click Here](https://modrinth.com/mod/escalated) | Adds functional, aesthetic, and rotation-powered escalators to Create |
 | Create: Hypertubes | [Click Here](https://www.curseforge.com/minecraft/mc-mods/hypertubes) | [Click Here](https://modrinth.com/mod/hypertube) | Adds Satisfactory Hypertubes to Minecraft |
 | Create: Numismatics | [Click Here](https://www.curseforge.com/minecraft/mc-mods/numismatics) | [Click Here](https://modrinth.com/mod/numismatics) | Economy and Capitalism |
 | Create: Trading Floor | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-trading-floor) | [Click Here](https://modrinth.com/mod/create-trading-floor) | Adds the trading depot block, which can be used within create to automatically trade with villagers over the day |
-| Create: Mob Spawners | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-mob-spawners) | [Click Here](https://modrinth.com/mod/create-mob-spawners) | Adds a tool that can catch mobs which can then be placed into a spawner |
+| Create: Mob Spawners | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-mob-spawners) | [Click Here](https://modrinth.com/mod/create-mob-spawners) | Adds a tool that can catch mobs, which can then be placed into a spawner |
 
 ## Visuals and QOL (9+1)
 
@@ -74,7 +75,7 @@
 | Cull Leaves | [Click Here](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) | [Click Here](https://modrinth.com/mod/cull-leaves) | Ensures no performance drops for bushy leaves :) |
 | Dynamic FPS | [Click Here](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | [Click Here](https://modrinth.com/mod/dynamic-fps) | Reduce resource usage while Minecraft is in the background, idle, or on battery |
 | FTB Quests Optimizer | [Click Here](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-optimizer) | [Click Here](https://modrinth.com/mod/ftb-quests-optimizer) | Improves performance of FTB Quests |
-| Lithium | [Click Here](https://www.curseforge.com/minecraft/mc-mods/lithium) | [Click Here](https://modrinth.com/mod/lithium) | Improves a number of systems (game physics, mob AI, block ticking, etc) without changing any behavior |
+| Lithium | [Click Here](https://www.curseforge.com/minecraft/mc-mods/lithium) | [Click Here](https://modrinth.com/mod/lithium) | Improves several systems (game physics, mob AI, block ticking, etc) without changing any behaviour |
 | ModernFix | [Click Here](https://www.curseforge.com/minecraft/mc-mods/modernfix) | [Click Here](https://modrinth.com/mod/modernfix) | All-in-one mod that improves performance, reduces memory usage, and fixes many bugs in modern Minecraft versions |
 | FerriteCore | [Click Here](https://www.curseforge.com/minecraft/mc-mods/ferritecore) | [Click Here](https://modrinth.com/mod/ferrite-core) | Reduces the memory usage of Minecraft in a few different ways |
 
@@ -97,7 +98,7 @@
 | MidnightLib | [Click Here](https://www.curseforge.com/minecraft/mc-mods/midnightlib) | [Click Here](https://modrinth.com/mod/midnightlib) | Blur+ |
 | GeckoLib | [Click Here](https://www.curseforge.com/minecraft/mc-mods/geckolib) | [Click Here](https://modrinth.com/mod/geckolib) | Create: Northstar - Redux |
 
-### Honourable Mentions
+### Honourable Mentions (not in actual modpack)
 
 | Mod | CurseForge | Modrinth | Purpose |
 |---|---|---|---|
