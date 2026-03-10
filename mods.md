@@ -39,47 +39,6 @@
 | Jade 🔍 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/jade) | [Click Here](https://modrinth.com/mod/jade) | Shows info about the block at which the player is looking |
 | Enchantment Descriptions | [Click Here](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | [Click Here](https://modrinth.com/mod/enchantment-descriptions) | Clarify enchantments by adding descriptions of their effects to enchanted item tooltips |
 
-## Content (14)
-
-### Technology Mods (core of Gearfall) [5]
-
-| Mod | CurseForge | Modrinth | Purpose |
-|---|---|---|---|
-| Create Mod | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create) | [Click Here](https://modrinth.com/mod/create) | Do I need to say anything? |
-| Create Mechanical Extruder | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-mechanical-extruder) | [Click Here](https://modrinth.com/mod/create-mechanical-extruder) | A performance friendly alternative to world interaction recipes like cobble gen, etc. |
-| Create: The Factory Must Grow | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-industry) | [Click Here](https://modrinth.com/mod/create-tfmg) | Makes create a bit harder, and is core part of Gearfall |
-| Create: Northstar - Redux | [Click Here](https://www.curseforge.com/minecraft/mc-mods/northstar-redux) | [Click Here](https://modrinth.com/mod/northstar-redux) | Space exploration! |
-| Chemica | [Click Here](https://www.curseforge.com/minecraft/mc-mods/chemica) | [Click Here](https://modrinth.com/mod/chemica) | TFMG addon that adds real world chemistry |
-
-### Other create mod addons [9]
-
-| Mod | CurseForge | Modrinth | Purpose |
-|---|---|---|---|
-| Create Confectionery | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-confectionery) | [Click Here](https://modrinth.com/mod/create-confectionery) | Chocolates! |
-| Create Encased | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-encased) | [Click Here](https://modrinth.com/mod/create-encased) | Allows all casings to be used on shafts, cogwheels and pipes |
-| Create More: Package Couriers | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-more-package-couriers) | [Click Here](https://modrinth.com/mod/create-more-package-couriers) | Adds a cardboard plane for long range package logistics that can also cross dimensions |
-| Create: Enchantment Industry | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry) | [Click Here](https://modrinth.com/mod/create-enchantment-industry) | Offers more tools and methods to handle experience & enchantment in Create |
-| Create: Escalated | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-escalated) | [Click Here](https://modrinth.com/mod/escalated) | Adds functional, aesthetic, and rotation-powered escalators to Create |
-| Create: Hypertubes | [Click Here](https://www.curseforge.com/minecraft/mc-mods/hypertubes) | [Click Here](https://modrinth.com/mod/hypertube) | Adds Satisfactory Hypertubes to Minecraft |
-| Create: Numismatics | [Click Here](https://www.curseforge.com/minecraft/mc-mods/numismatics) | [Click Here](https://modrinth.com/mod/numismatics) | Economy and Capitalism |
-| Create: Trading Floor | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-trading-floor) | [Click Here](https://modrinth.com/mod/create-trading-floor) | Adds the trading depot block, which can be used within create to automatically trade with villagers over the day |
-| Create: Mob Spawners | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-mob-spawners) | [Click Here](https://modrinth.com/mod/create-mob-spawners) | Adds a tool that can catch mobs which can then be placed into a spawner |
-
-## Visuals and QOL (9+1)
-
-### QOL Mods [8]
-
-| Mod | CurseForge | Modrinth | Purpose |
-|---|---|---|---|
-| AppleSkin | [Click Here](https://www.curseforge.com/minecraft/mc-mods/appleskin) | [Click Here](https://modrinth.com/mod/appleskin) | Adds more features to player food bar |
-| Mouse Tweaks | [Click Here](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) | [Click Here](https://modrinth.com/mod/mouse-tweaks) | Adds a few mouse shortcuts, which should actually be in the base game :/ |
-| Just Enough Items | [Click Here](https://www.curseforge.com/minecraft/mc-mods/jei) | [Click Here](https://modrinth.com/mod/jei) | A prety good recipe viewer (only exists for mod compaitability with EMI) |
-| EMI | [Click Here](https://www.curseforge.com/minecraft/mc-mods/emi) | [Click Here](https://modrinth.com/mod/emi) | JEI with better UI |
-| EMI++ | [Click Here](https://www.curseforge.com/minecraft/mc-mods/emi-plus-plus) | [Click Here](https://modrinth.com/mod/emixx) | Creative Mode Tabs, Collapsible Item Groups, Villager Trades |
-| EMI Loot | [Click Here](https://www.curseforge.com/minecraft/mc-mods/emi-loot) | [Click Here](https://modrinth.com/mod/emi-loot) | Displays loot tables for chests, blocks, and mobs |
-| Jade 🔍 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/jade) | [Click Here](https://modrinth.com/mod/jade) | Shows info about the block at which the player is looking |
-| Enchantment Descriptions | [Click Here](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | [Click Here](https://modrinth.com/mod/enchantment-descriptions) | Clarify enchantments by adding descriptions of their effects to enchanted item tooltips |
-
 ### Visual mods and resource packs [1+1]
 
 | Mod | CurseForge | Modrinth | Purpose |
