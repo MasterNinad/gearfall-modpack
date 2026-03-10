@@ -90,8 +90,8 @@
 | Create: Dragons Plus | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-dragons-plus/files) | [Click Here](https://modrinth.com/mod/create-dragons-plus/version/C1pFgdCC) | 1.8.7 | Create: Dragons Plus |
 | Create: Packagers PSI Compat | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-packagers-psi-compat/files) | [Click Here](https://modrinth.com/mod/packagerspsic/version/e7XZY6Md) | 1.0.0 | Allows Create mod packagers to interact with Portable Storage interfaces |
 | Mechanicals Lib | [Click Here](https://www.curseforge.com/minecraft/mc-mods/mechanicals-lib/files) | [Click Here](https://modrinth.com/mod/mechanicals-lib/version/z9HvpJMU) | 1.21.1-1.1.0 | Create Mechanical Extruder |
-| FTB Library | [Click Here](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/files) | N/A | N/A | Every FTB Mod |
-| FTB XMod Compat | [Click Here](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat/files) | N/A | N/A | Compatibility of FTB Quests with KubeJS and JEI |
+| FTB Library | [Click Here](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/files) | N/A | 2101.1.30 | Every FTB Mod |
+| FTB XMod Compat | [Click Here](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat/files) | N/A | 21.1.8 | Compatibility of FTB Quests with KubeJS and JEI |
 | Jade Addons | [Click Here](https://www.curseforge.com/minecraft/mc-mods/jade-addons/files) | [Click Here](https://modrinth.com/mod/jade-addons-forge/version/Z9s9lM56) | 6.1.0+neoforge | Compatibility of Jade with other mods |
 | KubeJS Create | [Click Here](https://www.curseforge.com/minecraft/mc-mods/kubejs-create/files) | [Click Here](https://modrinth.com/mod/kubejs-create/version/1qmcLagN) | 2101.3.1-build.18 | Compatibility of KubeJS with Create Mod |
 | Kotlin for Forge | [Click Here](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge/files) | [Click Here](https://modrinth.com/mod/kotlin-for-forge/version/NrSebcsG) | 5.11.0 | EMI++ |
