@@ -131,9 +131,9 @@
 | Create: Packagers PSI Compat | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-packagers-psi-compat) | [Click Here](https://modrinth.com/mod/packagerspsic) | Allows Create mod packagers to interact with Portable Storage interfaces |
 | Mechanicals Lib | [Click Here](https://www.curseforge.com/minecraft/mc-mods/mechanicals-lib) | [Click Here](https://modrinth.com/mod/mechanicals-lib) | Create Mechanical Extruder |
 | FTB Library | [Click Here](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) | N/A | Every FTB Mod |
-| FTB XMod Compat | [Click Here](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat) | N/A | Compaitability of FTB Quests with KubeJS and JEI |
-| Jade Addons | [Click Here](https://www.curseforge.com/minecraft/mc-mods/jade-addons) | [Click Here](https://modrinth.com/mod/jade-addons-forge) | Compaitability of Jade with other mods |
-| KubeJS Create | [Click Here](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) | [Click Here](https://modrinth.com/mod/kubejs-create) | Compaitability of KubeJS with Create Mod |
+| FTB XMod Compat | [Click Here](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat) | N/A | Compatibility of FTB Quests with KubeJS and JEI |
+| Jade Addons | [Click Here](https://www.curseforge.com/minecraft/mc-mods/jade-addons) | [Click Here](https://modrinth.com/mod/jade-addons-forge) | Compatibility of Jade with other mods |
+| KubeJS Create | [Click Here](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) | [Click Here](https://modrinth.com/mod/kubejs-create) | Compatibility of KubeJS with Create Mod |
 | Kotlin for Forge | [Click Here](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge) | [Click Here](https://modrinth.com/mod/kotlin-for-forge) | EMI++ |
 | MidnightLib | [Click Here](https://www.curseforge.com/minecraft/mc-mods/midnightlib) | [Click Here](https://modrinth.com/mod/midnightlib) | Blur+ |
 | GeckoLib | [Click Here](https://www.curseforge.com/minecraft/mc-mods/geckolib) | [Click Here](https://modrinth.com/mod/geckolib) | Create: Northstar - Redux |
