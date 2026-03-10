@@ -39,15 +39,6 @@
 | Jade 🔍 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/jade) | [Click Here](https://modrinth.com/mod/jade) | Shows info about the block at which the player is looking |
 | Enchantment Descriptions | [Click Here](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | [Click Here](https://modrinth.com/mod/enchantment-descriptions) | Clarify enchantments by adding descriptions of their effects to enchanted item tooltips |
 
-### Visual mods and resource packs [1+1]
-
-| Mods | Purpose |
-|---|---|
-| [Blur+](https://www.curseforge.com/minecraft/mc-mods/blur-fabric) / [Modrinth](https://modrinth.com/mod/blur-plus) | Blurs the rest of the game when a gui is open |
-
-| Resource Packs | Purpose |
-| [Motschen's Better Leaves](https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves) / [Modrinth](https://modrinth.com/resourcepack/better-leaves) | Bushy leaves without any performance drop! |
-
 ## Content (14)
 
 ### Technology Mods (core of Gearfall) [5]
