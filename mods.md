@@ -90,8 +90,6 @@
 |---|---|---|---|
 | Motschen's Better Leaves | [Click Here](https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves) | [Click Here](https://modrinth.com/resourcepack/better-leaves) | Bushy leaves without any performance drop! |
 
-## Other (28)
-
 ### Building Mods [1]
 
 | Mod | CurseForge | Modrinth | Purpose |
