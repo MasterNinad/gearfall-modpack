@@ -110,7 +110,7 @@
 
 | Mod | CurseForge | Modrinth | Purpose |
 |---|---|---|---|
-| Sodium | [Click Here](https://www.curseforge.com/minecraft/mc-mods/sodium) | [Click Here](https://modrinth.com/mod/sodium) | The best perofrmance mod (for 1.21.1 Neo, cause Vulkan also exists but for Fabric :/ ) |
+| Sodium | [Click Here](https://www.curseforge.com/minecraft/mc-mods/sodium) | [Click Here](https://modrinth.com/mod/sodium) | The best performance mod (for 1.21.1 Neo, cause Vulkan also exists but for Fabric :/ ) |
 | Entity Culling | [Click Here](https://www.curseforge.com/minecraft/mc-mods/entityculling) | [Click Here](https://modrinth.com/mod/entityculling) | Multithreaded Path-Tracing, Multithreaded Path-Tracing, Entity Tick Optimization |
 | Cull Leaves | [Click Here](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) | [Click Here](https://modrinth.com/mod/cull-leaves) | Ensures no performance drops for bushy leaves :) |
 | Dynamic FPS | [Click Here](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | [Click Here](https://modrinth.com/mod/dynamic-fps) | Reduce resource usage while Minecraft is in the background, idle, or on battery |
