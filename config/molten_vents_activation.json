@@ -1,0 +1,29 @@
+{
+  "activationTicks": 200,
+  "ventPairs": [
+    {
+      "dormant": "kubejs:dormant_asurine_vent",
+      "active": "kubejs:active_asurine_vent"
+    },
+    {
+      "dormant": "kubejs:dormant_crimsite_vent",
+      "active": "kubejs:active_crimsite_vent"
+    },
+    {
+      "dormant": "kubejs:dormant_ochrum_vent",
+      "active": "kubejs:active_ochrum_vent"
+    },
+    {
+      "dormant": "kubejs:dormant_bauxite_vent",
+      "active": "kubejs:active_bauxite_vent"
+    },
+    {
+      "dormant": "kubejs:dormant_lignite_vent",
+      "active": "kubejs:active_lignite_vent"
+    },
+    {
+      "dormant": "kubejs:dormant_veridium_vent",
+      "active": "kubejs:active_veridium_vent"
+    }
+  ]
+}

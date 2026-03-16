@@ -1,5 +1,4 @@
 1.21.1/**
-config/**
 crash-reports/**
 datapacks/**
 defaultconfigs/**
@@ -16,10 +15,8 @@ shaderpacks/**
 /.curseclient
 /command_history.txt
 /minecraftinstance.json
-/options.txt
 /usercache.json
 /usernamecache.json
-/emi.json
 .probe
 /kubejs/README.txt
 /kubejs/client_scripts/jsconfig.json
@@ -28,3 +25,11 @@ shaderpacks/**
 /kubejs/config/**
 debug/**
 fancymenu_data/**
+.cache/**
+cache/**
+.mixin.out/**
+backups/**
+/user-prefs.json
+xaero/**
+dynamic-resource-pack-cache/**
+dynamic-data-pack-cache/**

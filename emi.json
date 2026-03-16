@@ -1,0 +1,22 @@
+{
+  "hidden_stacks": [
+    "item:chemica:biodiesel_engine_cylinder",
+    "item:chemica:ethanol_engine_cylinder",
+    "item:chemica:high_octane_engine_cylinder",
+    "item:tfmg:diesel_engine_cylinder",
+    "item:tfmg:simple_engine_cylinder",
+    "item:tfmg:engine_cylinder",
+    "item:tfmg:unfinished_circuit_board",
+    "item:tfmg:unfinished_capacitor",
+    "item:tfmg:unfinished_electric_motor",
+    "item:tfmg:unfinished_potentiometer",
+    "item:tfmg:unfinished_generator",
+    "item:tfmg:unfinished_transistor",
+    "item:tfmg:unfinished_steel_mechanism",
+    "item:chemica:unfinished_advanced_circuit_board",
+    "item:chemica:unfinished_electronic_circuit_board",
+    "item:chemica:unfinished_tantalum_capacitor",
+    "item:chemica:unfinished_reinforced_iridium_plate",
+    "item:chemica:unfinished_conductive_paste"
+  ]
+}
