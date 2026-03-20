@@ -3,7 +3,7 @@ BlockEvents.randomTick('minecraft:spruce_sapling', event => {
   if (!event.level.getBiome(event.block.getPos()).isTag('gearfall:biomes/cold')) event.cancel()
 })
 BlockEvents.randomTick('minecraft:birch_sapling', event => {
-  if (!event.level.getBiome(event.block.getPos()).isTag('gearfall:biomes/brich')) event.cancel()
+  if (!event.level.getBiome(event.block.getPos()).isTag('gearfall:biomes/birch')) event.cancel()
 })
 BlockEvents.randomTick('minecraft:jungle_sapling', event => {
   if (!event.level.getBiome(event.block.getPos()).isTag('gearfall:biomes/jungle')) event.cancel()
@@ -12,7 +12,7 @@ BlockEvents.randomTick('minecraft:acacia_sapling', event => {
   if (!event.level.getBiome(event.block.getPos()).isTag('gearfall:biomes/savanna')) event.cancel()
 })
 BlockEvents.randomTick('minecraft:dark_oak_sapling', event => {
-  if (!event.level.getBiome(event.block.getPos()).isTag('gearfall:biomes/dark_forest')) event.cancel()
+  if (!event.level.getBiome(event.block.getPos()).isTag('gearfall:biomes/dark_oak')) event.cancel()
 })
 BlockEvents.randomTick('minecraft:cherry_sapling', event => {
   if (!event.level.getBiome(event.block.getPos()).isTag('gearfall:biomes/cherry')) event.cancel()
