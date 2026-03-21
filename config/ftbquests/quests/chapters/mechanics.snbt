@@ -62,6 +62,7 @@
 			icon: {
 				id: "create:mechanical_press"
 			}
+			icon_scale: 0.9d
 			id: "4632BE033D180212"
 			rewards: [
 				{
@@ -85,6 +86,7 @@
 					type: "item"
 				}
 			]
+			shape: "gear"
 			size: 1.2d
 			tasks: [
 				{
@@ -285,13 +287,10 @@
 			icon_scale: 0.9d
 			id: "7DF7C19B39DB7189"
 			rewards: [{
-				id: "603C2F48855DAAFC"
+				id: "48420761D2BD00E0"
 				item: {
-					components: {
-						"ftbquests:missing_item": "numismatics:bevel"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "numismatics:bevel"
 				}
 				type: "item"
 			}]
@@ -540,6 +539,9 @@
 		}
 		{
 			dependencies: ["35FAF88A718D3797"]
+			icon: {
+				id: "create:controls"
+			}
 			id: "07EBF6DADD923BE5"
 			tasks: [
 				{
@@ -570,6 +572,9 @@
 		}
 		{
 			dependencies: ["35FAF88A718D3797"]
+			icon: {
+				id: "create:track_signal"
+			}
 			id: "10560A6DCDC938EC"
 			tasks: [
 				{
@@ -708,39 +713,15 @@
 			]
 			hide_until_deps_complete: true
 			id: "3710C3541E214362"
-			rewards: [
-				{
-					id: "38EAB2AEEE199742"
-					item: {
-						components: {
-							"ftbquests:missing_item": "create_sa:heap_of_experience"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-				{
-					id: "0FF27094443B9A96"
-					item: {
-						components: {
-							"ftbquests:missing_item": "numismatics:spur"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-			]
 			tasks: [
 				{
-					id: "2FA6332050284329"
-					item: { components: { "ftbquests:missing_item": "create_mobile_packages:bee_port" }, count: 1, id: "ftbquests:missing_item" }
+					id: "606C2443C9706D21"
+					item: { count: 1, id: "cmpackagecouriers:cardboard_plane_parts" }
 					type: "item"
 				}
 				{
-					id: "1601D322807402B5"
-					item: { components: { "ftbquests:missing_item": "create_mobile_packages:portable_stock_ticker" }, count: 1, id: "ftbquests:missing_item" }
+					id: "05621A476850646A"
+					item: { count: 1, id: "cmpackagecouriers:cardboard_plane" }
 					type: "item"
 				}
 			]
@@ -804,7 +785,10 @@
 		}
 		{
 			dependencies: ["5A51DA39CF33F2C9"]
-			icon_scale: 1.1d
+			icon: {
+				id: "create:cardboard_helmet"
+			}
+			icon_scale: 1.4d
 			id: "56055D9886B51802"
 			optional: true
 			shape: "square"
@@ -1096,6 +1080,35 @@
 			}]
 			x: 10.5d
 			y: 4.5d
+		}
+		{
+			dependencies: ["3710C3541E214362"]
+			icon_scale: 1.5d
+			id: "219BA28F2304198D"
+			optional: true
+			shape: "square"
+			size: 0.75d
+			tasks: [{
+				id: "372604B0026C815F"
+				item: { count: 1, id: "cmpackagecouriers:location_transmitter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -7.125d
+		}
+		{
+			dependencies: ["0603CB7BA17DDE22"]
+			icon_scale: 1.4d
+			id: "600AA019D9A22829"
+			shape: "square"
+			size: 0.75d
+			tasks: [{
+				id: "4913E829ABB8160C"
+				item: { count: 1, id: "cmpackagecouriers:portable_stock_ticker" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -7.125d
 		}
 	]
 }

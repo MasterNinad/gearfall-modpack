@@ -48,13 +48,98 @@
 		}
 		{
 			id: "3FBAE2BB5F26AFDF"
-			invisible: true
 			tasks: [{
 				id: "565AA67204993040"
 				type: "checkmark"
 			}]
 			x: -1.0d
 			y: -3.0d
+		}
+		{
+			dependencies: ["3FBAE2BB5F26AFDF"]
+			id: "5A0322CB531DCC28"
+			tasks: [
+				{
+					biome: "alexscaves:abyssal_chasm"
+					icon: {
+						components: {
+							"minecraft:custom_data": {
+								CaveBiome: "alexscaves:abyssal_chasm"
+							}
+						}
+						id: "alexscaves:cave_tablet"
+					}
+					id: "7C0E8B9A8D27A0D6"
+					type: "biome"
+				}
+				{
+					biome: "alexscaves:candy_cavity"
+					icon: {
+						components: {
+							"minecraft:custom_data": {
+								CaveBiome: "alexscaves:candy_cavity"
+							}
+						}
+						id: "alexscaves:cave_tablet"
+					}
+					id: "31992D4C16BC658E"
+					type: "biome"
+				}
+				{
+					biome: "alexscaves:forlorn_hollows"
+					icon: {
+						components: {
+							"minecraft:custom_data": {
+								CaveBiome: "alexscaves:magnetic_caves"
+							}
+						}
+						id: "alexscaves:cave_tablet"
+					}
+					id: "1C8EE46F1FC90295"
+					type: "biome"
+				}
+				{
+					biome: "alexscaves:magnetic_caves"
+					icon: {
+						components: {
+							"minecraft:custom_data": {
+								CaveBiome: "alexscaves:primordial_caves"
+							}
+						}
+						id: "alexscaves:cave_tablet"
+					}
+					id: "297C95D1D2AF2D4C"
+					type: "biome"
+				}
+				{
+					biome: "alexscaves:primordial_caves"
+					icon: {
+						components: {
+							"minecraft:custom_data": {
+								CaveBiome: "alexscaves:toxic_caves"
+							}
+						}
+						id: "alexscaves:cave_tablet"
+					}
+					id: "5B9E4167887BEDD5"
+					type: "biome"
+				}
+				{
+					biome: "alexscaves:toxic_caves"
+					icon: {
+						components: {
+							"minecraft:custom_data": {
+								CaveBiome: "alexscaves:forlorn_hollows"
+							}
+						}
+						id: "alexscaves:cave_tablet"
+					}
+					id: "0D4C3A4DB797CE5F"
+					type: "biome"
+				}
+			]
+			x: -1.0d
+			y: -4.5d
 		}
 	]
 }

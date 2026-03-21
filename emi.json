@@ -1,4 +1,35 @@
 {
+  "favorites": [],
+  "lookup_history": [
+    "item:alexscaves:amber_curiosity",
+    "item:alexscaves:ominous_catalyst",
+    "item:create_connected:fan_seething_catalyst",
+    "item:colorful_catalysts:fan_dyeing_light_gray_catalyst",
+    "item:create_connected:fan_haunting_catalyst",
+    "item:colorful_catalysts:fan_dyeing_green_catalyst",
+    "item:create_connected:fan_freezing_catalyst",
+    "item:colorful_catalysts:fan_dyeing_white_catalyst",
+    "item:dndesires:burner",
+    "item:dndesires:seething_sail",
+    "item:dndesires:blasting_sail",
+    "item:dndesires:smoking_sail",
+    "item:dndesires:haunting_sail",
+    "item:dndesires:splashing_sail",
+    "item:ae2:cable_anchor",
+    "item:create_connected:fan_smoking_catalyst",
+    "item:colorful_catalysts:fan_dyeing_cyan_catalyst",
+    "item:cmpackagecouriers:location_transmitter",
+    "item:cmpackagecouriers:portable_stock_ticker",
+    "item:cmpackagecouriers:cardboard_plane",
+    "item:cmpackagecouriers:cardboard_plane_parts"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
   "hidden_stacks": [
     "item:chemica:biodiesel_engine_cylinder",
     "item:chemica:ethanol_engine_cylinder",

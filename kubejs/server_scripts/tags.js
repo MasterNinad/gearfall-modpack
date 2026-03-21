@@ -105,4 +105,20 @@ ServerEvents.tags("item", (event) => {
   plates.forEach((plate) => {
     event.add("c:plates", plate);
   });
+
+  const fan_catalysts = [
+    "create_connected:fan_ending_catalyst_dragon_head",
+    "create_connected:fan_ending_catalyst_dragons_breath",
+    "create_connected:fan_sanding_catalyst",
+    "create_connected:fan_freezing_catalyst",
+    "create_connected:fan_seething_catalyst",
+    "create_connected:fan_haunting_catalyst",
+    "create_connected:fan_splashing_catalyst",
+    "create_connected:fan_smoking_catalyst",
+    "create_connected:fan_blasting_catalyst",
+    "create_connected:empty_fan_catalyst",
+  ].concat(event.get("colorful_catalysts:dyed_catalysts").getObjectIds());
+  fan_catalysts.forEach((fan_catalyst) => {
+    event.add("gearfall:fan_catalysts", fan_catalyst);
+  });
 });
