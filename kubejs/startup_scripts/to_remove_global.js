@@ -27,6 +27,24 @@ global.itemsToRemove = [
   "northstar:liquid_hydrogen_bucket",
   "northstar:hydrocarbon_bucket",
   "northstar:titanium_tetrachloride_bucket",
+
+  //Create Dreams and Desires: Items
+  "dndesires:splashing_sail",
+  "dndesires:haunting_sail",
+  "dndesires:smoking_sail",
+  "dndesires:blasting_sail",
+  "dndesires:seething_sail",
+  "dndesires:freezing_sail",
+  "dndesires:sanding_sail",
+  "dndesires:dragon_breathing_sail",
+
+  //Create Broken Bad: Items
+  "createbb:cyanide",
+  "createbb:nitrogen",
+
+  //Create Broken Bad: Buckets of Fluids
+  "createbb:oxygen_bucket",
+  "createbb:ammonia_bucket",
 ].concat(replaceOld);
 
 global.fluidsToRemove = [
@@ -43,6 +61,10 @@ global.fluidsToRemove = [
   "northstar:chlorine",
   "northstar:oxygen",
   "northstar:hydrogen",
+
+  //Create Broken Bad: Fluids
+  "createbb:oxygen",
+  "createbb:ammonia",
 ];
 
 global.recipesToRemove = [
@@ -65,11 +87,19 @@ global.recipesToRemove = [
   "northstar:crafting/iron_cogwheel",
   "northstar:mechanical_crafting/electrolysis_machine",
   "northstar:sequenced_assembly/hardened_precision_mechanism",
+
+  //Create Connected: Recipes
+  "create_connected:item_application/seething_catalyst_from_empty_using_deployer",
 ];
 
 //Remove items from creative tabs, including search tab (this is brute force approach, every item is checked for every tab, but it works :)
-const tabs = ["northstar:items", "northstar:tech", "minecraft:search"];
-
+const tabs = [
+  "northstar:items",
+  "northstar:tech",
+  "minecraft:search",
+  "dndesires:base_tab",
+  "createbb:createbb",
+];
 tabs.forEach((tab) => {
   StartupEvents.modifyCreativeTab(tab, (event) => {
     for (const id of global.itemsToRemove) {

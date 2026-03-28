@@ -2,6 +2,7 @@ ServerEvents.recipes((event) => {
   //Remove all default extruding recipes
   event.remove({ type: "create_mechanical_extruder:extruding" });
 
+  //Vent related recipes
   const materials = [
     ["asurine", "create:asurine", "gearfall:biomes/cold"],
     ["bauxite", "tfmg:bauxite", "gearfall:biomes/mountain"],
@@ -58,4 +59,13 @@ ServerEvents.recipes((event) => {
     ["minecraft:chipped_anvil"],
     ["minecraft:damaged_anvil", "minecraft:iron_block"],
   ).id("gearfall:recipes/repairing_damaged_anvil");
+
+  //Added new recipe for Seething Fan Catalyst, since the original one is removed in to_remove_global.js
+  event
+    .shaped("create_connected:fan_seething_catalyst", ["A", "B", "C"], {
+      A: "create:blaze_cake",
+      B: "dndesires:burner",
+      C: "create_connected:empty_fan_catalyst",
+    })
+    .id("create_connected:fan_seething_catalyst");
 });

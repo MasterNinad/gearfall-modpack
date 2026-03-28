@@ -17,11 +17,7 @@ shaderpacks/**
 /minecraftinstance.json
 /usercache.json
 /usernamecache.json
-.probe
 /kubejs/README.txt
-/kubejs/client_scripts/jsconfig.json
-/kubejs/server_scripts/jsconfig.json
-/kubejs/startup_scripts/jsconfig.json
 /kubejs/config/**
 debug/**
 fancymenu_data/**

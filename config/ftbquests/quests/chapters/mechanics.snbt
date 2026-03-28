@@ -183,6 +183,7 @@
 		}
 		{
 			dependencies: ["1CD398ECD86F41AB"]
+			hide_until_deps_complete: true
 			icon: {
 				id: "create:brass_ingot"
 			}
@@ -196,7 +197,7 @@
 				}
 				type: "item"
 			}]
-			shape: "diamond"
+			shape: "gear"
 			size: 1.2d
 			tasks: [
 				{
@@ -381,7 +382,7 @@
 				}
 				type: "item"
 			}]
-			shape: "diamond"
+			shape: "gear"
 			size: 1.2d
 			tasks: [{
 				count: 8L
@@ -394,7 +395,9 @@
 		}
 		{
 			dependencies: ["7DF7C19B39DB7189"]
+			hide_until_deps_complete: true
 			id: "7D2AF1B6687C4E4F"
+			shape: "rsquare"
 			tasks: [{
 				id: "24250C33615FA202"
 				item: { count: 1, id: "create:mechanical_arm" }
@@ -408,7 +411,10 @@
 				"0603CB7BA17DDE22"
 				"7DF7C19B39DB7189"
 			]
+			hide_until_deps_complete: true
+			icon_scale: 1.2d
 			id: "0AE3C9B45544091F"
+			shape: "rsquare"
 			tasks: [{
 				id: "2D6B3548FAA33431"
 				item: { count: 1, id: "create:factory_gauge" }
@@ -433,7 +439,12 @@
 		{
 			dependencies: ["1A35EFF3FFBFD320"]
 			hide_until_deps_complete: true
+			icon: {
+				id: "create:stock_ticker"
+			}
 			id: "0603CB7BA17DDE22"
+			shape: "diamond"
+			size: 1.2d
 			tasks: [
 				{
 					count: 2L
@@ -453,6 +464,9 @@
 		{
 			dependencies: ["4632BE033D180212"]
 			hide_until_deps_complete: true
+			icon: {
+				id: "create:mechanical_pump"
+			}
 			id: "780AB3C8424675B3"
 			tasks: [
 				{
@@ -473,6 +487,9 @@
 		}
 		{
 			dependencies: ["780AB3C8424675B3"]
+			icon: {
+				id: "create:spout"
+			}
 			id: "4A66349662612F04"
 			tasks: [
 				{
@@ -539,10 +556,12 @@
 		}
 		{
 			dependencies: ["35FAF88A718D3797"]
+			hide_until_deps_complete: true
 			icon: {
 				id: "create:controls"
 			}
 			id: "07EBF6DADD923BE5"
+			shape: "rsquare"
 			tasks: [
 				{
 					count: 2L
@@ -561,7 +580,9 @@
 		}
 		{
 			dependencies: ["7DF7C19B39DB7189"]
+			hide_until_deps_complete: true
 			id: "1AF8E503897CDE4C"
+			shape: "rsquare"
 			tasks: [{
 				id: "2B234ED85F73FB4C"
 				item: { count: 1, id: "create:rotation_speed_controller" }
@@ -572,10 +593,12 @@
 		}
 		{
 			dependencies: ["35FAF88A718D3797"]
+			hide_until_deps_complete: true
 			icon: {
 				id: "create:track_signal"
 			}
 			id: "10560A6DCDC938EC"
+			shape: "rsquare"
 			tasks: [
 				{
 					count: 4L
@@ -595,7 +618,9 @@
 		}
 		{
 			dependencies: ["35FAF88A718D3797"]
+			hide_until_deps_complete: true
 			id: "3EDDCFE1864C36AE"
+			shape: "rsquare"
 			tasks: [{
 				count: 64L
 				id: "4EAF9172B641ED5A"
@@ -608,19 +633,10 @@
 		{
 			dependencies: ["3553EC3AC10A0583"]
 			hide_until_deps_complete: true
+			icon: {
+				id: "create_hypertube:hypertube_entrance"
+			}
 			id: "6A277BB7B3E8F6E6"
-			rewards: [{
-				count: 2
-				id: "3EBF3CD02697BCA3"
-				item: {
-					components: {
-						"ftbquests:missing_item": "farmersdelight:apple_pie"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
 			tasks: [
 				{
 					count: 2L
@@ -640,6 +656,9 @@
 		}
 		{
 			dependencies: ["5A51DA39CF33F2C9"]
+			icon: {
+				id: "create:packager"
+			}
 			id: "05E0B29BA4268A4C"
 			rewards: [
 				{
@@ -731,6 +750,9 @@
 		{
 			dependencies: ["0DA1533418D076E2"]
 			hide_until_deps_complete: true
+			icon: {
+				id: "create:display_board"
+			}
 			icon_scale: 1.1d
 			id: "11048939DC7E9E94"
 			optional: true
@@ -754,8 +776,10 @@
 		}
 		{
 			dependencies: ["7DF7C19B39DB7189"]
+			hide_until_deps_complete: true
 			id: "482D5693849B720C"
 			optional: true
+			shape: "rsquare"
 			tasks: [{
 				id: "6D26D9811BE8CF4A"
 				item: { count: 1, id: "create:wand_of_symmetry" }
@@ -766,8 +790,10 @@
 		}
 		{
 			dependencies: ["7DF7C19B39DB7189"]
+			hide_until_deps_complete: true
 			id: "1430433E2F757339"
 			optional: true
+			shape: "rsquare"
 			tasks: [
 				{
 					id: "250F61866577FE69"
@@ -836,6 +862,7 @@
 				}
 				type: "item"
 			}]
+			shape: "rsquare"
 			tasks: [
 				{
 					count: 2L
@@ -865,6 +892,7 @@
 				}
 				type: "item"
 			}]
+			shape: "rsquare"
 			tasks: [{
 				id: "2DC5DE8FD8CD626C"
 				item: { count: 1, id: "create_enchantment_industry:printer" }
@@ -895,6 +923,7 @@
 					type: "item"
 				}
 			]
+			shape: "rsquare"
 			tasks: [
 				{
 					id: "6AFA09ABEA69470A"
@@ -944,6 +973,7 @@
 					type: "item"
 				}
 			]
+			shape: "rsquare"
 			tasks: [{
 				id: "11991807BAC5C14C"
 				item: { count: 1, id: "numismatics:banking_guide" }
@@ -1000,6 +1030,7 @@
 				}
 				type: "item"
 			}]
+			shape: "rsquare"
 			tasks: [{
 				count: 64L
 				id: "27E3CF7995071E6C"
@@ -1020,6 +1051,7 @@
 				}
 				type: "item"
 			}]
+			shape: "rsquare"
 			tasks: [{
 				count: 64L
 				id: "1CA861978017B60B"
@@ -1040,6 +1072,7 @@
 				}
 				type: "item"
 			}]
+			shape: "rsquare"
 			tasks: [{
 				count: 64L
 				id: "5FF51814815701F9"
@@ -1060,6 +1093,7 @@
 				}
 				type: "item"
 			}]
+			shape: "rsquare"
 			tasks: [{
 				count: 64L
 				id: "6899C7EEFF59AEC5"
@@ -1072,6 +1106,7 @@
 		{
 			dependencies: ["49D7B55CB46B6554"]
 			id: "7164E26C74EC6BE0"
+			shape: "rsquare"
 			tasks: [{
 				count: 64L
 				id: "655E103651A7C287"
@@ -1109,6 +1144,20 @@
 			}]
 			x: 3.0d
 			y: -7.125d
+		}
+		{
+			dependencies: ["6A277BB7B3E8F6E6"]
+			id: "075A898B67077AFB"
+			optional: true
+			shape: "square"
+			size: 0.75d
+			tasks: [{
+				id: "6A41396AFD23E5CC"
+				item: { count: 1, id: "create_hypertube:hypertube_accelerator" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -1.5d
 		}
 	]
 }

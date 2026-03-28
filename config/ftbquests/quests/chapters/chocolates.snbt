@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "chocolates"
 	group: "7BEB7F9AC015517F"
+	icon: {
+		id: "create_confectionery:full_chocolate_bar"
+	}
 	id: "0F7E4A0FFEB87E8B"
 	order_index: 0
 	quest_links: [ ]
@@ -14,18 +17,66 @@
 				item: { count: 1, id: "create_confectionery:gingerdough" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: -2.0d
+			x: -4.0d
+			y: 2.5d
 		}
 		{
 			id: "0584FA3F3046F1B3"
+			shape: "hexagon"
+			size: 1.2d
 			tasks: [{
 				id: "1F500E9739B52091"
 				item: { count: 1, id: "minecraft:cocoa_beans" }
 				type: "item"
 			}]
-			x: 0.5d
-			y: -2.0d
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			hide_until_deps_complete: true
+			id: "7FEAEA0D3164DDD2"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				id: "44CD72FF8CC7D35A"
+				item: { count: 1, id: "minecraft:sugar" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7FEAEA0D3164DDD2"]
+			id: "15CEA108E53C2CBF"
+			tasks: [{
+				id: "000B7BFE39F2D3FC"
+				item: { count: 1, id: "create_confectionery:caramel_bucket" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["15CEA108E53C2CBF"]
+			id: "6B1678ABAC11E663"
+			tasks: [{
+				id: "446C985E37285E8F"
+				item: { count: 1, id: "create_confectionery:bar_of_caramel" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0584FA3F3046F1B3"]
+			id: "23AB4A043EA26A1F"
+			tasks: [{
+				id: "77E0955BF500FD7B"
+				item: { count: 1, id: "create_confectionery:crushed_cocoa" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
 		}
 	]
 }

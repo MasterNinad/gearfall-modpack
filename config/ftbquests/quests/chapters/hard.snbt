@@ -4,13 +4,19 @@
 	filename: "hard"
 	group: "4B02E25C49434376"
 	hide_text_until_complete: true
+	icon: {
+		id: "alexscaves:cave_book"
+	}
 	id: "0B1FC6C70E8DA81A"
 	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
 			dependencies: ["3FBAE2BB5F26AFDF"]
+			icon_scale: 0.9d
 			id: "2C11A2FD7D162DEB"
+			shape: "octagon"
+			size: 1.2d
 			tasks: [
 				{
 					id: "1680372B8B4A621B"
@@ -48,6 +54,8 @@
 		}
 		{
 			id: "3FBAE2BB5F26AFDF"
+			shape: "hexagon"
+			size: 1.2d
 			tasks: [{
 				id: "565AA67204993040"
 				type: "checkmark"
@@ -57,7 +65,13 @@
 		}
 		{
 			dependencies: ["3FBAE2BB5F26AFDF"]
+			icon: {
+				id: "alexscaves:cave_book"
+			}
+			icon_scale: 0.9d
 			id: "5A0322CB531DCC28"
+			shape: "octagon"
+			size: 1.2d
 			tasks: [
 				{
 					biome: "alexscaves:abyssal_chasm"

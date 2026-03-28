@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "applied_chemistry"
 	group: "25496DD32B21B1D6"
+	icon: {
+		id: "chemica:salt"
+	}
 	id: "6FBC9E81B1F15829"
 	order_index: 0
 	quest_links: [ ]
@@ -234,7 +237,6 @@
 				"6515DAB2A79C3231"
 				"1978F76E226EF60F"
 			]
-			icon_scale: 0.9d
 			id: "37CECFD79DF0BF65"
 			shape: "gear"
 			size: 1.2d
@@ -383,7 +385,10 @@
 		}
 		{
 			dependencies: ["56560F12EE765C6E"]
+			icon_scale: 0.9d
 			id: "1299E880D10AE3C6"
+			shape: "diamond"
+			size: 1.2d
 			tasks: [{
 				id: "060E67F4EA5D3758"
 				item: { count: 1, id: "chemica:aromatic_mix_bucket" }
@@ -530,18 +535,11 @@
 		{
 			dependencies: ["1299E880D10AE3C6"]
 			id: "68C11AE4198C28D5"
-			tasks: [
-				{
-					id: "7AC454B21AB3C03F"
-					item: { count: 1, id: "chemica:ethylbenzene_bucket" }
-					type: "item"
-				}
-				{
-					id: "010BEC3D82E44CFD"
-					item: { count: 1, id: "chemica:xylene_bucket" }
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "010BEC3D82E44CFD"
+				item: { count: 1, id: "chemica:xylene_bucket" }
+				type: "item"
+			}]
 			x: -1.5d
 			y: 4.5d
 		}
@@ -607,7 +605,10 @@
 				"708CA3CF4E63C1F4"
 				"553040688148FA99"
 			]
+			icon_scale: 0.8d
 			id: "1978F76E226EF60F"
+			shape: "diamond"
+			size: 1.2d
 			tasks: [{
 				id: "1B719DA769CA2B3D"
 				item: { count: 1, id: "tfmg:transistor_item" }
@@ -627,6 +628,19 @@
 				type: "item"
 			}]
 			x: -7.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1299E880D10AE3C6"]
+			id: "6738DD6CB87F313D"
+			shape: "octagon"
+			size: 1.2d
+			tasks: [{
+				id: "56375C41A7FD6D7B"
+				item: { count: 1, id: "chemica:ethylbenzene_bucket" }
+				type: "item"
+			}]
+			x: -3.0d
 			y: 6.0d
 		}
 	]

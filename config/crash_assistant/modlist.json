@@ -158,12 +158,12 @@
     "curseForgeHash": 2871381177,
     "modrinthHash": "fa2576297c7bd12b28aa7070e8141792bd66da4c"
   },
-  "cmpackagecouriers-neoforge-2.1.0.jar": {
-    "jarName": "cmpackagecouriers-neoforge-2.1.0.jar",
+  "cmpackagecouriers-neoforge-2.2.0.jar": {
+    "jarName": "cmpackagecouriers-neoforge-2.2.0.jar",
     "modId": "cmpackagecouriers",
-    "version": "2.1.0",
-    "curseForgeHash": 2059981444,
-    "modrinthHash": "b702083f66cad14464323b6360da6ce478c1895b"
+    "version": "2.2.0",
+    "curseForgeHash": 438607325,
+    "modrinthHash": "7c97e9ae12db5b2a3b8b2aa00d58876751683f3e"
   },
   "colorful_catalysts-1.2.3.jar": {
     "jarName": "colorful_catalysts-1.2.3.jar",
@@ -186,12 +186,12 @@
     "curseForgeHash": 3112677890,
     "modrinthHash": "6a11d5806bcf521e08faba1ee6ef5f31af55ca0f"
   },
-  "coroutil-neoforge-1.21.0-1.3.8.jar": {
-    "jarName": "coroutil-neoforge-1.21.0-1.3.8.jar",
+  "coroutil-neoforge-1.21.0-1.3.9.jar": {
+    "jarName": "coroutil-neoforge-1.21.0-1.3.9.jar",
     "modId": "coroutil",
-    "version": "1.21.0-1.3.8",
-    "curseForgeHash": 3962119445,
-    "modrinthHash": "b044c51d00d60b5645a0c0890812935cd933555f"
+    "version": "1.21.0-1.3.9",
+    "curseForgeHash": 2308153348,
+    "modrinthHash": "0f5a6309ce8394721b97740e6f3e45665f13b8de"
   },
   "corpse-neoforge-1.21.1-1.1.13.jar": {
     "jarName": "corpse-neoforge-1.21.1-1.1.13.jar",
@@ -319,12 +319,12 @@
     "curseForgeHash": 2147536722,
     "modrinthHash": "aa5da2269d02e8bb1c1abc260af242b09ceae5ea"
   },
-  "create_ltab-3.8.2.jar": {
-    "jarName": "create_ltab-3.8.2.jar",
+  "create_ltab-3.8.3.jar": {
+    "jarName": "create_ltab-3.8.3.jar",
     "modId": "create_ltab",
     "version": "3.8.2",
-    "curseForgeHash": 3198817554,
-    "modrinthHash": "b0c9e204c224ab684f93fe037aea7ba25b3ad6f6"
+    "curseForgeHash": 10349766,
+    "modrinthHash": "66f70977e01af4b4338362c4fe89e1341840664d"
   },
   "create_mechanical_extruder-1.21.1-2.2.0-6.0.8.jar": {
     "jarName": "create_mechanical_extruder-1.21.1-2.2.0-6.0.8.jar",
@@ -368,12 +368,12 @@
     "curseForgeHash": 602215958,
     "modrinthHash": "050fa78283731de06e8a4046da5d99bc7466d093"
   },
-  "createbb-1.1.3.jar": {
-    "jarName": "createbb-1.1.3.jar",
+  "createbb-4.0.1.jar": {
+    "jarName": "createbb-4.0.1.jar",
     "modId": "createbb",
-    "version": "1.1.3",
-    "curseForgeHash": 3947167387,
-    "modrinthHash": "152951572b3f1fe1c12dff23c17dd84fe73c513b"
+    "version": "4.0.1",
+    "curseForgeHash": 3377851023,
+    "modrinthHash": "b74612ae3325fb5bdf75c74fe13e16d86fbaa1a8"
   },
   "createbetterfps-1.21.1-1.1.3.jar": {
     "jarName": "createbetterfps-1.21.1-1.1.3.jar",
@@ -707,12 +707,12 @@
     "curseForgeHash": 3830429501,
     "modrinthHash": "97cfa1b8ecc663763101e87390ae7830ca425723"
   },
-  "moonlight-1.21-2.29.20-neoforge.jar": {
-    "jarName": "moonlight-1.21-2.29.20-neoforge.jar",
+  "moonlight-1.21-2.29.21-neoforge.jar": {
+    "jarName": "moonlight-1.21-2.29.21-neoforge.jar",
     "modId": "moonlight",
     "version": "1.21-2.29.20",
-    "curseForgeHash": 2950806711,
-    "modrinthHash": "99f9973f69460a772a4e8beccb9ca3f69e0a1291"
+    "curseForgeHash": 3386553937,
+    "modrinthHash": "ce1af003066170ad6528a94244bc596eee90c3b8"
   },
   "moreculling-neoforge-1.21.1-1.0.7.jar": {
     "jarName": "moreculling-neoforge-1.21.1-1.0.7.jar",
@@ -861,19 +861,19 @@
     "curseForgeHash": 2555194351,
     "modrinthHash": "51851c61e8be5b799b5ad8aa109b3416509605b7"
   },
-  "sophisticatedcore-1.21.1-1.4.10.1531.jar": {
-    "jarName": "sophisticatedcore-1.21.1-1.4.10.1531.jar",
+  "sophisticatedcore-1.21.1-1.4.11.1553.jar": {
+    "jarName": "sophisticatedcore-1.21.1-1.4.11.1553.jar",
     "modId": "sophisticatedcore",
-    "version": "1.4.10",
-    "curseForgeHash": 192293355,
-    "modrinthHash": "7d860764d5f4b22907d918bc95a61b6291c7f3dd"
+    "version": "1.4.11",
+    "curseForgeHash": 4020107401,
+    "modrinthHash": "5de17c4f6826484aeacbeff3d20941ffe476b2d3"
   },
-  "sophisticatedinventoryinteractions-1.21.1-0.1.0.2.jar": {
-    "jarName": "sophisticatedinventoryinteractions-1.21.1-0.1.0.2.jar",
+  "sophisticatedinventoryinteractions-1.21.1-0.1.2.23.jar": {
+    "jarName": "sophisticatedinventoryinteractions-1.21.1-0.1.2.23.jar",
     "modId": "sophisticatedinventoryinteractions",
-    "version": "0.1.0",
-    "curseForgeHash": 1012550994,
-    "modrinthHash": "a632e198f16e30fff9c88a7f2134ebcce63362ea"
+    "version": "0.1.2",
+    "curseForgeHash": 2851578984,
+    "modrinthHash": "51fa0bde88dfb2a2e0ce5e1ac3fac0923999632e"
   },
   "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar": {
     "jarName": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",

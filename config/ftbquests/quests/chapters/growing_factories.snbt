@@ -322,6 +322,7 @@
 		{
 			dependencies: ["6AF54F43C8E864D0"]
 			id: "65A821AE854DA808"
+			shape: "rsquare"
 			tasks: [{
 				id: "00EE20E31D00CC7C"
 				item: { count: 1, id: "tfmg:diesel_bucket" }
@@ -333,6 +334,7 @@
 		{
 			dependencies: ["6AF54F43C8E864D0"]
 			id: "7BC263A7E11C27E2"
+			shape: "rsquare"
 			tasks: [{
 				id: "7CF63313B171B561"
 				item: { count: 1, id: "tfmg:kerosene_bucket" }
@@ -435,6 +437,7 @@
 		{
 			dependencies: ["6AF54F43C8E864D0"]
 			id: "1FC5269EF624AF49"
+			shape: "rsquare"
 			tasks: [{
 				id: "7716D32FD6592C05"
 				item: { count: 1, id: "tfmg:lpg_bucket" }
@@ -461,6 +464,7 @@
 				"5A1C620EB361C929"
 			]
 			id: "03B57564B97A0196"
+			shape: "rsquare"
 			tasks: [{
 				count: 2L
 				id: "7B8041487EAA685E"
@@ -563,6 +567,7 @@
 		{
 			dependencies: ["0B9E2D52A3BDE69F"]
 			id: "3642B45DA6DFA43F"
+			shape: "rsquare"
 			tasks: [{
 				id: "6986CCCBFDCBA2CA"
 				item: { count: 1, id: "tfmg:napalm_potato" }
@@ -660,6 +665,9 @@
 		}
 		{
 			dependencies: ["7A2CACFB8DC43E10"]
+			icon: {
+				id: "tfmg:air_intake"
+			}
 			id: "01EABF1FDD93FFA1"
 			tasks: [
 				{
@@ -698,6 +706,7 @@
 				"6B795B8122C860B0"
 			]
 			id: "2A153AE4453C58DD"
+			shape: "rsquare"
 			tasks: [{
 				id: "7D1F9E015EAFFF0B"
 				item: { count: 1, id: "tfmg:polarizer" }
@@ -779,8 +788,8 @@
 		{
 			dependencies: ["7BA3563BB3790CE0"]
 			id: "1FAED9AC793B4310"
-			shape: "rsquare"
-			size: 1.1d
+			shape: "octagon"
+			size: 1.2d
 			tasks: [{
 				id: "2D76339AFF78F193"
 				type: "checkmark"

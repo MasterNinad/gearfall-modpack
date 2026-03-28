@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "interstellar"
 	group: "25496DD32B21B1D6"
+	icon: {
+		id: "northstar:telescope"
+	}
 	id: "2FFC34812D49E435"
 	order_index: 1
 	quest_links: [ ]
@@ -62,6 +65,9 @@
 				"1A111B1E6048FE15"
 				"01A151CBA90BD2BB"
 			]
+			icon: {
+				id: "northstar:rocket_controls"
+			}
 			id: "3E0EFD48A312717E"
 			tasks: [
 				{
@@ -176,7 +182,9 @@
 				"1A111B1E6048FE15"
 				"66EA9F68E57EB111"
 			]
+			icon_scale: 0.9d
 			id: "3B3E366066B840CE"
+			shape: "rsquare"
 			tasks: [{
 				id: "7798DEF0551FB314"
 				item: { count: 1, id: "northstar:atmospheric_concentrator" }
@@ -188,6 +196,7 @@
 		{
 			dependencies: ["3E0EFD48A312717E"]
 			id: "0AA29EEEAC3855DB"
+			shape: "rsquare"
 			tasks: [{
 				id: "7FCC83F46A732E6B"
 				item: { count: 1, id: "northstar:auto_lander" }
@@ -203,6 +212,7 @@
 				"66EA9F68E57EB111"
 			]
 			id: "78B3A923B568788A"
+			shape: "rsquare"
 			tasks: [{
 				id: "2B5FBE639274DB22"
 				item: { count: 1, id: "northstar:oxygen_sealer" }
@@ -215,13 +225,15 @@
 			dependencies: ["0449AC68C77AFF61"]
 			id: "5C1183CCE5FE61A2"
 			optional: true
+			shape: "square"
+			size: 0.75d
 			tasks: [{
 				id: "3533F23E9BB03F0D"
 				item: { count: 1, id: "northstar:computer_rack" }
 				type: "item"
 			}]
 			x: 4.5d
-			y: -6.0d
+			y: -5.5d
 		}
 	]
 }
