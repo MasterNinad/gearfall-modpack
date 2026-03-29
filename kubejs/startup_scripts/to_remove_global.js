@@ -41,10 +41,15 @@ global.itemsToRemove = [
   //Create Broken Bad: Items
   "createbb:cyanide",
   "createbb:nitrogen",
+  "createbb:brine",
+  "createbb:crushed_copper",
+  "createbb:crushed_zinc",
+  "createbb:copper_zinc_catalyst",
 
   //Create Broken Bad: Buckets of Fluids
   "createbb:oxygen_bucket",
   "createbb:ammonia_bucket",
+  "createbb:hydrogen_bucket",
 ].concat(replaceOld);
 
 global.fluidsToRemove = [
@@ -65,6 +70,7 @@ global.fluidsToRemove = [
   //Create Broken Bad: Fluids
   "createbb:oxygen",
   "createbb:ammonia",
+  "createbb:hydrogen",
 ];
 
 global.recipesToRemove = [

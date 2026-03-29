@@ -90,4 +90,17 @@ ServerEvents.recipes((event) => {
       "minecraft:bucket",
     ])
     .id("chemica:filling/syngas_bucket");
+  
+  //Iodine recipe
+  event.recipes.create
+    .mixing(
+      [
+        "createbb:iodine",
+      ],
+      [
+        Fluid.of("chemica:brine", 100),
+      ],
+    )
+    .heated()
+    .id("createbb:phase1/iodine");
 });

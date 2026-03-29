@@ -7,6 +7,14 @@
 		id: "create_confectionery:full_chocolate_bar"
 	}
 	id: "0F7E4A0FFEB87E8B"
+	images: [{
+		height: 1.5d
+		image: "kubejs:textures/quests/chocolates_title.png"
+		rotation: 0.0d
+		width: 10.0d
+		x: 0.5d
+		y: -3.5d
+	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [

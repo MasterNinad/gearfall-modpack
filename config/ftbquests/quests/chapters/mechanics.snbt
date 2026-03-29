@@ -4,9 +4,17 @@
 	filename: "mechanics"
 	group: "597304061B9A21AD"
 	icon: {
-		id: "create:brass_casing"
+		id: "create:andesite_casing"
 	}
 	id: "6E53628EF239179C"
+	images: [{
+		height: 1.5d
+		image: "kubejs:textures/quests/mechanics_title.png"
+		rotation: 0.0d
+		width: 9.5d
+		x: 7.5d
+		y: -9.0d
+	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -539,6 +547,7 @@
 				}
 				type: "item"
 			}]
+			shape: "rsquare"
 			tasks: [
 				{
 					id: "778EBBCFE49DDBC0"
@@ -771,8 +780,8 @@
 					type: "item"
 				}
 			]
-			x: 6.0d
-			y: -1.125d
+			x: 5.25d
+			y: 0.75d
 		}
 		{
 			dependencies: ["7DF7C19B39DB7189"]
@@ -998,6 +1007,7 @@
 			dependencies: ["4632BE033D180212"]
 			hide_until_deps_complete: true
 			id: "3FF8FA71543A3941"
+			shape: "rsquare"
 			tasks: [{
 				id: "2758802F77B0D202"
 				item: { count: 1, id: "create_mechanical_extruder:mechanical_extruder" }
@@ -1157,6 +1167,31 @@
 				type: "item"
 			}]
 			x: 10.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0DA1533418D076E2"]
+			hide_until_deps_complete: true
+			id: "7461D4E648BB0ECF"
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "52109952727741CB"
+					item: { count: 1, id: "create:schematicannon" }
+					type: "item"
+				}
+				{
+					id: "3878EF2E8FCFEA91"
+					item: { count: 1, id: "create:schematic_table" }
+					type: "item"
+				}
+				{
+					id: "4B454E255BE42C74"
+					item: { count: 1, id: "create:empty_schematic" }
+					type: "item"
+				}
+			]
+			x: 6.0d
 			y: -1.5d
 		}
 	]

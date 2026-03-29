@@ -7,6 +7,14 @@
 		id: "chemica:salt"
 	}
 	id: "6FBC9E81B1F15829"
+	images: [{
+		height: 1.5d
+		image: "kubejs:textures/quests/applied_chemistry_title.png"
+		rotation: 0.0d
+		width: 16.0d
+		x: -2.5d
+		y: -4.0d
+	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [

@@ -7,6 +7,14 @@
 		id: "tfmg:cast_iron_ingot"
 	}
 	id: "2FAF518399FA8FAB"
+	images: [{
+		height: 1.5d
+		image: "kubejs:textures/quests/growing_factories_title.png"
+		rotation: 0.0d
+		width: 15.0d
+		x: 5.0d
+		y: -3.5d
+	}]
 	order_index: 1
 	quest_links: [ ]
 	quests: [
@@ -63,6 +71,7 @@
 		{
 			dependencies: ["677408A6032D3676"]
 			id: "3DF86CF7EE92BC4A"
+			shape: "rsquare"
 			tasks: [{
 				id: "771AF988D9F422EA"
 				item: { count: 1, id: "tfmg:exhaust" }
@@ -176,6 +185,7 @@
 		{
 			dependencies: ["7A2CACFB8DC43E10"]
 			id: "5F63DDB916B3BD8E"
+			shape: "rsquare"
 			tasks: [{
 				id: "38F2C5B7307A93CC"
 				item: { count: 1, id: "tfmg:casting_basin" }
@@ -219,7 +229,10 @@
 				"3A070973A15E1720"
 			]
 			hide_until_deps_complete: true
+			icon_scale: 0.9d
 			id: "43AA1DC3CD174E6F"
+			shape: "diamond"
+			size: 1.2d
 			tasks: [{
 				count: 4L
 				id: "0B357ABDD615155E"
@@ -682,7 +695,7 @@
 				}
 			]
 			x: 1.5d
-			y: 1.5d
+			y: 1.0d
 		}
 		{
 			dependencies: [
