@@ -1,0 +1,2461 @@
+{
+  "missingCategory": [
+    {
+      "jarName": "AchievementOptimizer-neoforge-1.21.1-2.1.0.jar",
+      "modId": "achiopt",
+      "name": "AchievementOptimizer",
+      "version": "2.1.0",
+      "curseForgeHash": 3649856519,
+      "modrinthHash": "691c4686c52c8740cba6beff392cbc3fbface5b0"
+    },
+    {
+      "jarName": "ae2jeiintegration-1.2.1.jar",
+      "modId": "ae2jeiintegration",
+      "name": "AE2 JEI Integration",
+      "version": "1.2.1",
+      "curseForgeHash": 2865319449,
+      "modrinthHash": "e99898b3e9c32bf6ac757e7ad50247746622cdfc"
+    },
+    {
+      "jarName": "ae2wtlib-19.4.1.jar",
+      "modId": "ae2wtlib",
+      "name": "AE2WTLib",
+      "version": "19.4.1",
+      "curseForgeHash": 2471661468,
+      "modrinthHash": "e5ac6b8ec0851d9fb23d92281842f1880f0979b7"
+    },
+    {
+      "jarName": "AI-Improvements-1.21-0.5.3.jar",
+      "modId": "aiimprovements",
+      "name": "AI-Improvements",
+      "version": "0.5.3",
+      "curseForgeHash": 3163557722,
+      "modrinthHash": "b4a8e11384454bcc341043b251db7fb5afdfdf45"
+    },
+    {
+      "jarName": "alexscaves-2.0.9.jar",
+      "modId": "alexscaves",
+      "name": "Alex's Caves",
+      "version": "2.0.9",
+      "curseForgeHash": 3423038551,
+      "modrinthHash": "a21b02ef825124b417a7ed8e44afd68342c00748"
+    },
+    {
+      "jarName": "alexscavesdelight-1.0.28.jar",
+      "modId": "alexscavesdelight",
+      "name": "Alex's Caves Delight",
+      "version": "1.0.28",
+      "curseForgeHash": 1318966111,
+      "modrinthHash": "ace42d4940be77372b9c41d04718f966c4a00658"
+    },
+    {
+      "jarName": "alltheleaks-1.1.7+1.21.1-neoforge.jar",
+      "modId": "alltheleaks",
+      "name": "All The Leaks",
+      "version": "1.1.7+1.21.1-neoforge",
+      "curseForgeHash": 3702505508,
+      "modrinthHash": "a36da3b274d7612f3696788434cb5a717e065d70"
+    },
+    {
+      "jarName": "amendments-1.21-2.0.15-neoforge.jar",
+      "modId": "amendments",
+      "name": "Amendments",
+      "version": "1.21-2.0.15",
+      "curseForgeHash": 1748391263,
+      "modrinthHash": "00056f29646f3bf86116b281c2362c0dabdb4533"
+    },
+    {
+      "jarName": "appliedenergistics2-19.2.17.jar",
+      "modId": "ae2",
+      "name": "Applied Energistics 2",
+      "version": "19.2.17",
+      "curseForgeHash": 581628875,
+      "modrinthHash": "49c18d6a4af487957d7e5a6ad5dcbf71090b8e14"
+    },
+    {
+      "jarName": "architectury-13.0.8-neoforge.jar",
+      "modId": "architectury",
+      "name": "Architectury",
+      "version": "13.0.8",
+      "curseForgeHash": 418634412,
+      "modrinthHash": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b"
+    },
+    {
+      "jarName": "BadOptimizations-2.4.1-1.21.1.jar",
+      "modId": "badoptimizations",
+      "name": "BadOptimizations",
+      "version": "2.4.1",
+      "curseForgeHash": 3053351722,
+      "modrinthHash": "1461d8e46391efd32a3085150e86094c9f6f5c9d"
+    },
+    {
+      "jarName": "barbequesdelight-1.2.2.jar",
+      "modId": "barbequesdelight",
+      "name": "Barbeque's Delight",
+      "version": "1.2.2",
+      "curseForgeHash": 2078529366,
+      "modrinthHash": "13d76c0c793e6a865931866735ea6aec80842f73"
+    },
+    {
+      "jarName": "carryon-neoforge-1.21.1-2.2.4.4.jar",
+      "modId": "carryon",
+      "name": "Carry On",
+      "version": "2.2.4",
+      "curseForgeHash": 4049909642,
+      "modrinthHash": "774bf57a199784c35e74f2d619d6001c87185a11"
+    },
+    {
+      "jarName": "chefsdelight-1.0.5-neoforge-1.21.1.jar",
+      "modId": "chefsdelight",
+      "name": "Chefs Delight",
+      "version": "1.0.5",
+      "curseForgeHash": 172362129,
+      "modrinthHash": "2ee0923d811a15e1d9dab536a940e4ac0143a4fa"
+    },
+    {
+      "jarName": "citadel-1.21.1-2.7.5.jar",
+      "modId": "citadel",
+      "name": "Citadel",
+      "version": "2.7.5",
+      "curseForgeHash": 1249553128,
+      "modrinthHash": "e8c3e1fdb29c0ff6eeb0c65712eee5be21d8ef94"
+    },
+    {
+      "jarName": "cloth-config-15.0.140-neoforge.jar",
+      "modId": "cloth_config",
+      "name": "Cloth Config v15 API",
+      "version": "15.0.140",
+      "curseForgeHash": 1440957232,
+      "modrinthHash": "c3e5733ba4503b102589a026000fd5ce0212f6f2"
+    },
+    {
+      "jarName": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "modId": "clumps",
+      "name": "Clumps",
+      "version": "19.0.0.1",
+      "curseForgeHash": 2871381177,
+      "modrinthHash": "fa2576297c7bd12b28aa7070e8141792bd66da4c"
+    },
+    {
+      "jarName": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.90.jar",
+      "modId": "c2me",
+      "name": "Concurrent Chunk Management Engine",
+      "version": "0.3.0+alpha.0.90+1.21.1",
+      "curseForgeHash": 1337065593,
+      "modrinthHash": "7837dd615c054675d88e034be04ffa1cec114265"
+    },
+    {
+      "jarName": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "modId": "controlling",
+      "name": "Controlling",
+      "version": "19.0.5",
+      "curseForgeHash": 1306717928,
+      "modrinthHash": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe"
+    },
+    {
+      "jarName": "coroutil-neoforge-1.21.0-1.3.9.jar",
+      "modId": "coroutil",
+      "name": "CoroUtil",
+      "version": "1.21.0-1.3.9",
+      "curseForgeHash": 2308153348,
+      "modrinthHash": "0f5a6309ce8394721b97740e6f3e45665f13b8de"
+    },
+    {
+      "jarName": "corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
+      "modId": "corpsecurioscompat",
+      "name": "Corpse Curios Compatibility",
+      "version": "3.1.3",
+      "curseForgeHash": 2638912561,
+      "modrinthHash": "2aa5e83940a26c6e529e58a3a8a0260df3078c6d"
+    },
+    {
+      "jarName": "cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0.jar",
+      "modId": "cosmeticcorpsecompat",
+      "name": "cosmeticcorpsecompat",
+      "version": "1.0.0",
+      "curseForgeHash": 599580683,
+      "modrinthHash": "c9a4c265a2ca4ab2db0ab0c673d7b9978b0086aa"
+    },
+    {
+      "jarName": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.6.jar",
+      "modId": "crash_assistant",
+      "name": "Crash Assistant",
+      "version": "1.11.6",
+      "curseForgeHash": 984536650,
+      "modrinthHash": "5ff8b4cfef095dd84161168ffd33dd155115e95e"
+    },
+    {
+      "jarName": "create-1.21.1-6.0.9.jar",
+      "modId": "create",
+      "name": "Create",
+      "version": "6.0.9",
+      "curseForgeHash": 2157808772,
+      "modrinthHash": "bf08bf8980c080f42d6f644f4f44a725cf7c3be9"
+    },
+    {
+      "jarName": "create_aquatic_ambitions-1.21.1-2.0.2.jar",
+      "modId": "create_aquatic_ambitions",
+      "name": "Create Aquatic Ambitions",
+      "version": "2.0.2",
+      "curseForgeHash": 3027705736,
+      "modrinthHash": "39945d25188f3cb8feb74d09b78d7f7f7a74aaa7"
+    },
+    {
+      "jarName": "createaddition-1.5.10.jar",
+      "modId": "createaddition",
+      "name": "Create Crafts & Additions",
+      "version": "1.5.10",
+      "curseForgeHash": 776288483,
+      "modrinthHash": "2bd194da923dd38239ef49df30ecf1a720d38997"
+    },
+    {
+      "jarName": "createdeco-2.1.2.jar",
+      "modId": "createdeco",
+      "name": "Create Deco",
+      "version": "2.1.2",
+      "curseForgeHash": 4236755353,
+      "modrinthHash": "cff4f94238d15db929bf0db48f006da438d345b5"
+    },
+    {
+      "jarName": "st_cdc-1.21.1-1.1.jar",
+      "modId": "createdoughcompat",
+      "name": "Create Dough Compat (CDC)",
+      "version": "1.1",
+      "curseForgeHash": 3890241139,
+      "modrinthHash": "1dc83075c078f7b6c3f0f04b9a84722d359804fa"
+    },
+    {
+      "jarName": "create_factory_logistics-1.21.1-1.4.9.jar",
+      "modId": "create_factory_logistics",
+      "name": "Create Factory Logistics",
+      "version": "1.4.9",
+      "curseForgeHash": 2047615309,
+      "modrinthHash": "f1cfba2e7fc290cc4083c6fff9080c43becee46a"
+    },
+    {
+      "jarName": "create_hypertube-0.4.0-NEOFORGE.jar",
+      "modId": "create_hypertube",
+      "name": "Create Hypertube",
+      "version": "0.4.0",
+      "curseForgeHash": 2147536722,
+      "modrinthHash": "aa5da2269d02e8bb1c1abc260af242b09ceae5ea"
+    },
+    {
+      "jarName": "create_ltab-3.8.4.jar",
+      "modId": "create_ltab",
+      "name": "Create Let The Adventure Begin",
+      "version": "3.8.2",
+      "curseForgeHash": 3608070960,
+      "modrinthHash": "835740a05b55baf6f2fb6596ed8ebb9008126182"
+    },
+    {
+      "jarName": "create-stuff-additions1.21.1_v2.1.0e.jar",
+      "modId": "create_sa",
+      "name": "Create Stuff 'N Additions",
+      "version": "2.1.0.",
+      "curseForgeHash": 3638800508,
+      "modrinthHash": "5de330acd44af9e09430a7710687ad176dabf1e2"
+    },
+    {
+      "jarName": "createappliedkinetics-1.5.3-1.21.1.jar",
+      "modId": "createappliedkinetics",
+      "name": "Create: Applied Kinetics",
+      "version": "1.5.3-1.21.1",
+      "curseForgeHash": 602215958,
+      "modrinthHash": "050fa78283731de06e8a4046da5d99bc7466d093"
+    },
+    {
+      "jarName": "createbb-4.0.1.jar",
+      "modId": "createbb",
+      "name": "Create: Broken Bad",
+      "version": "4.0.1",
+      "curseForgeHash": 3377851023,
+      "modrinthHash": "b74612ae3325fb5bdf75c74fe13e16d86fbaa1a8"
+    },
+    {
+      "jarName": "create-central-kitchen-2.3.0.jar",
+      "modId": "create_central_kitchen",
+      "name": "Create: Central Kitchen",
+      "version": "2.3.0",
+      "curseForgeHash": 207978631,
+      "modrinthHash": "93ec8d7d6a77f3ee8ba1533c81563cdbcc261293"
+    },
+    {
+      "jarName": "colorful_catalysts-1.2.3.jar",
+      "modId": "colorful_catalysts",
+      "name": "Create: Colorful Catalysts",
+      "version": "1.2.3",
+      "curseForgeHash": 514527353,
+      "modrinthHash": "e75bce3d20d8e135ccab739bb5e9747adace56fc"
+    },
+    {
+      "jarName": "create_connected-1.1.13-mc1.21.1.jar",
+      "modId": "create_connected",
+      "name": "Create: Connected",
+      "version": "1.1.13-mc1.21.1",
+      "curseForgeHash": 548769279,
+      "modrinthHash": "05d6b1508422662cdd6e497b8565d4d280e25c6a"
+    },
+    {
+      "jarName": "create_deep_dark-3.0.2-neoforge-1.21.1.jar",
+      "modId": "create_deep_dark",
+      "name": "Create: Deep Dark",
+      "version": "3.0.2",
+      "curseForgeHash": 2917119291,
+      "modrinthHash": "41a8c7f2f096555355214c55031ade1a84ef4058"
+    },
+    {
+      "jarName": "DnDesires-1.21.1-2.2d-BETA.jar",
+      "modId": "dndesires",
+      "name": "Create: Dreams n' Desires",
+      "version": "2.2d-BETA",
+      "curseForgeHash": 3254436355,
+      "modrinthHash": "fed072610e7d758c379cdaa2161ac8e5f28ce0b9"
+    },
+    {
+      "jarName": "createenchantablemachinery-3.6.0+mc1.21.1-neoforge.jar",
+      "modId": "createenchantablemachinery",
+      "name": "Create: Enchantable Machinery",
+      "version": "3.6.0",
+      "curseForgeHash": 3508859751,
+      "modrinthHash": "ed9a5cf654235f54a3c5aced27ac654d5258e393"
+    },
+    {
+      "jarName": "extra_gauges-2.0.6.jar",
+      "modId": "extra_gauges",
+      "name": "Create: Extra Gauges",
+      "version": "2.0.6",
+      "curseForgeHash": 3304007456,
+      "modrinthHash": "c32ab6c667745313c23ba42b5aa53d34c23a201d"
+    },
+    {
+      "jarName": "create-new-age-1.1.7c+neoforge-mc1.21.1.jar",
+      "modId": "create_new_age",
+      "name": "Create: New Age",
+      "version": "1.1.7c+mc1.21.1",
+      "curseForgeHash": 3755031810,
+      "modrinthHash": "ee352726afeaf935098471f12102da4b2a6fe18e"
+    },
+    {
+      "jarName": "smart_bounds-1.0.0.jar",
+      "modId": "smart_bounds",
+      "name": "Create: Smart Bounds",
+      "version": "1.0.0",
+      "curseForgeHash": 2752241844,
+      "modrinthHash": "9d271d70b1d2870d5c232e71e2923abaac3a6767"
+    },
+    {
+      "jarName": "create_things_and_misc-4.1.0-neoforge-1.21.1.jar",
+      "modId": "create_things_and_misc",
+      "name": "create: things and misc",
+      "version": "4.1.0",
+      "curseForgeHash": 4092474394,
+      "modrinthHash": "4b6d2bef5a99cf15667c0b19dcb5dc514b5f6d90"
+    },
+    {
+      "jarName": "createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
+      "modId": "createthreadedtrains",
+      "name": "Create: Threaded Trains",
+      "version": "1.0.0",
+      "curseForgeHash": 2593446321,
+      "modrinthHash": "1dec765e324bf968a1685a173aff5a13c11d0856"
+    },
+    {
+      "jarName": "createvintageneoforged-1.21.1-1.2.3.1.jar",
+      "modId": "createvintageneoforged",
+      "name": "Create: Vintage NeoForged",
+      "version": "1.21.1-1.2.3.1",
+      "curseForgeHash": 2397577032,
+      "modrinthHash": "869b441fbcbd00b9333944122ab52d3cb9af9e25"
+    },
+    {
+      "jarName": "create_winery-2.0.2-neoforge-1.21.1.jar",
+      "modId": "create_winery",
+      "name": "Create: Winery",
+      "version": "2.0.2",
+      "curseForgeHash": 3953161193,
+      "modrinthHash": "f6c40e927550c68c3091376d7279aa97c23cd2c2"
+    },
+    {
+      "jarName": "createbetterfps-1.21.1-1.1.3.jar",
+      "modId": "createbetterfps",
+      "name": "CreateBetterFps",
+      "version": "1.1.3",
+      "curseForgeHash": 170550105,
+      "modrinthHash": "cd8152d80a36e872690da101a8262877e854ceee"
+    },
+    {
+      "jarName": "createbicbit-forge-1.21.1-1.0.2B.jar",
+      "modId": "",
+      "name": "createbicbit-forge-1.21.1-1.0.2B.jar",
+      "version": "N/A",
+      "curseForgeHash": 2840220617,
+      "modrinthHash": "e9118da99498a4af0b06d6b3a1b8bf004bd229db"
+    },
+    {
+      "jarName": "FarmersDelight-1.21.1-1.2.11.jar",
+      "modId": "farmersdelight",
+      "name": "Farmer's Delight",
+      "version": "1.2.11",
+      "curseForgeHash": 1532443055,
+      "modrinthHash": "2415b91d6437977e676985b4a2ef877208d202e1"
+    },
+    {
+      "jarName": "FastSuite-1.21.1-6.0.7.jar",
+      "modId": "fastsuite",
+      "name": "Fast Suite",
+      "version": "6.0.7",
+      "curseForgeHash": 4068539984,
+      "modrinthHash": "664e62684311f727f1fac18f0de28e5317874b7e"
+    },
+    {
+      "jarName": "flerovium-neoforge-1.21.1-1.0.17-all.jar",
+      "modId": "flerovium",
+      "name": "Flerovium",
+      "version": "1.0.17",
+      "curseForgeHash": 1722484159,
+      "modrinthHash": "57dee660ac013c18377e3906da25bb870ddd3c43"
+    },
+    {
+      "jarName": "framework-neoforge-1.21.1-0.13.11.jar",
+      "modId": "framework",
+      "name": "Framework",
+      "version": "0.13.11",
+      "curseForgeHash": 1313912180,
+      "modrinthHash": "e46eb138fbb13a12f37154fb4ec407d64b326475"
+    },
+    {
+      "jarName": "guideme-21.1.15.jar",
+      "modId": "guideme",
+      "name": "GuideME",
+      "version": "21.1.15",
+      "curseForgeHash": 3112478022,
+      "modrinthHash": "924c6bca566ee83789a4fd1ce72ea3ddfdf0f5e5"
+    },
+    {
+      "jarName": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "modId": "immediatelyfast",
+      "name": "ImmediatelyFast",
+      "version": "1.6.10+1.21.1",
+      "curseForgeHash": 1221808790,
+      "modrinthHash": "f1f5cccd7cb59d875f44566b2e557ccecc8c33fb"
+    },
+    {
+      "jarName": "immersive_optimization-neoforge-1.21-0.1.4.jar",
+      "modId": "immersive_optimization",
+      "name": "Immersive Optimization",
+      "version": "0.1.4",
+      "curseForgeHash": 304345341,
+      "modrinthHash": "3a1fde4119ccccaf39bcc738bf4db14f905c2b65"
+    },
+    {
+      "jarName": "kotlinforforge-5.11.0-all.jar",
+      "modId": "",
+      "name": "kotlinforforge-5.11.0-all.jar",
+      "version": "N/A",
+      "curseForgeHash": 1356655026,
+      "modrinthHash": "a8b9f1233336ca9fe4702bc2cc5a6f97ad5e3b65"
+    },
+    {
+      "jarName": "krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
+      "modId": "krypton_fnp",
+      "name": "Krypton FNP",
+      "version": "0.2.28.1-1.21.1",
+      "curseForgeHash": 3842583695,
+      "modrinthHash": "3b9253fcfaa11586ce528fbc0a26175991c9408f"
+    },
+    {
+      "jarName": "lootr-neoforge-1.21.1-1.11.37.118.jar",
+      "modId": "lootr",
+      "name": "Lootr",
+      "version": "1.21.1-1.11.37.118",
+      "curseForgeHash": 2861612356,
+      "modrinthHash": "95058da06c16441211619ce46950502fd5ac1f64"
+    },
+    {
+      "jarName": "man_of_many_planes-0.2.1+1.21.1-neoforge.jar",
+      "modId": "man_of_many_planes",
+      "name": "Man of Many Planes",
+      "version": "0.2.1+1.21.1",
+      "curseForgeHash": 1572575945,
+      "modrinthHash": "73d0c0f2f751c5ea3c05298d616d19a04eebab20"
+    },
+    {
+      "jarName": "molten_vents-2.1.3.jar",
+      "modId": "molten_vents",
+      "name": "Molten Vents",
+      "version": "2.1.2",
+      "curseForgeHash": 3830429501,
+      "modrinthHash": "97cfa1b8ecc663763101e87390ae7830ca425723"
+    },
+    {
+      "jarName": "moonlight-1.21-2.29.23-neoforge.jar",
+      "modId": "moonlight",
+      "name": "Moonlight Lib",
+      "version": "1.21-2.29.23",
+      "curseForgeHash": 1479041480,
+      "modrinthHash": "0425f3f15ba59d1bbd48fff8dfddda645543c79d"
+    },
+    {
+      "jarName": "moreculling-neoforge-1.21.1-1.0.7.jar",
+      "modId": "moreculling",
+      "name": "More Culling",
+      "version": "1.0.7",
+      "curseForgeHash": 3317811947,
+      "modrinthHash": "834cc35294be3bb514bc0ba571ab7337961af383"
+    },
+    {
+      "jarName": "refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+      "modId": "refurbished_furniture",
+      "name": "MrCrayfish's Furniture Mod: Refurbished",
+      "version": "1.0.22",
+      "curseForgeHash": 2252929595,
+      "modrinthHash": "6c209e6b755ff26218efd55aedf2dea49183d29b"
+    },
+    {
+      "jarName": "NaturesCompass-1.21.1-3.0.3-neoforge.jar",
+      "modId": "naturescompass",
+      "name": "Nature's Compass",
+      "version": "1.21.1-3.0.2-neoforge",
+      "curseForgeHash": 4061845266,
+      "modrinthHash": "4a91af947622a2bb2c0381db249cc6f06c1f1843"
+    },
+    {
+      "jarName": "noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
+      "modId": "noisium",
+      "name": "Noisium",
+      "version": "2.7.0+mc1.21-1.21.1",
+      "curseForgeHash": 960990942,
+      "modrinthHash": "420b3a234d8f83fa6b24d8dd26333b6256af7911"
+    },
+    {
+      "jarName": "Northstar-0.5.4+1.21.1.jar",
+      "modId": "northstar",
+      "name": "Northstar Redux",
+      "version": "0.5.4+1.21.1",
+      "curseForgeHash": 668775158,
+      "modrinthHash": "a0aca16a22ba035992481442f0e1559c87e161bf"
+    },
+    {
+      "jarName": "Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
+      "modId": "nerb",
+      "name": "Not Enough Recipe Book",
+      "version": "0.4.3",
+      "curseForgeHash": 3012964192,
+      "modrinthHash": "e0c36cd85d3d31cc2afb1bfc6b885f505245252f"
+    },
+    {
+      "jarName": "OctoLib-NEOFORGE-0.6.1+1.21.jar",
+      "modId": "octolib",
+      "name": "OctoLib",
+      "version": "0.6.1",
+      "curseForgeHash": 3003862230,
+      "modrinthHash": "052b71b4897b3a76b4b10afda4d9342e66fb19f1"
+    },
+    {
+      "jarName": "open-parties-and-claims-neoforge-1.21.1-0.25.10.jar",
+      "modId": "openpartiesandclaims",
+      "name": "Open Parties and Claims",
+      "version": "0.25.10",
+      "curseForgeHash": 272455794,
+      "modrinthHash": "bbd78fbeb076473bc19b247491490c4ac0139dd3"
+    },
+    {
+      "jarName": "Placebo-1.21.1-9.9.1.jar",
+      "modId": "placebo",
+      "name": "Placebo",
+      "version": "9.9.1",
+      "curseForgeHash": 2914591491,
+      "modrinthHash": "1c2b8c38066d6f36209c5dadee25c184ef65202e"
+    },
+    {
+      "jarName": "create_ratatouille-1.21.1-1.3.8.jar",
+      "modId": "ratatouille",
+      "name": "Ratatouille",
+      "version": "1.3.8",
+      "curseForgeHash": 3590748019,
+      "modrinthHash": "413a947546497d270ed43d5779dfef548ad86e6c"
+    },
+    {
+      "jarName": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+      "modId": "reeses_sodium_options",
+      "name": "Reese's Sodium Options",
+      "version": "1.8.3+mc1.21.4",
+      "curseForgeHash": 3206533594,
+      "modrinthHash": "b03d05495be28d8cef7a34872941bb8d703d60e6"
+    },
+    {
+      "jarName": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "modId": "searchables",
+      "name": "Searchables",
+      "version": "1.0.2",
+      "curseForgeHash": 2093242437,
+      "modrinthHash": "5b8a0b43a474c066371b2e16f9bfb88622552a74"
+    },
+    {
+      "jarName": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "modId": "sodiumdynamiclights",
+      "name": "Sodium Dynamic Lights",
+      "version": "1.0.9",
+      "curseForgeHash": 474806553,
+      "modrinthHash": "02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652"
+    },
+    {
+      "jarName": "sodiumextras-neoforge-1.0.8-1.21.1.jar",
+      "modId": "sodiumextras",
+      "name": "Sodium Extras",
+      "version": "1.0.7",
+      "curseForgeHash": 4051323827,
+      "modrinthHash": "d678f6eb28fec11f3e99bc7f17f5e385703bc44a"
+    },
+    {
+      "jarName": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+      "modId": "sodiumoptionsapi",
+      "name": "Sodium Options API",
+      "version": "1.0.10",
+      "curseForgeHash": 2527579799,
+      "modrinthHash": "5d014d031fa77ab600e07835b032ef4dcb79b442"
+    },
+    {
+      "jarName": "sophisticatedinventoryinteractions-1.21.1-0.1.3.30.jar",
+      "modId": "sophisticatedinventoryinteractions",
+      "name": "Sophisticated Inventory Interactions",
+      "version": "0.1.3",
+      "curseForgeHash": 3140026935,
+      "modrinthHash": "43ef0ad5dc14240c48cb80106eceb7b4154fcb08"
+    },
+    {
+      "jarName": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "modId": "sound_physics_remastered",
+      "name": "Sound Physics Remastered",
+      "version": "1.21.1-1.5.1",
+      "curseForgeHash": 3969879922,
+      "modrinthHash": "31cf754f9e5f62d1ca257f297e5dce394024696c"
+    },
+    {
+      "jarName": "supplementaries-1.21-3.5.29-neoforge.jar",
+      "modId": "supplementaries",
+      "name": "Supplementaries",
+      "version": "1.21-3.5.29",
+      "curseForgeHash": 4149617192,
+      "modrinthHash": "85517bf29e0b9ad977278869b1348f21a53c6ad2"
+    },
+    {
+      "jarName": "suppsquared-1.21-1.2.17-neoforge.jar",
+      "modId": "suppsquared",
+      "name": "Supplementaries Squared",
+      "version": "1.21-1.2.17",
+      "curseForgeHash": 2797195604,
+      "modrinthHash": "a0832a81277149fc38b7f0858122e1c451affa56"
+    },
+    {
+      "jarName": "watut-neoforge-1.21.0-1.2.7.jar",
+      "modId": "watut",
+      "name": "What Are They Up To",
+      "version": "1.21.0-1.2.7",
+      "curseForgeHash": 1526633991,
+      "modrinthHash": "07cfb8fb1269f1eae1056492912e3544be979f62"
+    },
+    {
+      "jarName": "xaerotrainmap-1.0.0.jar",
+      "modId": "xaerotrainmap",
+      "name": "Xaero Train Map",
+      "version": "1.0.0",
+      "curseForgeHash": 1985788456,
+      "modrinthHash": "4b9d3a53247b2f3977e32b246be5aeb131504eae"
+    },
+    {
+      "jarName": "xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+      "modId": "xaeroworldmap",
+      "name": "Xaero's World Map",
+      "version": "1.40.11",
+      "curseForgeHash": 1367316154,
+      "modrinthHash": "c6f596bb6bc7d734100b7dbc8a57f69a5fb549a3"
+    },
+    {
+      "jarName": "yammo-1.0.6.jar",
+      "modId": "yammo",
+      "name": "Yet Another Memory Optimization (YAMO)",
+      "version": "1.0.6",
+      "curseForgeHash": 31402015,
+      "modrinthHash": "27e48e9b5b9c523dd5cb0ebae6afb780e37789ba"
+    }
+  ],
+  "missingPurpose": [
+    {
+      "jarName": "AchievementOptimizer-neoforge-1.21.1-2.1.0.jar",
+      "modId": "achiopt",
+      "name": "AchievementOptimizer",
+      "version": "2.1.0",
+      "curseForgeHash": 3649856519,
+      "modrinthHash": "691c4686c52c8740cba6beff392cbc3fbface5b0"
+    },
+    {
+      "jarName": "ae2jeiintegration-1.2.1.jar",
+      "modId": "ae2jeiintegration",
+      "name": "AE2 JEI Integration",
+      "version": "1.2.1",
+      "curseForgeHash": 2865319449,
+      "modrinthHash": "e99898b3e9c32bf6ac757e7ad50247746622cdfc"
+    },
+    {
+      "jarName": "ae2wtlib-19.4.1.jar",
+      "modId": "ae2wtlib",
+      "name": "AE2WTLib",
+      "version": "19.4.1",
+      "curseForgeHash": 2471661468,
+      "modrinthHash": "e5ac6b8ec0851d9fb23d92281842f1880f0979b7"
+    },
+    {
+      "jarName": "AI-Improvements-1.21-0.5.3.jar",
+      "modId": "aiimprovements",
+      "name": "AI-Improvements",
+      "version": "0.5.3",
+      "curseForgeHash": 3163557722,
+      "modrinthHash": "b4a8e11384454bcc341043b251db7fb5afdfdf45"
+    },
+    {
+      "jarName": "alexscaves-2.0.9.jar",
+      "modId": "alexscaves",
+      "name": "Alex's Caves",
+      "version": "2.0.9",
+      "curseForgeHash": 3423038551,
+      "modrinthHash": "a21b02ef825124b417a7ed8e44afd68342c00748"
+    },
+    {
+      "jarName": "alexscavesdelight-1.0.28.jar",
+      "modId": "alexscavesdelight",
+      "name": "Alex's Caves Delight",
+      "version": "1.0.28",
+      "curseForgeHash": 1318966111,
+      "modrinthHash": "ace42d4940be77372b9c41d04718f966c4a00658"
+    },
+    {
+      "jarName": "alltheleaks-1.1.7+1.21.1-neoforge.jar",
+      "modId": "alltheleaks",
+      "name": "All The Leaks",
+      "version": "1.1.7+1.21.1-neoforge",
+      "curseForgeHash": 3702505508,
+      "modrinthHash": "a36da3b274d7612f3696788434cb5a717e065d70"
+    },
+    {
+      "jarName": "amendments-1.21-2.0.15-neoforge.jar",
+      "modId": "amendments",
+      "name": "Amendments",
+      "version": "1.21-2.0.15",
+      "curseForgeHash": 1748391263,
+      "modrinthHash": "00056f29646f3bf86116b281c2362c0dabdb4533"
+    },
+    {
+      "jarName": "appliedenergistics2-19.2.17.jar",
+      "modId": "ae2",
+      "name": "Applied Energistics 2",
+      "version": "19.2.17",
+      "curseForgeHash": 581628875,
+      "modrinthHash": "49c18d6a4af487957d7e5a6ad5dcbf71090b8e14"
+    },
+    {
+      "jarName": "architectury-13.0.8-neoforge.jar",
+      "modId": "architectury",
+      "name": "Architectury",
+      "version": "13.0.8",
+      "curseForgeHash": 418634412,
+      "modrinthHash": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b"
+    },
+    {
+      "jarName": "BadOptimizations-2.4.1-1.21.1.jar",
+      "modId": "badoptimizations",
+      "name": "BadOptimizations",
+      "version": "2.4.1",
+      "curseForgeHash": 3053351722,
+      "modrinthHash": "1461d8e46391efd32a3085150e86094c9f6f5c9d"
+    },
+    {
+      "jarName": "barbequesdelight-1.2.2.jar",
+      "modId": "barbequesdelight",
+      "name": "Barbeque's Delight",
+      "version": "1.2.2",
+      "curseForgeHash": 2078529366,
+      "modrinthHash": "13d76c0c793e6a865931866735ea6aec80842f73"
+    },
+    {
+      "jarName": "Better-Leaves-9.5.zip (resourcepack)",
+      "modId": "",
+      "name": "Better-Leaves-9.5.zip (resourcepack)",
+      "version": "N/A",
+      "curseForgeHash": null,
+      "modrinthHash": null
+    },
+    {
+      "jarName": "carryon-neoforge-1.21.1-2.2.4.4.jar",
+      "modId": "carryon",
+      "name": "Carry On",
+      "version": "2.2.4",
+      "curseForgeHash": 4049909642,
+      "modrinthHash": "774bf57a199784c35e74f2d619d6001c87185a11"
+    },
+    {
+      "jarName": "chefsdelight-1.0.5-neoforge-1.21.1.jar",
+      "modId": "chefsdelight",
+      "name": "Chefs Delight",
+      "version": "1.0.5",
+      "curseForgeHash": 172362129,
+      "modrinthHash": "2ee0923d811a15e1d9dab536a940e4ac0143a4fa"
+    },
+    {
+      "jarName": "citadel-1.21.1-2.7.5.jar",
+      "modId": "citadel",
+      "name": "Citadel",
+      "version": "2.7.5",
+      "curseForgeHash": 1249553128,
+      "modrinthHash": "e8c3e1fdb29c0ff6eeb0c65712eee5be21d8ef94"
+    },
+    {
+      "jarName": "cloth-config-15.0.140-neoforge.jar",
+      "modId": "cloth_config",
+      "name": "Cloth Config v15 API",
+      "version": "15.0.140",
+      "curseForgeHash": 1440957232,
+      "modrinthHash": "c3e5733ba4503b102589a026000fd5ce0212f6f2"
+    },
+    {
+      "jarName": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "modId": "clumps",
+      "name": "Clumps",
+      "version": "19.0.0.1",
+      "curseForgeHash": 2871381177,
+      "modrinthHash": "fa2576297c7bd12b28aa7070e8141792bd66da4c"
+    },
+    {
+      "jarName": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.90.jar",
+      "modId": "c2me",
+      "name": "Concurrent Chunk Management Engine",
+      "version": "0.3.0+alpha.0.90+1.21.1",
+      "curseForgeHash": 1337065593,
+      "modrinthHash": "7837dd615c054675d88e034be04ffa1cec114265"
+    },
+    {
+      "jarName": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "modId": "controlling",
+      "name": "Controlling",
+      "version": "19.0.5",
+      "curseForgeHash": 1306717928,
+      "modrinthHash": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe"
+    },
+    {
+      "jarName": "coroutil-neoforge-1.21.0-1.3.9.jar",
+      "modId": "coroutil",
+      "name": "CoroUtil",
+      "version": "1.21.0-1.3.9",
+      "curseForgeHash": 2308153348,
+      "modrinthHash": "0f5a6309ce8394721b97740e6f3e45665f13b8de"
+    },
+    {
+      "jarName": "corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
+      "modId": "corpsecurioscompat",
+      "name": "Corpse Curios Compatibility",
+      "version": "3.1.3",
+      "curseForgeHash": 2638912561,
+      "modrinthHash": "2aa5e83940a26c6e529e58a3a8a0260df3078c6d"
+    },
+    {
+      "jarName": "cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0.jar",
+      "modId": "cosmeticcorpsecompat",
+      "name": "cosmeticcorpsecompat",
+      "version": "1.0.0",
+      "curseForgeHash": 599580683,
+      "modrinthHash": "c9a4c265a2ca4ab2db0ab0c673d7b9978b0086aa"
+    },
+    {
+      "jarName": "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.6.jar",
+      "modId": "crash_assistant",
+      "name": "Crash Assistant",
+      "version": "1.11.6",
+      "curseForgeHash": 984536650,
+      "modrinthHash": "5ff8b4cfef095dd84161168ffd33dd155115e95e"
+    },
+    {
+      "jarName": "create-1.21.1-6.0.9.jar",
+      "modId": "create",
+      "name": "Create",
+      "version": "6.0.9",
+      "curseForgeHash": 2157808772,
+      "modrinthHash": "bf08bf8980c080f42d6f644f4f44a725cf7c3be9"
+    },
+    {
+      "jarName": "create_aquatic_ambitions-1.21.1-2.0.2.jar",
+      "modId": "create_aquatic_ambitions",
+      "name": "Create Aquatic Ambitions",
+      "version": "2.0.2",
+      "curseForgeHash": 3027705736,
+      "modrinthHash": "39945d25188f3cb8feb74d09b78d7f7f7a74aaa7"
+    },
+    {
+      "jarName": "createaddition-1.5.10.jar",
+      "modId": "createaddition",
+      "name": "Create Crafts & Additions",
+      "version": "1.5.10",
+      "curseForgeHash": 776288483,
+      "modrinthHash": "2bd194da923dd38239ef49df30ecf1a720d38997"
+    },
+    {
+      "jarName": "createdeco-2.1.2.jar",
+      "modId": "createdeco",
+      "name": "Create Deco",
+      "version": "2.1.2",
+      "curseForgeHash": 4236755353,
+      "modrinthHash": "cff4f94238d15db929bf0db48f006da438d345b5"
+    },
+    {
+      "jarName": "st_cdc-1.21.1-1.1.jar",
+      "modId": "createdoughcompat",
+      "name": "Create Dough Compat (CDC)",
+      "version": "1.1",
+      "curseForgeHash": 3890241139,
+      "modrinthHash": "1dc83075c078f7b6c3f0f04b9a84722d359804fa"
+    },
+    {
+      "jarName": "create_factory_logistics-1.21.1-1.4.9.jar",
+      "modId": "create_factory_logistics",
+      "name": "Create Factory Logistics",
+      "version": "1.4.9",
+      "curseForgeHash": 2047615309,
+      "modrinthHash": "f1cfba2e7fc290cc4083c6fff9080c43becee46a"
+    },
+    {
+      "jarName": "create_hypertube-0.4.0-NEOFORGE.jar",
+      "modId": "create_hypertube",
+      "name": "Create Hypertube",
+      "version": "0.4.0",
+      "curseForgeHash": 2147536722,
+      "modrinthHash": "aa5da2269d02e8bb1c1abc260af242b09ceae5ea"
+    },
+    {
+      "jarName": "Create Immersive Aircrafts Resource Pack 1.21.1 - 3.0.zip (resourcepack)",
+      "modId": "",
+      "name": "Create Immersive Aircrafts Resource Pack 1.21.1 - 3.0.zip (resourcepack)",
+      "version": "N/A",
+      "curseForgeHash": null,
+      "modrinthHash": null
+    },
+    {
+      "jarName": "create_ltab-3.8.4.jar",
+      "modId": "create_ltab",
+      "name": "Create Let The Adventure Begin",
+      "version": "3.8.2",
+      "curseForgeHash": 3608070960,
+      "modrinthHash": "835740a05b55baf6f2fb6596ed8ebb9008126182"
+    },
+    {
+      "jarName": "Create LootR Chest.zip (resourcepack)",
+      "modId": "",
+      "name": "Create LootR Chest.zip (resourcepack)",
+      "version": "N/A",
+      "curseForgeHash": null,
+      "modrinthHash": null
+    },
+    {
+      "jarName": "create-stuff-additions1.21.1_v2.1.0e.jar",
+      "modId": "create_sa",
+      "name": "Create Stuff 'N Additions",
+      "version": "2.1.0.",
+      "curseForgeHash": 3638800508,
+      "modrinthHash": "5de330acd44af9e09430a7710687ad176dabf1e2"
+    },
+    {
+      "jarName": "Create Touch-Ups v1.0.zip (resourcepack)",
+      "modId": "",
+      "name": "Create Touch-Ups v1.0.zip (resourcepack)",
+      "version": "N/A",
+      "curseForgeHash": null,
+      "modrinthHash": null
+    },
+    {
+      "jarName": "createappliedkinetics-1.5.3-1.21.1.jar",
+      "modId": "createappliedkinetics",
+      "name": "Create: Applied Kinetics",
+      "version": "1.5.3-1.21.1",
+      "curseForgeHash": 602215958,
+      "modrinthHash": "050fa78283731de06e8a4046da5d99bc7466d093"
+    },
+    {
+      "jarName": "createbb-4.0.1.jar",
+      "modId": "createbb",
+      "name": "Create: Broken Bad",
+      "version": "4.0.1",
+      "curseForgeHash": 3377851023,
+      "modrinthHash": "b74612ae3325fb5bdf75c74fe13e16d86fbaa1a8"
+    },
+    {
+      "jarName": "create-central-kitchen-2.3.0.jar",
+      "modId": "create_central_kitchen",
+      "name": "Create: Central Kitchen",
+      "version": "2.3.0",
+      "curseForgeHash": 207978631,
+      "modrinthHash": "93ec8d7d6a77f3ee8ba1533c81563cdbcc261293"
+    },
+    {
+      "jarName": "colorful_catalysts-1.2.3.jar",
+      "modId": "colorful_catalysts",
+      "name": "Create: Colorful Catalysts",
+      "version": "1.2.3",
+      "curseForgeHash": 514527353,
+      "modrinthHash": "e75bce3d20d8e135ccab739bb5e9747adace56fc"
+    },
+    {
+      "jarName": "create_connected-1.1.13-mc1.21.1.jar",
+      "modId": "create_connected",
+      "name": "Create: Connected",
+      "version": "1.1.13-mc1.21.1",
+      "curseForgeHash": 548769279,
+      "modrinthHash": "05d6b1508422662cdd6e497b8565d4d280e25c6a"
+    },
+    {
+      "jarName": "create_deep_dark-3.0.2-neoforge-1.21.1.jar",
+      "modId": "create_deep_dark",
+      "name": "Create: Deep Dark",
+      "version": "3.0.2",
+      "curseForgeHash": 2917119291,
+      "modrinthHash": "41a8c7f2f096555355214c55031ade1a84ef4058"
+    },
+    {
+      "jarName": "DnDesires-1.21.1-2.2d-BETA.jar",
+      "modId": "dndesires",
+      "name": "Create: Dreams n' Desires",
+      "version": "2.2d-BETA",
+      "curseForgeHash": 3254436355,
+      "modrinthHash": "fed072610e7d758c379cdaa2161ac8e5f28ce0b9"
+    },
+    {
+      "jarName": "createenchantablemachinery-3.6.0+mc1.21.1-neoforge.jar",
+      "modId": "createenchantablemachinery",
+      "name": "Create: Enchantable Machinery",
+      "version": "3.6.0",
+      "curseForgeHash": 3508859751,
+      "modrinthHash": "ed9a5cf654235f54a3c5aced27ac654d5258e393"
+    },
+    {
+      "jarName": "extra_gauges-2.0.6.jar",
+      "modId": "extra_gauges",
+      "name": "Create: Extra Gauges",
+      "version": "2.0.6",
+      "curseForgeHash": 3304007456,
+      "modrinthHash": "c32ab6c667745313c23ba42b5aa53d34c23a201d"
+    },
+    {
+      "jarName": "create-new-age-1.1.7c+neoforge-mc1.21.1.jar",
+      "modId": "create_new_age",
+      "name": "Create: New Age",
+      "version": "1.1.7c+mc1.21.1",
+      "curseForgeHash": 3755031810,
+      "modrinthHash": "ee352726afeaf935098471f12102da4b2a6fe18e"
+    },
+    {
+      "jarName": "smart_bounds-1.0.0.jar",
+      "modId": "smart_bounds",
+      "name": "Create: Smart Bounds",
+      "version": "1.0.0",
+      "curseForgeHash": 2752241844,
+      "modrinthHash": "9d271d70b1d2870d5c232e71e2923abaac3a6767"
+    },
+    {
+      "jarName": "create_things_and_misc-4.1.0-neoforge-1.21.1.jar",
+      "modId": "create_things_and_misc",
+      "name": "create: things and misc",
+      "version": "4.1.0",
+      "curseForgeHash": 4092474394,
+      "modrinthHash": "4b6d2bef5a99cf15667c0b19dcb5dc514b5f6d90"
+    },
+    {
+      "jarName": "createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
+      "modId": "createthreadedtrains",
+      "name": "Create: Threaded Trains",
+      "version": "1.0.0",
+      "curseForgeHash": 2593446321,
+      "modrinthHash": "1dec765e324bf968a1685a173aff5a13c11d0856"
+    },
+    {
+      "jarName": "createvintageneoforged-1.21.1-1.2.3.1.jar",
+      "modId": "createvintageneoforged",
+      "name": "Create: Vintage NeoForged",
+      "version": "1.21.1-1.2.3.1",
+      "curseForgeHash": 2397577032,
+      "modrinthHash": "869b441fbcbd00b9333944122ab52d3cb9af9e25"
+    },
+    {
+      "jarName": "create_winery-2.0.2-neoforge-1.21.1.jar",
+      "modId": "create_winery",
+      "name": "Create: Winery",
+      "version": "2.0.2",
+      "curseForgeHash": 3953161193,
+      "modrinthHash": "f6c40e927550c68c3091376d7279aa97c23cd2c2"
+    },
+    {
+      "jarName": "createbetterfps-1.21.1-1.1.3.jar",
+      "modId": "createbetterfps",
+      "name": "CreateBetterFps",
+      "version": "1.1.3",
+      "curseForgeHash": 170550105,
+      "modrinthHash": "cd8152d80a36e872690da101a8262877e854ceee"
+    },
+    {
+      "jarName": "createbicbit-forge-1.21.1-1.0.2B.jar",
+      "modId": "",
+      "name": "createbicbit-forge-1.21.1-1.0.2B.jar",
+      "version": "N/A",
+      "curseForgeHash": 2840220617,
+      "modrinthHash": "e9118da99498a4af0b06d6b3a1b8bf004bd229db"
+    },
+    {
+      "jarName": "createful_plaques-2.0.zip (resourcepack)",
+      "modId": "",
+      "name": "createful_plaques-2.0.zip (resourcepack)",
+      "version": "N/A",
+      "curseForgeHash": null,
+      "modrinthHash": null
+    },
+    {
+      "jarName": "CreateSophBackpacks.zip (resourcepack)",
+      "modId": "",
+      "name": "CreateSophBackpacks.zip (resourcepack)",
+      "version": "N/A",
+      "curseForgeHash": null,
+      "modrinthHash": null
+    },
+    {
+      "jarName": "FarmersDelight-1.21.1-1.2.11.jar",
+      "modId": "farmersdelight",
+      "name": "Farmer's Delight",
+      "version": "1.2.11",
+      "curseForgeHash": 1532443055,
+      "modrinthHash": "2415b91d6437977e676985b4a2ef877208d202e1"
+    },
+    {
+      "jarName": "FastSuite-1.21.1-6.0.7.jar",
+      "modId": "fastsuite",
+      "name": "Fast Suite",
+      "version": "6.0.7",
+      "curseForgeHash": 4068539984,
+      "modrinthHash": "664e62684311f727f1fac18f0de28e5317874b7e"
+    },
+    {
+      "jarName": "flerovium-neoforge-1.21.1-1.0.17-all.jar",
+      "modId": "flerovium",
+      "name": "Flerovium",
+      "version": "1.0.17",
+      "curseForgeHash": 1722484159,
+      "modrinthHash": "57dee660ac013c18377e3906da25bb870ddd3c43"
+    },
+    {
+      "jarName": "framework-neoforge-1.21.1-0.13.11.jar",
+      "modId": "framework",
+      "name": "Framework",
+      "version": "0.13.11",
+      "curseForgeHash": 1313912180,
+      "modrinthHash": "e46eb138fbb13a12f37154fb4ec407d64b326475"
+    },
+    {
+      "jarName": "guideme-21.1.15.jar",
+      "modId": "guideme",
+      "name": "GuideME",
+      "version": "21.1.15",
+      "curseForgeHash": 3112478022,
+      "modrinthHash": "924c6bca566ee83789a4fd1ce72ea3ddfdf0f5e5"
+    },
+    {
+      "jarName": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "modId": "immediatelyfast",
+      "name": "ImmediatelyFast",
+      "version": "1.6.10+1.21.1",
+      "curseForgeHash": 1221808790,
+      "modrinthHash": "f1f5cccd7cb59d875f44566b2e557ccecc8c33fb"
+    },
+    {
+      "jarName": "immersive_optimization-neoforge-1.21-0.1.4.jar",
+      "modId": "immersive_optimization",
+      "name": "Immersive Optimization",
+      "version": "0.1.4",
+      "curseForgeHash": 304345341,
+      "modrinthHash": "3a1fde4119ccccaf39bcc738bf4db14f905c2b65"
+    },
+    {
+      "jarName": "kotlinforforge-5.11.0-all.jar",
+      "modId": "",
+      "name": "kotlinforforge-5.11.0-all.jar",
+      "version": "N/A",
+      "curseForgeHash": 1356655026,
+      "modrinthHash": "a8b9f1233336ca9fe4702bc2cc5a6f97ad5e3b65"
+    },
+    {
+      "jarName": "krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar",
+      "modId": "krypton_fnp",
+      "name": "Krypton FNP",
+      "version": "0.2.28.1-1.21.1",
+      "curseForgeHash": 3842583695,
+      "modrinthHash": "3b9253fcfaa11586ce528fbc0a26175991c9408f"
+    },
+    {
+      "jarName": "lootr-neoforge-1.21.1-1.11.37.118.jar",
+      "modId": "lootr",
+      "name": "Lootr",
+      "version": "1.21.1-1.11.37.118",
+      "curseForgeHash": 2861612356,
+      "modrinthHash": "95058da06c16441211619ce46950502fd5ac1f64"
+    },
+    {
+      "jarName": "man_of_many_planes-0.2.1+1.21.1-neoforge.jar",
+      "modId": "man_of_many_planes",
+      "name": "Man of Many Planes",
+      "version": "0.2.1+1.21.1",
+      "curseForgeHash": 1572575945,
+      "modrinthHash": "73d0c0f2f751c5ea3c05298d616d19a04eebab20"
+    },
+    {
+      "jarName": "molten_vents-2.1.3.jar",
+      "modId": "molten_vents",
+      "name": "Molten Vents",
+      "version": "2.1.2",
+      "curseForgeHash": 3830429501,
+      "modrinthHash": "97cfa1b8ecc663763101e87390ae7830ca425723"
+    },
+    {
+      "jarName": "moonlight-1.21-2.29.23-neoforge.jar",
+      "modId": "moonlight",
+      "name": "Moonlight Lib",
+      "version": "1.21-2.29.23",
+      "curseForgeHash": 1479041480,
+      "modrinthHash": "0425f3f15ba59d1bbd48fff8dfddda645543c79d"
+    },
+    {
+      "jarName": "moreculling-neoforge-1.21.1-1.0.7.jar",
+      "modId": "moreculling",
+      "name": "More Culling",
+      "version": "1.0.7",
+      "curseForgeHash": 3317811947,
+      "modrinthHash": "834cc35294be3bb514bc0ba571ab7337961af383"
+    },
+    {
+      "jarName": "refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+      "modId": "refurbished_furniture",
+      "name": "MrCrayfish's Furniture Mod: Refurbished",
+      "version": "1.0.22",
+      "curseForgeHash": 2252929595,
+      "modrinthHash": "6c209e6b755ff26218efd55aedf2dea49183d29b"
+    },
+    {
+      "jarName": "NaturesCompass-1.21.1-3.0.3-neoforge.jar",
+      "modId": "naturescompass",
+      "name": "Nature's Compass",
+      "version": "1.21.1-3.0.2-neoforge",
+      "curseForgeHash": 4061845266,
+      "modrinthHash": "4a91af947622a2bb2c0381db249cc6f06c1f1843"
+    },
+    {
+      "jarName": "noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
+      "modId": "noisium",
+      "name": "Noisium",
+      "version": "2.7.0+mc1.21-1.21.1",
+      "curseForgeHash": 960990942,
+      "modrinthHash": "420b3a234d8f83fa6b24d8dd26333b6256af7911"
+    },
+    {
+      "jarName": "Northstar-0.5.4+1.21.1.jar",
+      "modId": "northstar",
+      "name": "Northstar Redux",
+      "version": "0.5.4+1.21.1",
+      "curseForgeHash": 668775158,
+      "modrinthHash": "a0aca16a22ba035992481442f0e1559c87e161bf"
+    },
+    {
+      "jarName": "Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
+      "modId": "nerb",
+      "name": "Not Enough Recipe Book",
+      "version": "0.4.3",
+      "curseForgeHash": 3012964192,
+      "modrinthHash": "e0c36cd85d3d31cc2afb1bfc6b885f505245252f"
+    },
+    {
+      "jarName": "OctoLib-NEOFORGE-0.6.1+1.21.jar",
+      "modId": "octolib",
+      "name": "OctoLib",
+      "version": "0.6.1",
+      "curseForgeHash": 3003862230,
+      "modrinthHash": "052b71b4897b3a76b4b10afda4d9342e66fb19f1"
+    },
+    {
+      "jarName": "open-parties-and-claims-neoforge-1.21.1-0.25.10.jar",
+      "modId": "openpartiesandclaims",
+      "name": "Open Parties and Claims",
+      "version": "0.25.10",
+      "curseForgeHash": 272455794,
+      "modrinthHash": "bbd78fbeb076473bc19b247491490c4ac0139dd3"
+    },
+    {
+      "jarName": "Placebo-1.21.1-9.9.1.jar",
+      "modId": "placebo",
+      "name": "Placebo",
+      "version": "9.9.1",
+      "curseForgeHash": 2914591491,
+      "modrinthHash": "1c2b8c38066d6f36209c5dadee25c184ef65202e"
+    },
+    {
+      "jarName": "create_ratatouille-1.21.1-1.3.8.jar",
+      "modId": "ratatouille",
+      "name": "Ratatouille",
+      "version": "1.3.8",
+      "curseForgeHash": 3590748019,
+      "modrinthHash": "413a947546497d270ed43d5779dfef548ad86e6c"
+    },
+    {
+      "jarName": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+      "modId": "reeses_sodium_options",
+      "name": "Reese's Sodium Options",
+      "version": "1.8.3+mc1.21.4",
+      "curseForgeHash": 3206533594,
+      "modrinthHash": "b03d05495be28d8cef7a34872941bb8d703d60e6"
+    },
+    {
+      "jarName": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "modId": "searchables",
+      "name": "Searchables",
+      "version": "1.0.2",
+      "curseForgeHash": 2093242437,
+      "modrinthHash": "5b8a0b43a474c066371b2e16f9bfb88622552a74"
+    },
+    {
+      "jarName": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "modId": "sodiumdynamiclights",
+      "name": "Sodium Dynamic Lights",
+      "version": "1.0.9",
+      "curseForgeHash": 474806553,
+      "modrinthHash": "02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652"
+    },
+    {
+      "jarName": "sodiumextras-neoforge-1.0.8-1.21.1.jar",
+      "modId": "sodiumextras",
+      "name": "Sodium Extras",
+      "version": "1.0.7",
+      "curseForgeHash": 4051323827,
+      "modrinthHash": "d678f6eb28fec11f3e99bc7f17f5e385703bc44a"
+    },
+    {
+      "jarName": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+      "modId": "sodiumoptionsapi",
+      "name": "Sodium Options API",
+      "version": "1.0.10",
+      "curseForgeHash": 2527579799,
+      "modrinthHash": "5d014d031fa77ab600e07835b032ef4dcb79b442"
+    },
+    {
+      "jarName": "sophisticatedinventoryinteractions-1.21.1-0.1.3.30.jar",
+      "modId": "sophisticatedinventoryinteractions",
+      "name": "Sophisticated Inventory Interactions",
+      "version": "0.1.3",
+      "curseForgeHash": 3140026935,
+      "modrinthHash": "43ef0ad5dc14240c48cb80106eceb7b4154fcb08"
+    },
+    {
+      "jarName": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "modId": "sound_physics_remastered",
+      "name": "Sound Physics Remastered",
+      "version": "1.21.1-1.5.1",
+      "curseForgeHash": 3969879922,
+      "modrinthHash": "31cf754f9e5f62d1ca257f297e5dce394024696c"
+    },
+    {
+      "jarName": "supplementaries-1.21-3.5.29-neoforge.jar",
+      "modId": "supplementaries",
+      "name": "Supplementaries",
+      "version": "1.21-3.5.29",
+      "curseForgeHash": 4149617192,
+      "modrinthHash": "85517bf29e0b9ad977278869b1348f21a53c6ad2"
+    },
+    {
+      "jarName": "suppsquared-1.21-1.2.17-neoforge.jar",
+      "modId": "suppsquared",
+      "name": "Supplementaries Squared",
+      "version": "1.21-1.2.17",
+      "curseForgeHash": 2797195604,
+      "modrinthHash": "a0832a81277149fc38b7f0858122e1c451affa56"
+    },
+    {
+      "jarName": "watut-neoforge-1.21.0-1.2.7.jar",
+      "modId": "watut",
+      "name": "What Are They Up To",
+      "version": "1.21.0-1.2.7",
+      "curseForgeHash": 1526633991,
+      "modrinthHash": "07cfb8fb1269f1eae1056492912e3544be979f62"
+    },
+    {
+      "jarName": "xaerotrainmap-1.0.0.jar",
+      "modId": "xaerotrainmap",
+      "name": "Xaero Train Map",
+      "version": "1.0.0",
+      "curseForgeHash": 1985788456,
+      "modrinthHash": "4b9d3a53247b2f3977e32b246be5aeb131504eae"
+    },
+    {
+      "jarName": "xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+      "modId": "xaeroworldmap",
+      "name": "Xaero's World Map",
+      "version": "1.40.11",
+      "curseForgeHash": 1367316154,
+      "modrinthHash": "c6f596bb6bc7d734100b7dbc8a57f69a5fb549a3"
+    },
+    {
+      "jarName": "yammo-1.0.6.jar",
+      "modId": "yammo",
+      "name": "Yet Another Memory Optimization (YAMO)",
+      "version": "1.0.6",
+      "curseForgeHash": 31402015,
+      "modrinthHash": "27e48e9b5b9c523dd5cb0ebae6afb780e37789ba"
+    }
+  ],
+  "missingRequiredBy": [],
+  "failedLinkLookups": [
+    {
+      "name": "AchievementOptimizer",
+      "modId": "achiopt",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "AE2 JEI Integration",
+      "modId": "ae2jeiintegration",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "AE2 JEI Integration",
+      "modId": "ae2jeiintegration",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "AE2WTLib",
+      "modId": "ae2wtlib",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "AI-Improvements",
+      "modId": "aiimprovements",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Alex's Caves",
+      "modId": "alexscaves",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Alex's Caves Delight",
+      "modId": "alexscavesdelight",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Alex's Caves Delight",
+      "modId": "alexscavesdelight",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "All The Leaks",
+      "modId": "alltheleaks",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "All The Leaks",
+      "modId": "alltheleaks",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Amendments",
+      "modId": "amendments",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "AppleSkin",
+      "modId": "appleskin",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Applied Energistics 2",
+      "modId": "ae2",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Architectury",
+      "modId": "architectury",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "BadOptimizations",
+      "modId": "badoptimizations",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "BaguetteLib",
+      "modId": "baguettelib",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Barbeque's Delight",
+      "modId": "barbequesdelight",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Barbeque's Delight",
+      "modId": "barbequesdelight",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Better-Leaves-9.5.zip (resourcepack)",
+      "modId": "",
+      "source": "modrinth",
+      "reason": "missing modrinthHash"
+    },
+    {
+      "name": "Better-Leaves-9.5.zip (resourcepack)",
+      "modId": "",
+      "source": "curseforge",
+      "reason": "missing curseForgeHash"
+    },
+    {
+      "name": "Bookshelf",
+      "modId": "bookshelf",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Carry On",
+      "modId": "carryon",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Chefs Delight",
+      "modId": "chefsdelight",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Chemica",
+      "modId": "chemica",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Citadel",
+      "modId": "citadel",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Cloth Config v15 API",
+      "modId": "cloth_config",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Clumps",
+      "modId": "clumps",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Concurrent Chunk Management Engine",
+      "modId": "c2me",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Controlling",
+      "modId": "controlling",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "CoroUtil",
+      "modId": "coroutil",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "CoroUtil",
+      "modId": "coroutil",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Corpse",
+      "modId": "corpse",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Corpse",
+      "modId": "corpse",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Corpse Curios Compatibility",
+      "modId": "corpsecurioscompat",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "CosmeticArmorReworked",
+      "modId": "cosmeticarmorreworked",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "cosmeticcorpsecompat",
+      "modId": "cosmeticcorpsecompat",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Crash Assistant",
+      "modId": "crash_assistant",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create",
+      "modId": "create",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create Aquatic Ambitions",
+      "modId": "create_aquatic_ambitions",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create Confectionery",
+      "modId": "create_confectionery",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create Crafts & Additions",
+      "modId": "createaddition",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create Deco",
+      "modId": "createdeco",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create Dough Compat (CDC)",
+      "modId": "createdoughcompat",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Create Dough Compat (CDC)",
+      "modId": "createdoughcompat",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create Encased",
+      "modId": "createcasing",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create Factory Logistics",
+      "modId": "create_factory_logistics",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create Hypertube",
+      "modId": "create_hypertube",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create Immersive Aircrafts Resource Pack 1.21.1 - 3.0.zip (resourcepack)",
+      "modId": "",
+      "source": "modrinth",
+      "reason": "missing modrinthHash"
+    },
+    {
+      "name": "Create Immersive Aircrafts Resource Pack 1.21.1 - 3.0.zip (resourcepack)",
+      "modId": "",
+      "source": "curseforge",
+      "reason": "missing curseForgeHash"
+    },
+    {
+      "name": "Create Let The Adventure Begin",
+      "modId": "create_ltab",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create LootR Chest.zip (resourcepack)",
+      "modId": "",
+      "source": "modrinth",
+      "reason": "missing modrinthHash"
+    },
+    {
+      "name": "Create LootR Chest.zip (resourcepack)",
+      "modId": "",
+      "source": "curseforge",
+      "reason": "missing curseForgeHash"
+    },
+    {
+      "name": "Create Mechanical Extruder",
+      "modId": "create_mechanical_extruder",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create More: Package Couriers",
+      "modId": "cmpackagecouriers",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create Stuff 'N Additions",
+      "modId": "create_sa",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create Touch-Ups v1.0.zip (resourcepack)",
+      "modId": "",
+      "source": "modrinth",
+      "reason": "missing modrinthHash"
+    },
+    {
+      "name": "Create Touch-Ups v1.0.zip (resourcepack)",
+      "modId": "",
+      "source": "curseforge",
+      "reason": "missing curseForgeHash"
+    },
+    {
+      "name": "Create: Applied Kinetics",
+      "modId": "createappliedkinetics",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: Broken Bad",
+      "modId": "createbb",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Create: Broken Bad",
+      "modId": "createbb",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: Central Kitchen",
+      "modId": "create_central_kitchen",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: Colorful Catalysts",
+      "modId": "colorful_catalysts",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: Connected",
+      "modId": "create_connected",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Create: Connected",
+      "modId": "create_connected",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: Copycats+",
+      "modId": "copycats",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: Deep Dark",
+      "modId": "create_deep_dark",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: Dragons Plus",
+      "modId": "create_dragons_plus",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: Dreams n' Desires",
+      "modId": "dndesires",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: Enchantable Machinery",
+      "modId": "createenchantablemachinery",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: Enchantment Industry",
+      "modId": "create_enchantment_industry",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: Escalated",
+      "modId": "escalated",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: Extra Gauges",
+      "modId": "extra_gauges",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: New Age",
+      "modId": "create_new_age",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: Numismatics",
+      "modId": "numismatics",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: Numismatics",
+      "modId": "numismatics",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Create: Numismatics",
+      "modId": "numismatics",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: Smart Bounds",
+      "modId": "smart_bounds",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: The Factory Must Grow",
+      "modId": "tfmg",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "create: things and misc",
+      "modId": "create_things_and_misc",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: Threaded Trains",
+      "modId": "createthreadedtrains",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: Trading Floor",
+      "modId": "trading_floor",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: Vintage NeoForged",
+      "modId": "createvintageneoforged",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Create: Vintage NeoForged",
+      "modId": "createvintageneoforged",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Create: Winery",
+      "modId": "create_winery",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "CreateBetterFps",
+      "modId": "createbetterfps",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "createbicbit-forge-1.21.1-1.0.2B.jar",
+      "modId": "",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "createful_plaques-2.0.zip (resourcepack)",
+      "modId": "",
+      "source": "modrinth",
+      "reason": "missing modrinthHash"
+    },
+    {
+      "name": "createful_plaques-2.0.zip (resourcepack)",
+      "modId": "",
+      "source": "curseforge",
+      "reason": "missing curseForgeHash"
+    },
+    {
+      "name": "CreateSophBackpacks.zip (resourcepack)",
+      "modId": "",
+      "source": "modrinth",
+      "reason": "missing modrinthHash"
+    },
+    {
+      "name": "CreateSophBackpacks.zip (resourcepack)",
+      "modId": "",
+      "source": "curseforge",
+      "reason": "missing curseForgeHash"
+    },
+    {
+      "name": "CullLeaves",
+      "modId": "cullleaves",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Curios API",
+      "modId": "curios",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Dynamic FPS",
+      "modId": "dynamic_fps",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "EMI",
+      "modId": "emi",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "EMI++",
+      "modId": "emixx",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "EnchantmentDescriptions",
+      "modId": "enchdesc",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "EntityCulling",
+      "modId": "entityculling",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Farmer's Delight",
+      "modId": "farmersdelight",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Fast Suite",
+      "modId": "fastsuite",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Fast Suite",
+      "modId": "fastsuite",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Ferrite Core",
+      "modId": "ferritecore",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Flerovium",
+      "modId": "flerovium",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Framework",
+      "modId": "framework",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Framework",
+      "modId": "framework",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "FTB Filter System",
+      "modId": "ftbfiltersystem",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "FTB Library",
+      "modId": "ftblibrary",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "FTB Quests",
+      "modId": "ftbquests",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "FTB Teams",
+      "modId": "ftbteams",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "FTB XMod Compat",
+      "modId": "ftbxmodcompat",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "FTBQuestsOptimizer",
+      "modId": "ftbqopt",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "GeckoLib 4",
+      "modId": "geckolib",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "GuideME",
+      "modId": "guideme",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "ImmediatelyFast",
+      "modId": "immediatelyfast",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Immersive Aircraft",
+      "modId": "immersive_aircraft",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Immersive Optimization",
+      "modId": "immersive_optimization",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Jade",
+      "modId": "jade",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Jade Addons",
+      "modId": "jadeaddons",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Just Enough Items",
+      "modId": "jei",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "kotlinforforge-5.11.0-all.jar",
+      "modId": "",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "kotlinforforge-5.11.0-all.jar",
+      "modId": "",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Krypton FNP",
+      "modId": "krypton_fnp",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "KubeJS",
+      "modId": "kubejs",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "KubeJS",
+      "modId": "kubejs",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "KubeJS Create",
+      "modId": "kubejs_create",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "KubeJS Create",
+      "modId": "kubejs_create",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Lithium",
+      "modId": "lithium",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Lootr",
+      "modId": "lootr",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Man of Many Planes",
+      "modId": "man_of_many_planes",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Mechanicals Lib",
+      "modId": "mechanicals",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "MidnightLib",
+      "modId": "midnightlib",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "ModernFix",
+      "modId": "modernfix",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Molten Vents",
+      "modId": "molten_vents",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Molten Vents",
+      "modId": "molten_vents",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Moonlight Lib",
+      "modId": "moonlight",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "More Culling",
+      "modId": "moreculling",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Mouse Tweaks",
+      "modId": "mousetweaks",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "MrCrayfish's Furniture Mod: Refurbished",
+      "modId": "refurbished_furniture",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "MrCrayfish's Furniture Mod: Refurbished",
+      "modId": "refurbished_furniture",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Nature's Compass",
+      "modId": "naturescompass",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Noisium",
+      "modId": "noisium",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Northstar Redux",
+      "modId": "northstar",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Not Enough Recipe Book",
+      "modId": "nerb",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "OctoLib",
+      "modId": "octolib",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Open Parties and Claims",
+      "modId": "openpartiesandclaims",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Placebo",
+      "modId": "placebo",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Placebo",
+      "modId": "placebo",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "PrickleMC",
+      "modId": "prickle",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Ratatouille",
+      "modId": "ratatouille",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Reese's Sodium Options",
+      "modId": "reeses_sodium_options",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Rhino",
+      "modId": "rhino",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Rhino",
+      "modId": "rhino",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Searchables",
+      "modId": "searchables",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Sodium",
+      "modId": "sodium",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Sodium Dynamic Lights",
+      "modId": "sodiumdynamiclights",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Sodium Extras",
+      "modId": "sodiumextras",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Sodium Options API",
+      "modId": "sodiumoptionsapi",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Sophisticated Backpacks",
+      "modId": "sophisticatedbackpacks",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Sophisticated Backpacks",
+      "modId": "sophisticatedbackpacks",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Sophisticated Backpacks Create Integration",
+      "modId": "sophisticatedbackpackscreateintegration",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Sophisticated Backpacks Create Integration",
+      "modId": "sophisticatedbackpackscreateintegration",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Sophisticated Core",
+      "modId": "sophisticatedcore",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Sophisticated Core",
+      "modId": "sophisticatedcore",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Sophisticated Inventory Interactions",
+      "modId": "sophisticatedinventoryinteractions",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Sophisticated Inventory Interactions",
+      "modId": "sophisticatedinventoryinteractions",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Sound Physics Remastered",
+      "modId": "sound_physics_remastered",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Sound Physics Remastered",
+      "modId": "sound_physics_remastered",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Supplementaries",
+      "modId": "supplementaries",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Supplementaries",
+      "modId": "supplementaries",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Supplementaries Squared",
+      "modId": "suppsquared",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "What Are They Up To",
+      "modId": "watut",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Xaero Train Map",
+      "modId": "xaerotrainmap",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Xaero's World Map",
+      "modId": "xaeroworldmap",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    },
+    {
+      "name": "Yet Another Memory Optimization (YAMO)",
+      "modId": "yammo",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "Yet Another Memory Optimization (YAMO)",
+      "modId": "yammo",
+      "source": "curseforge",
+      "reason": "missing CURSEFORGE_API_KEY"
+    }
+  ]
+}
