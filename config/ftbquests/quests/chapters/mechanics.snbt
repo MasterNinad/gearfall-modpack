@@ -281,6 +281,8 @@
 		{
 			dependencies: ["2C2969D5B84CD1D7"]
 			id: "04616501E2CD18B1"
+			shape: "octagon"
+			size: 1.2d
 			tasks: [{
 				count: 2L
 				id: "06FD1CCA1798FE87"

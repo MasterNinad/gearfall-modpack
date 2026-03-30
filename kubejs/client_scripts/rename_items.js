@@ -10,4 +10,7 @@ ClientEvents.lang('en_us', event => {
     event.renameItem('tfmg:etched_circuit_board', 'Etched Plastic Circuit Board');
     event.renameItem('tfmg:unfinished_circuit_board', 'Unfinished Basic Circuit Board');
     event.renameItem('tfmg:circuit_board', 'Basic Circuit Board');
+
+    //Create Confectionery: Items
+    event.renameItem('create_confectionery:black_chocolate_bucket', 'Dark Chocolate Bucket');
 })

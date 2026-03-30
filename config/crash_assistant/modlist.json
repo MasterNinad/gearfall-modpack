@@ -381,14 +381,6 @@
     "curseForgeHash": 40321435,
     "modrinthHash": "3231da5734391c991e9848e7fa61c53d197eb107"
   },
-  "create_ratatouille-1.21.1-1.3.8.jar": {
-    "jarName": "create_ratatouille-1.21.1-1.3.8.jar",
-    "modId": "ratatouille",
-    "name": "Ratatouille",
-    "version": "1.3.8",
-    "curseForgeHash": 3590748019,
-    "modrinthHash": "413a947546497d270ed43d5779dfef548ad86e6c"
-  },
   "create_things_and_misc-4.1.0-neoforge-1.21.1.jar": {
     "jarName": "create_things_and_misc-4.1.0-neoforge-1.21.1.jar",
     "modId": "create_things_and_misc",
@@ -991,13 +983,13 @@
     "curseForgeHash": 3466836795,
     "modrinthHash": "8aec7a6ce4df8aba144aef3967204cf295dbf441"
   },
-  "sophisticatedinventoryinteractions-1.21.1-0.1.3.30.jar": {
-    "jarName": "sophisticatedinventoryinteractions-1.21.1-0.1.3.30.jar",
+  "sophisticatedinventoryinteractions-1.21.1-0.1.4.40.jar": {
+    "jarName": "sophisticatedinventoryinteractions-1.21.1-0.1.4.40.jar",
     "modId": "sophisticatedinventoryinteractions",
     "name": "Sophisticated Inventory Interactions",
-    "version": "0.1.3",
-    "curseForgeHash": 3140026935,
-    "modrinthHash": "43ef0ad5dc14240c48cb80106eceb7b4154fcb08"
+    "version": "0.1.4",
+    "curseForgeHash": 3815701665,
+    "modrinthHash": "58c1945c0a5a7969758c577bb0dd09e95f03e28b"
   },
   "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar": {
     "jarName": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
