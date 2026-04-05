@@ -241,12 +241,20 @@
       "modrinthHash": "aa5da2269d02e8bb1c1abc260af242b09ceae5ea"
     },
     {
-      "jarName": "create_ltab-3.8.4.jar",
+      "jarName": "create_ltab-3.8.5.jar",
       "modId": "create_ltab",
       "name": "Create Let The Adventure Begin",
       "version": "3.8.2",
-      "curseForgeHash": 3608070960,
-      "modrinthHash": "835740a05b55baf6f2fb6596ed8ebb9008126182"
+      "curseForgeHash": 2893443743,
+      "modrinthHash": "b25235b6f5db9dae14fa104942764eeeb073c3cd"
+    },
+    {
+      "jarName": "cmlinkedremote-neoforge-2.0.0.jar",
+      "modId": "cmlinkedremote",
+      "name": "Create More: Linked Remote",
+      "version": "2.0.0",
+      "curseForgeHash": 1590926592,
+      "modrinthHash": "486e92ec265039c6fa44337a37e87d44dbcb06b3"
     },
     {
       "jarName": "create-stuff-additions1.21.1_v2.1.0e.jar",
@@ -329,12 +337,28 @@
       "modrinthHash": "c32ab6c667745313c23ba42b5aa53d34c23a201d"
     },
     {
+      "jarName": "fluid-1.2.1.jar",
+      "modId": "fluid",
+      "name": "Create: Fluid",
+      "version": "1.2.1",
+      "curseForgeHash": 1475284633,
+      "modrinthHash": "d27d6a059fc07f7057325b2f049c0fd7417cb29f"
+    },
+    {
       "jarName": "create-new-age-1.1.7c+neoforge-mc1.21.1.jar",
       "modId": "create_new_age",
       "name": "Create: New Age",
       "version": "1.1.7c+mc1.21.1",
       "curseForgeHash": 3755031810,
       "modrinthHash": "ee352726afeaf935098471f12102da4b2a6fe18e"
+    },
+    {
+      "jarName": "create_pattern_schematics-2.0.10.jar",
+      "modId": "create_pattern_schematics",
+      "name": "Create: Pattern Schematics",
+      "version": "2.0.10",
+      "curseForgeHash": 3055861905,
+      "modrinthHash": "e3dea574c3b3d590444796a42e8f7456280b1063"
     },
     {
       "jarName": "smart_bounds-1.0.0.jar",
@@ -359,6 +383,14 @@
       "version": "1.0.0",
       "curseForgeHash": 2593446321,
       "modrinthHash": "1dec765e324bf968a1685a173aff5a13c11d0856"
+    },
+    {
+      "jarName": "createtransmission-1.1.0+neoforge-create6-1.21.1.jar",
+      "modId": "createtransmission",
+      "name": "Create: Transmission",
+      "version": "1.1.0+neoforge-create6-1.21.1",
+      "curseForgeHash": 1142230328,
+      "modrinthHash": "12712db26b09e5dc3bac2c6981d47e1de23cee9f"
     },
     {
       "jarName": "createvintageneoforged-1.21.1-1.2.3.1.jar",
@@ -415,6 +447,14 @@
       "version": "1.0.17",
       "curseForgeHash": 1722484159,
       "modrinthHash": "57dee660ac013c18377e3906da25bb870ddd3c43"
+    },
+    {
+      "jarName": "fluidjs-1.2.3.jar",
+      "modId": "fluidjs",
+      "name": "FluidJS",
+      "version": "1.2.3",
+      "curseForgeHash": 3911662832,
+      "modrinthHash": "c3565c59494d5ffe6c61e400703a1c9de16a813c"
     },
     {
       "jarName": "framework-neoforge-1.21.1-0.13.11.jar",
@@ -489,12 +529,12 @@
       "modrinthHash": "97cfa1b8ecc663763101e87390ae7830ca425723"
     },
     {
-      "jarName": "moonlight-1.21-2.29.23-neoforge.jar",
+      "jarName": "moonlight-1.21-2.29.26-neoforge.jar",
       "modId": "moonlight",
       "name": "Moonlight Lib",
-      "version": "1.21-2.29.23",
-      "curseForgeHash": 1479041480,
-      "modrinthHash": "0425f3f15ba59d1bbd48fff8dfddda645543c79d"
+      "version": "1.21-2.29.26",
+      "curseForgeHash": 2423368223,
+      "modrinthHash": "639e4cab7b5e178412b4b64920a290e34035111e"
     },
     {
       "jarName": "moreculling-neoforge-1.21.1-1.0.7.jar",
@@ -569,14 +609,6 @@
       "modrinthHash": "1c2b8c38066d6f36209c5dadee25c184ef65202e"
     },
     {
-      "jarName": "create_ratatouille-1.21.1-1.3.8.jar",
-      "modId": "ratatouille",
-      "name": "Ratatouille",
-      "version": "1.3.8",
-      "curseForgeHash": 3590748019,
-      "modrinthHash": "413a947546497d270ed43d5779dfef548ad86e6c"
-    },
-    {
       "jarName": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
       "modId": "reeses_sodium_options",
       "name": "Reese's Sodium Options",
@@ -617,12 +649,12 @@
       "modrinthHash": "5d014d031fa77ab600e07835b032ef4dcb79b442"
     },
     {
-      "jarName": "sophisticatedinventoryinteractions-1.21.1-0.1.3.30.jar",
+      "jarName": "sophisticatedinventoryinteractions-1.21.1-0.1.5.65.jar",
       "modId": "sophisticatedinventoryinteractions",
       "name": "Sophisticated Inventory Interactions",
-      "version": "0.1.3",
-      "curseForgeHash": 3140026935,
-      "modrinthHash": "43ef0ad5dc14240c48cb80106eceb7b4154fcb08"
+      "version": "0.1.5",
+      "curseForgeHash": 4089577938,
+      "modrinthHash": "068b340335585a6f01493d4c43d6c8a045d419f4"
     },
     {
       "jarName": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
@@ -633,12 +665,12 @@
       "modrinthHash": "31cf754f9e5f62d1ca257f297e5dce394024696c"
     },
     {
-      "jarName": "supplementaries-1.21-3.5.29-neoforge.jar",
+      "jarName": "supplementaries-1.21-3.5.31-neoforge.jar",
       "modId": "supplementaries",
       "name": "Supplementaries",
-      "version": "1.21-3.5.29",
-      "curseForgeHash": 4149617192,
-      "modrinthHash": "85517bf29e0b9ad977278869b1348f21a53c6ad2"
+      "version": "1.21-3.5.31",
+      "curseForgeHash": 3389746361,
+      "modrinthHash": "4d17bcb804faeea80e52b2ca9a41a6fad42de20d"
     },
     {
       "jarName": "suppsquared-1.21-1.2.17-neoforge.jar",
@@ -939,12 +971,12 @@
       "modrinthHash": null
     },
     {
-      "jarName": "create_ltab-3.8.4.jar",
+      "jarName": "create_ltab-3.8.5.jar",
       "modId": "create_ltab",
       "name": "Create Let The Adventure Begin",
       "version": "3.8.2",
-      "curseForgeHash": 3608070960,
-      "modrinthHash": "835740a05b55baf6f2fb6596ed8ebb9008126182"
+      "curseForgeHash": 2893443743,
+      "modrinthHash": "b25235b6f5db9dae14fa104942764eeeb073c3cd"
     },
     {
       "jarName": "Create LootR Chest.zip (resourcepack)",
@@ -953,6 +985,14 @@
       "version": "N/A",
       "curseForgeHash": null,
       "modrinthHash": null
+    },
+    {
+      "jarName": "cmlinkedremote-neoforge-2.0.0.jar",
+      "modId": "cmlinkedremote",
+      "name": "Create More: Linked Remote",
+      "version": "2.0.0",
+      "curseForgeHash": 1590926592,
+      "modrinthHash": "486e92ec265039c6fa44337a37e87d44dbcb06b3"
     },
     {
       "jarName": "create-stuff-additions1.21.1_v2.1.0e.jar",
@@ -1043,12 +1083,28 @@
       "modrinthHash": "c32ab6c667745313c23ba42b5aa53d34c23a201d"
     },
     {
+      "jarName": "fluid-1.2.1.jar",
+      "modId": "fluid",
+      "name": "Create: Fluid",
+      "version": "1.2.1",
+      "curseForgeHash": 1475284633,
+      "modrinthHash": "d27d6a059fc07f7057325b2f049c0fd7417cb29f"
+    },
+    {
       "jarName": "create-new-age-1.1.7c+neoforge-mc1.21.1.jar",
       "modId": "create_new_age",
       "name": "Create: New Age",
       "version": "1.1.7c+mc1.21.1",
       "curseForgeHash": 3755031810,
       "modrinthHash": "ee352726afeaf935098471f12102da4b2a6fe18e"
+    },
+    {
+      "jarName": "create_pattern_schematics-2.0.10.jar",
+      "modId": "create_pattern_schematics",
+      "name": "Create: Pattern Schematics",
+      "version": "2.0.10",
+      "curseForgeHash": 3055861905,
+      "modrinthHash": "e3dea574c3b3d590444796a42e8f7456280b1063"
     },
     {
       "jarName": "smart_bounds-1.0.0.jar",
@@ -1073,6 +1129,14 @@
       "version": "1.0.0",
       "curseForgeHash": 2593446321,
       "modrinthHash": "1dec765e324bf968a1685a173aff5a13c11d0856"
+    },
+    {
+      "jarName": "createtransmission-1.1.0+neoforge-create6-1.21.1.jar",
+      "modId": "createtransmission",
+      "name": "Create: Transmission",
+      "version": "1.1.0+neoforge-create6-1.21.1",
+      "curseForgeHash": 1142230328,
+      "modrinthHash": "12712db26b09e5dc3bac2c6981d47e1de23cee9f"
     },
     {
       "jarName": "createvintageneoforged-1.21.1-1.2.3.1.jar",
@@ -1147,6 +1211,14 @@
       "modrinthHash": "57dee660ac013c18377e3906da25bb870ddd3c43"
     },
     {
+      "jarName": "fluidjs-1.2.3.jar",
+      "modId": "fluidjs",
+      "name": "FluidJS",
+      "version": "1.2.3",
+      "curseForgeHash": 3911662832,
+      "modrinthHash": "c3565c59494d5ffe6c61e400703a1c9de16a813c"
+    },
+    {
       "jarName": "framework-neoforge-1.21.1-0.13.11.jar",
       "modId": "framework",
       "name": "Framework",
@@ -1219,12 +1291,12 @@
       "modrinthHash": "97cfa1b8ecc663763101e87390ae7830ca425723"
     },
     {
-      "jarName": "moonlight-1.21-2.29.23-neoforge.jar",
+      "jarName": "moonlight-1.21-2.29.26-neoforge.jar",
       "modId": "moonlight",
       "name": "Moonlight Lib",
-      "version": "1.21-2.29.23",
-      "curseForgeHash": 1479041480,
-      "modrinthHash": "0425f3f15ba59d1bbd48fff8dfddda645543c79d"
+      "version": "1.21-2.29.26",
+      "curseForgeHash": 2423368223,
+      "modrinthHash": "639e4cab7b5e178412b4b64920a290e34035111e"
     },
     {
       "jarName": "moreculling-neoforge-1.21.1-1.0.7.jar",
@@ -1299,14 +1371,6 @@
       "modrinthHash": "1c2b8c38066d6f36209c5dadee25c184ef65202e"
     },
     {
-      "jarName": "create_ratatouille-1.21.1-1.3.8.jar",
-      "modId": "ratatouille",
-      "name": "Ratatouille",
-      "version": "1.3.8",
-      "curseForgeHash": 3590748019,
-      "modrinthHash": "413a947546497d270ed43d5779dfef548ad86e6c"
-    },
-    {
       "jarName": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
       "modId": "reeses_sodium_options",
       "name": "Reese's Sodium Options",
@@ -1347,12 +1411,12 @@
       "modrinthHash": "5d014d031fa77ab600e07835b032ef4dcb79b442"
     },
     {
-      "jarName": "sophisticatedinventoryinteractions-1.21.1-0.1.3.30.jar",
+      "jarName": "sophisticatedinventoryinteractions-1.21.1-0.1.5.65.jar",
       "modId": "sophisticatedinventoryinteractions",
       "name": "Sophisticated Inventory Interactions",
-      "version": "0.1.3",
-      "curseForgeHash": 3140026935,
-      "modrinthHash": "43ef0ad5dc14240c48cb80106eceb7b4154fcb08"
+      "version": "0.1.5",
+      "curseForgeHash": 4089577938,
+      "modrinthHash": "068b340335585a6f01493d4c43d6c8a045d419f4"
     },
     {
       "jarName": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
@@ -1363,12 +1427,12 @@
       "modrinthHash": "31cf754f9e5f62d1ca257f297e5dce394024696c"
     },
     {
-      "jarName": "supplementaries-1.21-3.5.29-neoforge.jar",
+      "jarName": "supplementaries-1.21-3.5.31-neoforge.jar",
       "modId": "supplementaries",
       "name": "Supplementaries",
-      "version": "1.21-3.5.29",
-      "curseForgeHash": 4149617192,
-      "modrinthHash": "85517bf29e0b9ad977278869b1348f21a53c6ad2"
+      "version": "1.21-3.5.31",
+      "curseForgeHash": 3389746361,
+      "modrinthHash": "4d17bcb804faeea80e52b2ca9a41a6fad42de20d"
     },
     {
       "jarName": "suppsquared-1.21-1.2.17-neoforge.jar",
@@ -1558,6 +1622,12 @@
       "reason": "modrinth http error 404"
     },
     {
+      "name": "FluidJS",
+      "modId": "fluidjs",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
       "name": "Framework",
       "modId": "framework",
       "source": "modrinth",
@@ -1638,12 +1708,6 @@
     {
       "name": "Sound Physics Remastered",
       "modId": "sound_physics_remastered",
-      "source": "modrinth",
-      "reason": "modrinth http error 404"
-    },
-    {
-      "name": "Supplementaries",
-      "modId": "supplementaries",
       "source": "modrinth",
       "reason": "modrinth http error 404"
     },
