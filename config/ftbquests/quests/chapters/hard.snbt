@@ -155,5 +155,119 @@
 			x: -1.0d
 			y: -4.5d
 		}
+		{
+			dependencies: [
+				"3FBAE2BB5F26AFDF"
+				"3B206FC0F4FA97E2"
+				"1878685A799F680F"
+				"5B1FF5B0E6E8D4CB"
+			]
+			id: "31925971DFC2374D"
+			shape: "octagon"
+			size: 1.2d
+			tasks: [{
+				id: "4D6A488CD758E986"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			id: "1878685A799F680F"
+			shape: "square"
+			size: 0.75d
+			tasks: [
+				{
+					id: "5DF056D71BBAE1E3"
+					item: { count: 1, id: "minecraft:oak_sapling" }
+					type: "item"
+				}
+				{
+					id: "16E69E575EDAF205"
+					item: { count: 1, id: "minecraft:spruce_sapling" }
+					type: "item"
+				}
+				{
+					id: "14FC1839AF26F396"
+					item: { count: 1, id: "minecraft:birch_sapling" }
+					type: "item"
+				}
+				{
+					id: "69218D0475208991"
+					item: { count: 1, id: "minecraft:jungle_sapling" }
+					type: "item"
+				}
+				{
+					id: "4717C974B51B9E4F"
+					item: { count: 1, id: "minecraft:acacia_sapling" }
+					type: "item"
+				}
+				{
+					id: "36B0ED9145F349B1"
+					item: { count: 1, id: "minecraft:dark_oak_sapling" }
+					type: "item"
+				}
+				{
+					id: "29016858A69952B0"
+					item: { count: 1, id: "minecraft:cherry_sapling" }
+					type: "item"
+				}
+			]
+			x: 0.2d
+			y: -3.75d
+		}
+		{
+			id: "5B1FF5B0E6E8D4CB"
+			shape: "square"
+			size: 0.75d
+			tasks: [
+				{
+					id: "2824A273B32CC982"
+					item: { count: 1, id: "alexscaves:pewen_sapling" }
+					type: "item"
+				}
+				{
+					id: "63C0CCC9ABCB973F"
+					item: { count: 1, id: "alexscaves:ancient_sapling" }
+					type: "item"
+				}
+				{
+					id: "407BEFB15FF369CD"
+					item: { count: 1, id: "alexscaves:thornwood_sapling" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			id: "3B206FC0F4FA97E2"
+			shape: "square"
+			size: 0.75d
+			tasks: [
+				{
+					id: "79BE6F8759954173"
+					item: { count: 1, id: "northstar:dormant_martian_sapling" }
+					type: "item"
+				}
+				{
+					id: "0A8AAB60EF6094C7"
+					item: { count: 1, id: "northstar:wilter_sapling" }
+					type: "item"
+				}
+				{
+					id: "14E1296E417C0ACD"
+					item: { count: 1, id: "northstar:argyre_sapling" }
+					type: "item"
+				}
+				{
+					id: "5E144D24347B17F7"
+					item: { count: 1, id: "northstar:coiler_sapling" }
+					type: "item"
+				}
+			]
+			x: 1.8d
+			y: -3.75d
+		}
 	]
 }

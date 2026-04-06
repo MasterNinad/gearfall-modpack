@@ -145,7 +145,7 @@
 				}
 			]
 			x: 1.5d
-			y: 0.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["1AC5225616A2DBEB"]
@@ -165,7 +165,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 1.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["4632BE033D180212"]
@@ -452,6 +452,7 @@
 			icon: {
 				id: "create:stock_ticker"
 			}
+			icon_scale: 0.9d
 			id: "0603CB7BA17DDE22"
 			shape: "diamond"
 			size: 1.2d
@@ -516,22 +517,6 @@
 				}
 			]
 			x: 4.5d
-			y: 3.0d
-		}
-		{
-			dependencies: [
-				"4A66349662612F04"
-				"0DA1533418D076E2"
-			]
-			hide_until_deps_complete: true
-			id: "5DE30980EC991ECF"
-			tasks: [{
-				count: 4L
-				id: "61774AFEA0D18418"
-				item: { count: 1, id: "create:steam_engine" }
-				type: "item"
-			}]
-			x: 6.0d
 			y: 3.0d
 		}
 		{
@@ -742,6 +727,9 @@
 				"0603CB7BA17DDE22"
 			]
 			hide_until_deps_complete: true
+			icon: {
+				id: "cmpackagecouriers:cardboard_plane"
+			}
 			id: "3710C3541E214362"
 			tasks: [
 				{
@@ -782,8 +770,8 @@
 					type: "item"
 				}
 			]
-			x: 5.25d
-			y: 0.75d
+			x: 6.0d
+			y: 1.125d
 		}
 		{
 			dependencies: ["7DF7C19B39DB7189"]
@@ -888,8 +876,8 @@
 					type: "item"
 				}
 			]
-			x: 0.0d
-			y: 0.0d
+			x: 2.5d
+			y: 3.0d
 		}
 		{
 			dependencies: ["4A66349662612F04"]
@@ -1174,6 +1162,9 @@
 		{
 			dependencies: ["0DA1533418D076E2"]
 			hide_until_deps_complete: true
+			icon: {
+				id: "create:schematicannon"
+			}
 			id: "7461D4E648BB0ECF"
 			shape: "rsquare"
 			tasks: [
@@ -1208,6 +1199,147 @@
 			}]
 			x: 4.5d
 			y: 4.5d
+		}
+		{
+			dependencies: ["403F7A7AFC956550"]
+			id: "4E02423682A9B5D5"
+			shape: "rsquare"
+			tasks: [{
+				id: "7679FF59081343DE"
+				item: { count: 1, id: "create:millstone" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7461D4E648BB0ECF"]
+			id: "3C963D43D806078D"
+			optional: true
+			shape: "square"
+			size: 0.75d
+			tasks: [
+				{
+					id: "134392A7D8C44698"
+					item: { count: 1, id: "create_pattern_schematics:empty_pattern_schematic" }
+					type: "item"
+				}
+				{
+					id: "3DC0C116865433E1"
+					item: { count: 1, id: "create_pattern_schematics:pattern_schematic_and_quill" }
+					type: "item"
+				}
+			]
+			x: 6.75d
+			y: -0.75d
+		}
+		{
+			dependencies: ["7461D4E648BB0ECF"]
+			id: "320F54FD31E69C71"
+			optional: true
+			shape: "square"
+			size: 0.75d
+			tasks: [{
+				id: "4200377CCCB5621D"
+				item: { count: 1, id: "create:schematic_and_quill" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: -0.75d
+		}
+		{
+			dependencies: ["0AE3C9B45544091F"]
+			id: "29E30C8398228D64"
+			optional: true
+			shape: "square"
+			size: 0.75d
+			tasks: [
+				{
+					id: "2E6AAAEC10A3C524"
+					item: { count: 1, id: "extra_gauges:integer_gauge" }
+					type: "item"
+				}
+				{
+					id: "555F599ACF001620"
+					item: { count: 1, id: "extra_gauges:integer_selector" }
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["0AE3C9B45544091F"]
+			id: "77000DF97865E756"
+			optional: true
+			shape: "square"
+			size: 0.75d
+			tasks: [
+				{
+					id: "3A79B82592C69208"
+					item: { count: 1, id: "extra_gauges:string_gauge" }
+					type: "item"
+				}
+				{
+					id: "4E8B4179192F67CE"
+					item: { count: 1, id: "extra_gauges:display_collector" }
+					type: "item"
+				}
+			]
+			x: 8.25d
+			y: -6.75d
+		}
+		{
+			dependencies: ["0AE3C9B45544091F"]
+			id: "7C63A4B01B50452E"
+			optional: true
+			shape: "square"
+			size: 0.75d
+			tasks: [
+				{
+					id: "0962A4DFD5B1739C"
+					item: { count: 1, id: "extra_gauges:counter_gauge" }
+					type: "item"
+				}
+				{
+					id: "7F3F31F0CEA4B3CE"
+					item: { count: 1, id: "extra_gauges:comparator_gauge" }
+					type: "item"
+				}
+				{
+					id: "30F6482C154F4E03"
+					item: { count: 1, id: "extra_gauges:passive_gauge" }
+					type: "item"
+				}
+				{
+					id: "60573FD6992B7297"
+					item: { count: 1, id: "extra_gauges:logic_gauge" }
+					type: "item"
+				}
+			]
+			x: 8.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["0AE3C9B45544091F"]
+			id: "082C9526C82D870E"
+			optional: true
+			shape: "square"
+			size: 0.75d
+			tasks: [
+				{
+					id: "1A370C029C7499D9"
+					item: { count: 1, id: "create_factory_logistics:factory_fluid_gauge" }
+					type: "item"
+				}
+				{
+					id: "7799DC1406DF6274"
+					item: { count: 1, id: "create_factory_logistics:jar_packager" }
+					type: "item"
+				}
+			]
+			x: 6.75d
+			y: -6.75d
 		}
 	]
 }

@@ -18,6 +18,9 @@ shaderpacks/**
 /usercache.json
 /usernamecache.json
 /kubejs/README.txt
+/kubejs/client_scripts/jsconfig.json
+/kubejs/server_scripts/jsconfig.json
+/kubejs/startup_scripts/jsconfig.json
 /kubejs/config/**
 debug/**
 fancymenu_data/**
@@ -29,3 +32,4 @@ backups/**
 xaero/**
 dynamic-resource-pack-cache/**
 dynamic-data-pack-cache/**
+.probe/**
