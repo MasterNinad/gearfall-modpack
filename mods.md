@@ -24,11 +24,6 @@
 | Create: Numismatics | 1.0.19integration+neoforge-mc1.21.1-local | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-numismatics-create-6-0-integration) | N/A | Economy and Capitalism |
 | Create: Trading Floor | 3.0.16 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-trading-floor) | [Click Here](https://modrinth.com/mod/create-trading-floor) | Adds the trading depot block, which can be used within create to automatically trade with villagers over the day |
 
-### Other tech mods [2]
-| Mod | Version | CurseForge | Modrinth | Purpose |
-| Applied Energistics 2 | 19.2.17 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | [Click Here](https://modrinth.com/mod/ae2) | Storage Systems, Auto-Crafting, Networking and Channels, Spatial Storage and Unique Resources |
-| AE2WTLib | 19.4.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals) | [Click Here](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | Features several wireless versions of Applied Energistics 2 |
-
 ## Visuals and QOL (9+6)
 
 ### QOL Mods [7]
@@ -61,7 +56,7 @@
 | createful_plaques-2.0.zip (resourcepack) | N/A | N/A | N/A | [TODO: add purpose] |
 | CreateSophBackpacks.zip (resourcepack) | N/A | N/A | N/A | [TODO: add purpose] |
 
-## Other (119)
+## Other (121)
 
 ### Exploration Mods [2]
 
@@ -69,16 +64,12 @@
 |---|---|---|---|---|
 | Immersive Aircraft | 1.4.3+1.21.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft) | [Click Here](https://modrinth.com/mod/immersive-aircraft) | Adds a bunch of rustic aircraft to travel, transport, and explore |
 | Sophisticated Backpacks | 3.25.36 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) | N/A | Adds upgradable and highly customizable backpacks designed for convenient portable storage |
-| Alex's Caves | 2.0.9 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/alexs-caves-unofficial-port) | [Click Here](https://modrinth.com/mod/alexs-caves-(unofficial-port)) | Adds 6 new cave biomes to the Overworld containing lots of stuff |
 
 ### Building Mods [1]
 
 | Mod | Version | CurseForge | Modrinth | Purpose |
 |---|---|---|---|---|
-| Amendments | 1.21-2.0.15 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/amendments) | [Click Here](https://modrinth.com/mod/amendments) | Adds tweaks to many of existing vanilla blocks |
 | Create: Copycats+ | 3.0.4+mc.1.21.1-neoforge | [Click Here](https://www.curseforge.com/minecraft/mc-mods/copycats) | [Click Here](https://modrinth.com/mod/copycats) | All the copycats you've ever wanted, combined into a single mod! |
-| Supplementaries | 1.21-3.5.31 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/supplementaries) | [Click Here](https://modrinth.com/mod/supplementaries) | Adds valuable content which fills the gaps vanilla has |
-| Supplementaries Squared | 1.21-1.2.17 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared) | [Click Here](https://modrinth.com/mod/supplementaries-squared) | Adds variants to some of its blocks as well as some other misc features that didn't make the cut to the main mod |
 
 ### Utility Mods [4]
 
@@ -93,9 +84,6 @@
 
 | Mod | Version | CurseForge | Modrinth | Purpose |
 |---|---|---|---|---|
-| All The Leaks | 1.1.7+1.21.1-neoforge | [Click Here](https://www.curseforge.com/minecraft/mc-mods/alltheleaks) | N/A | Fixes various memory leaks from mods |
-| AchievementOptimizer | 2.1.0 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/achievements-optimizer) | [Click Here](https://modrinth.com/mod/achievements-optimizer) | Optimizes how item-based achievements and advancements are processed |
-| AI-Improvements | 0.5.3 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) | [Click Here](https://modrinth.com/mod/ai-improvements) | Simplified AI modification mod focused on performance and low-level modifications to AIs in the game |
 | CullLeaves | 4.1.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) | [Click Here](https://modrinth.com/mod/cull-leaves) | Ensures no performance drops for bushy leaves :) |
 | Dynamic FPS | 3.11.4 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | [Click Here](https://modrinth.com/mod/dynamic-fps) | Reduce resource usage while Minecraft is in the background, idle, or on battery |
 | EntityCulling | 1.10.0 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/entityculling) | [Click Here](https://modrinth.com/mod/entityculling) | Multithreaded Path-Tracing, Multithreaded Path-Tracing, Entity Tick Optimization |
@@ -104,16 +92,11 @@
 | Lithium | 0.15.3+mc1.21.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/lithium) | [Click Here](https://modrinth.com/mod/lithium) | Improves several systems (game physics, mob AI, block ticking, etc) without changing any behaviour |
 | ModernFix | 5.26.1+mc1.21.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/modernfix) | [Click Here](https://modrinth.com/mod/modernfix) | All-in-one mod that improves performance, reduces memory usage, and fixes many bugs in modern Minecraft versions |
 | Sodium | 0.6.13+mc1.21.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/sodium) | [Click Here](https://modrinth.com/mod/sodium) | The best performance mod (for 1.21.1 Neo, cause Vulkan also exists but for Fabric :/ ) |
-| Sodium Dynamic Lights | 1.0.9 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged) | [Click Here](https://modrinth.com/mod/sodium-dynamic-lights) | Dynamic Lighting with Sodium video settings compaitability |
-| Sodium Extras | 1.0.7 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras) | [Click Here](https://modrinth.com/mod/sodium-extras) | Adds various features to Sodium further improving performance |
-| Create: Smart Bounds | 1.0.0 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-smart-bounds) | [Click Here](https://modrinth.com/mod/create-smart-bounds) | Reduce enormous and nonsense render bounds for create block entitie |
-| More Culling | 1.0.7 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/moreculling) | [Click Here](https://modrinth.com/mod/moreculling) | A mod that changes how multiple types of culling are handled in order to improve performance |
 
-### Library Mods [15]
+### Library Mods [16]
 
 | Mod | Version | CurseForge | Modrinth | Required by |
 |---|---|---|---|---|
-| Architectury | 13.0.8 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/architectury-api) | [Click Here](https://modrinth.com/mod/architectury-api) | All FTB Mods and NERB |
 | BaguetteLib | 1.1.6 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/baguettelib) | [Click Here](https://modrinth.com/mod/baguettelib) | Corpse x Curios API Compat |
 | Bookshelf | 21.1.81 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/bookshelf) | [Click Here](https://modrinth.com/mod/bookshelf-lib) | Enchantment Descriptions |
 | Create: Dragons Plus | 1.8.7 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-dragons-plus) | [Click Here](https://modrinth.com/mod/create-dragons-plus) | Create: Dragons Plus |
@@ -126,17 +109,25 @@
 | Mechanicals Lib | 1.1.0 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/mechanicals-lib) | [Click Here](https://modrinth.com/mod/mechanicals-lib) | Create Mechanical Extruder |
 | MidnightLib | 1.9.2 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/midnightlib) | [Click Here](https://modrinth.com/mod/midnightlib) | Blur+ |
 | PrickleMC | 21.1.11 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/prickle) | [Click Here](https://modrinth.com/mod/prickle) | Enchantment Descriptions |
+| ProbeJS | 7.7.2 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/probejs) | N/A | [TODO: required by] |
 | Rhino | 2101.2.7-build.81 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/rhino) | N/A | KubeJS |
 | Sophisticated Backpacks Create Integration | 0.1.5 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks-create-integration) | N/A | Compatibility of Create with Sophisticated Backpacks |
 | Sophisticated Core | 1.4.18 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core) | N/A | Sophisticated Backpacks |
-| AE2 JEI Integration | 1.2.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/ae2-jei-integration) | N/A | Just Enough Items compatibility layer for Applied Energetics 2 |
-| Alex's Caves Delight | 1.0.28 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/alexs-caves-delight) | N/A | Compaitability between Alex's Caves and Farmer's Delight |
-| Sodium Options API | 1.0.10 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/sodium-options-api) | [Click Here](https://modrinth.com/mod/sodium-options-api) | Reese's Sodium Options |
 
-### Uncategorized Mods [89]
+### Uncategorized Mods [90]
 
 | Mod | Version | CurseForge | Modrinth | Purpose |
 |---|---|---|---|---|
+| AchievementOptimizer | 2.1.0 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/achievements-optimizer) | [Click Here](https://modrinth.com/mod/achievements-optimizer) | [TODO: add purpose] |
+| AE2 JEI Integration | 1.2.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/ae2-jei-integration) | N/A | [TODO: add purpose] |
+| AE2WTLib | 19.4.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals) | [Click Here](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | [TODO: add purpose] |
+| AI-Improvements | 0.5.3 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) | [Click Here](https://modrinth.com/mod/ai-improvements) | [TODO: add purpose] |
+| Alex's Caves | 2.0.9 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/alexs-caves-unofficial-port) | [Click Here](https://modrinth.com/mod/alexs-caves-(unofficial-port)) | [TODO: add purpose] |
+| Alex's Caves Delight | 1.0.28 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/alexs-caves-delight) | N/A | [TODO: add purpose] |
+| All The Leaks | 1.1.7+1.21.1-neoforge | [Click Here](https://www.curseforge.com/minecraft/mc-mods/alltheleaks) | N/A | [TODO: add purpose] |
+| Amendments | 1.21-2.0.15 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/amendments) | [Click Here](https://modrinth.com/mod/amendments) | [TODO: add purpose] |
+| Applied Energistics 2 | 19.2.17 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | [Click Here](https://modrinth.com/mod/ae2) | [TODO: add purpose] |
+| Architectury | 13.0.8 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/architectury-api) | [Click Here](https://modrinth.com/mod/architectury-api) | [TODO: add purpose] |
 | BadOptimizations | 2.4.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/badoptimizations) | [Click Here](https://modrinth.com/mod/badoptimizations) | [TODO: add purpose] |
 | Barbeque's Delight | 1.2.2 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/barbeques-delight) | N/A | [TODO: add purpose] |
 | Carry On | 2.2.4 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/carry-on) | [Click Here](https://modrinth.com/mod/carry-on) | [TODO: add purpose] |
@@ -172,6 +163,7 @@
 | Create: Fluid | 1.2.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-fluid) | [Click Here](https://modrinth.com/mod/create-fluid) | [TODO: add purpose] |
 | Create: New Age | 1.1.7c+mc1.21.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-new-age) | [Click Here](https://modrinth.com/mod/create-new-age) | [TODO: add purpose] |
 | Create: Pattern Schematics | 2.0.10 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-pattern-schematics) | [Click Here](https://modrinth.com/mod/create-pattern-schematics) | [TODO: add purpose] |
+| Create: Smart Bounds | 1.0.0 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-smart-bounds) | [Click Here](https://modrinth.com/mod/create-smart-bounds) | [TODO: add purpose] |
 | create: things and misc | 4.1.0 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things) | [Click Here](https://modrinth.com/mod/create-misc-and-things) | [TODO: add purpose] |
 | Create: Threaded Trains | 1.0.0 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-threaded-trains) | [Click Here](https://modrinth.com/mod/create-threaded-trains) | [TODO: add purpose] |
 | Create: Transmission | 1.1.0+neoforge-create6-1.21.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-transmission) | [Click Here](https://modrinth.com/mod/create-transmission!) | [TODO: add purpose] |
@@ -184,6 +176,7 @@
 | Flerovium | 1.0.17 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/flerovium) | [Click Here](https://modrinth.com/mod/flerovium) | [TODO: add purpose] |
 | FluidJS | 1.2.3 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/fluidjs) | N/A | [TODO: add purpose] |
 | Framework | 0.13.11 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/framework) | N/A | [TODO: add purpose] |
+| Gnetum | 3.3.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/gnetum) | [Click Here](https://modrinth.com/mod/gnetum) | [TODO: add purpose] |
 | GuideME | 21.1.15 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/guideme) | [Click Here](https://modrinth.com/mod/guideme) | [TODO: add purpose] |
 | ImmediatelyFast | 1.6.10+1.21.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) | [Click Here](https://modrinth.com/mod/immediatelyfast) | [TODO: add purpose] |
 | Immersive Optimization | 0.1.4 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/immersive-optimization) | [Click Here](https://modrinth.com/mod/immersive-optimization) | [TODO: add purpose] |
@@ -193,6 +186,7 @@
 | Man of Many Planes | 0.2.1+1.21.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/man-of-many-planes) | [Click Here](https://modrinth.com/mod/man-of-many-planes) | [TODO: add purpose] |
 | Molten Vents | 2.1.2 | N/A | N/A | [TODO: add purpose] |
 | Moonlight Lib | 1.21-2.29.26 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/selene) | [Click Here](https://modrinth.com/mod/moonlight) | [TODO: add purpose] |
+| More Culling | 1.0.7 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/moreculling) | [Click Here](https://modrinth.com/mod/moreculling) | [TODO: add purpose] |
 | MrCrayfish's Furniture Mod: Refurbished | 1.0.22 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture) | N/A | [TODO: add purpose] |
 | Nature's Compass | 1.21.1-3.0.2-neoforge | [Click Here](https://www.curseforge.com/minecraft/mc-mods/natures-compass) | [Click Here](https://modrinth.com/mod/natures-compass) | [TODO: add purpose] |
 | Noisium | 2.7.0+mc1.21-1.21.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/noisiumforked) | [Click Here](https://modrinth.com/mod/noisiumforked) | [TODO: add purpose] |
@@ -203,8 +197,13 @@
 | Placebo | 9.9.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/placebo) | N/A | [TODO: add purpose] |
 | Reese's Sodium Options | 1.8.3+mc1.21.4 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options) | [Click Here](https://modrinth.com/mod/reeses-sodium-options) | [TODO: add purpose] |
 | Searchables | 1.0.2 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/searchables) | [Click Here](https://modrinth.com/mod/searchables) | [TODO: add purpose] |
+| Sodium Dynamic Lights | 1.0.9 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged) | [Click Here](https://modrinth.com/mod/sodium-dynamic-lights) | [TODO: add purpose] |
+| Sodium Extras | 1.0.7 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras) | [Click Here](https://modrinth.com/mod/sodium-extras) | [TODO: add purpose] |
+| Sodium Options API | 1.0.10 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/sodium-options-api) | [Click Here](https://modrinth.com/mod/sodium-options-api) | [TODO: add purpose] |
 | Sophisticated Inventory Interactions | 0.1.5 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/sophisticated-inventory-interactions) | N/A | [TODO: add purpose] |
 | Sound Physics Remastered | 1.21.1-1.5.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) | N/A | [TODO: add purpose] |
+| Supplementaries | 1.21-3.5.31 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/supplementaries) | [Click Here](https://modrinth.com/mod/supplementaries) | [TODO: add purpose] |
+| Supplementaries Squared | 1.21-1.2.17 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared) | [Click Here](https://modrinth.com/mod/supplementaries-squared) | [TODO: add purpose] |
 | What Are They Up To | 1.21.0-1.2.7 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to) | [Click Here](https://modrinth.com/mod/what-are-they-up-to) | [TODO: add purpose] |
 | Xaero Train Map | 1.0.0 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/xaero-train-map) | [Click Here](https://modrinth.com/mod/xaero-train-map) | [TODO: add purpose] |
 | Xaero's World Map | 1.40.11 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | [Click Here](https://modrinth.com/mod/xaeros-world-map) | [TODO: add purpose] |

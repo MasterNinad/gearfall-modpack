@@ -465,6 +465,14 @@
       "modrinthHash": "e46eb138fbb13a12f37154fb4ec407d64b326475"
     },
     {
+      "jarName": "gnetum-3.3.1.jar",
+      "modId": "gnetum",
+      "name": "Gnetum",
+      "version": "3.3.1",
+      "curseForgeHash": 3009510213,
+      "modrinthHash": "1ec9904199b480da2bcc2c38b66e37e1ffd602be"
+    },
+    {
       "jarName": "guideme-21.1.15.jar",
       "modId": "guideme",
       "name": "GuideME",
@@ -1227,6 +1235,14 @@
       "modrinthHash": "e46eb138fbb13a12f37154fb4ec407d64b326475"
     },
     {
+      "jarName": "gnetum-3.3.1.jar",
+      "modId": "gnetum",
+      "name": "Gnetum",
+      "version": "3.3.1",
+      "curseForgeHash": 3009510213,
+      "modrinthHash": "1ec9904199b480da2bcc2c38b66e37e1ffd602be"
+    },
+    {
       "jarName": "guideme-21.1.15.jar",
       "modId": "guideme",
       "name": "GuideME",
@@ -1475,7 +1491,16 @@
       "modrinthHash": "27e48e9b5b9c523dd5cb0ebae6afb780e37789ba"
     }
   ],
-  "missingRequiredBy": [],
+  "missingRequiredBy": [
+    {
+      "jarName": "ProbeJS-7.7.2.jar",
+      "modId": "probejs",
+      "name": "ProbeJS",
+      "version": "7.7.2",
+      "curseForgeHash": 762329298,
+      "modrinthHash": "3f0b9288845fd547338b535cdaed6ef2bb3787e8"
+    }
+  ],
   "failedLinkLookups": [
     {
       "name": "AE2 JEI Integration",
@@ -1672,6 +1697,12 @@
     {
       "name": "Placebo",
       "modId": "placebo",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
+      "name": "ProbeJS",
+      "modId": "probejs",
       "source": "modrinth",
       "reason": "modrinth http error 404"
     },
