@@ -229,6 +229,7 @@ key_dndesires.keyinfo.drill_active:key.keyboard.left.alt
 key_key.create_sa.flying:key.keyboard.space
 key_key.create_sa.increase_reach:key.keyboard.up
 key_key.create_sa.decrease_reach:key.keyboard.down
+key_gnetum.config.keyMapping:key.keyboard.end
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_gui.xaero_pac_key_open_menu:key.keyboard.apostrophe
 key_key.entityculling.toggle:key.keyboard.unknown
