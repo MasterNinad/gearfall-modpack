@@ -1,0 +1,5 @@
+{
+  "type": "emi:world_interaction",
+  "left": "fluid:tfmg:liquid_asphalt",
+  "output": "item:tfmg:asphalt"
+}

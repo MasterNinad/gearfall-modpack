@@ -1,5 +1,5 @@
 {
-    "type": "emi:world_interaction",
-    "left": "fluid:tfmg:liquid_concrete",
-    "output": "item:tfmg:concrete"
+  "type": "emi:world_interaction",
+  "left": "fluid:tfmg:liquid_concrete",
+  "output": "item:tfmg:concrete"
 }

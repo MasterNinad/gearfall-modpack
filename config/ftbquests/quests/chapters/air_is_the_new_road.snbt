@@ -2,7 +2,10 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "air_is_the_new_road"
-	group: ""
+	group: "318F00396205DD1B"
+	icon: {
+		id: "immersive_aircraft:biplane"
+	}
 	id: "146176786C4C69C1"
 	images: [
 		{

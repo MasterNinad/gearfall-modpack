@@ -1,5 +1,5 @@
 {
-    "type": "emi:world_interaction",
-    "left": "item:tfmg:air_intake",
-    "output": "fluid:tfmg:air"
+  "type": "emi:world_interaction",
+  "left": "item:tfmg:air_intake",
+  "output": "fluid:tfmg:air"
 }

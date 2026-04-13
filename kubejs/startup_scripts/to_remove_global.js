@@ -37,6 +37,23 @@ global.itemsToRemove = [
   "dndesires:freezing_sail",
   "dndesires:sanding_sail",
   "dndesires:dragon_breathing_sail",
+  "dndesires:asphalt",
+  "dndesires:white_asphalt",
+  "dndesires:orange_asphalt",
+  "dndesires:magenta_asphalt",
+  "dndesires:light_blue_asphalt",
+  "dndesires:yellow_asphalt",
+  "dndesires:lime_asphalt",
+  "dndesires:pink_asphalt",
+  "dndesires:gray_asphalt",
+  "dndesires:light_gray_asphalt",
+  "dndesires:cyan_asphalt",
+  "dndesires:purple_asphalt",
+  "dndesires:blue_asphalt",
+  "dndesires:brown_asphalt",
+  "dndesires:green_asphalt",
+  "dndesires:red_asphalt",
+  "dndesires:black_asphalt",
 
   //Create Broken Bad: Items
   "createbb:cyanide",
@@ -50,6 +67,9 @@ global.itemsToRemove = [
   "createbb:oxygen_bucket",
   "createbb:ammonia_bucket",
   "createbb:hydrogen_bucket",
+
+  //Create: Things and Misc
+  "create_things_and_misc:neon_tube",
 ].concat(replaceOld);
 
 global.fluidsToRemove = [

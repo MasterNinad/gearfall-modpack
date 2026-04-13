@@ -1,0 +1,5 @@
+{
+  "type": "emi:world_interaction",
+  "left": "item:alexscaves:spawn_egg_magnetron{lore: ['{text:\"Defeating the Magnetron will drop its heart\", color: \"green\", italic: false}']}",
+  "output": "item:alexscaves:heart_of_iron"
+}

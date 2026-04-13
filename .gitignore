@@ -33,3 +33,5 @@ xaero/**
 dynamic-resource-pack-cache/**
 dynamic-data-pack-cache/**
 .probe/**
+
+.probe

@@ -45,14 +45,6 @@
     "curseForgeHash": 3423038551,
     "modrinthHash": "a21b02ef825124b417a7ed8e44afd68342c00748"
   },
-  "alexscavesdelight-1.0.28.jar": {
-    "jarName": "alexscavesdelight-1.0.28.jar",
-    "modId": "alexscavesdelight",
-    "name": "Alex\u0027s Caves Delight",
-    "version": "1.0.28",
-    "curseForgeHash": 1318966111,
-    "modrinthHash": "ace42d4940be77372b9c41d04718f966c4a00658"
-  },
   "alltheleaks-1.1.7+1.21.1-neoforge.jar": {
     "jarName": "alltheleaks-1.1.7+1.21.1-neoforge.jar",
     "modId": "alltheleaks",
@@ -101,13 +93,13 @@
     "curseForgeHash": 3053351722,
     "modrinthHash": "1461d8e46391efd32a3085150e86094c9f6f5c9d"
   },
-  "baguettelib-1.21.1-NeoForge-1.1.6.jar": {
-    "jarName": "baguettelib-1.21.1-NeoForge-1.1.6.jar",
+  "baguettelib-1.21.1-NeoForge-2.0.3.jar": {
+    "jarName": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
     "modId": "baguettelib",
     "name": "BaguetteLib",
-    "version": "1.1.6",
-    "curseForgeHash": 465144228,
-    "modrinthHash": "dddf0f4454bf013d05d5eaa600e5a6eef555d67a"
+    "version": "2.0.3",
+    "curseForgeHash": 664412636,
+    "modrinthHash": "e01709c880b0602b7a306201a25866e76c44f5c0"
   },
   "barbequesdelight-1.2.2.jar": {
     "jarName": "barbequesdelight-1.2.2.jar",
@@ -197,13 +189,13 @@
     "curseForgeHash": 240272991,
     "modrinthHash": "fed8d7d948791157484c057172cc59a0ad0139db"
   },
-  "colorful_catalysts-1.2.3.jar": {
-    "jarName": "colorful_catalysts-1.2.3.jar",
+  "colorful_catalysts-1.3.jar": {
+    "jarName": "colorful_catalysts-1.3.jar",
     "modId": "colorful_catalysts",
     "name": "Create: Colorful Catalysts",
-    "version": "1.2.3",
-    "curseForgeHash": 514527353,
-    "modrinthHash": "e75bce3d20d8e135ccab739bb5e9747adace56fc"
+    "version": "1.3",
+    "curseForgeHash": 341675330,
+    "modrinthHash": "568362534a0ef37ce614a92f4e826760f55c8a1c"
   },
   "Controlling-neoforge-1.21.1-19.0.5.jar": {
     "jarName": "Controlling-neoforge-1.21.1-19.0.5.jar",
@@ -373,13 +365,13 @@
     "curseForgeHash": 2147536722,
     "modrinthHash": "aa5da2269d02e8bb1c1abc260af242b09ceae5ea"
   },
-  "create_ltab-3.8.5.jar": {
-    "jarName": "create_ltab-3.8.5.jar",
+  "create_ltab-3.8.6.jar": {
+    "jarName": "create_ltab-3.8.6.jar",
     "modId": "create_ltab",
     "name": "Create Let The Adventure Begin",
     "version": "3.8.2",
-    "curseForgeHash": 2893443743,
-    "modrinthHash": "b25235b6f5db9dae14fa104942764eeeb073c3cd"
+    "curseForgeHash": 3506449999,
+    "modrinthHash": "af65fd5c24bfee9dbfbd60f7ff84611a6c319377"
   },
   "create_mechanical_extruder-1.21.1-2.2.0-6.0.8.jar": {
     "jarName": "create_mechanical_extruder-1.21.1-2.2.0-6.0.8.jar",
@@ -559,6 +551,22 @@
     "curseForgeHash": 1652373382,
     "modrinthHash": "cbbd038194cd63249db185c53b1d50a1767f80a3"
   },
+  "emi_loot-0.7.9+1.21+neoforge.jar": {
+    "jarName": "emi_loot-0.7.9+1.21+neoforge.jar",
+    "modId": "emi_loot",
+    "name": "EMI Loot",
+    "version": "0.7.9+1.21+neoforge",
+    "curseForgeHash": 2390371856,
+    "modrinthHash": "bd0326eeda721c87a29efd78f9a52f46d572392c"
+  },
+  "EMIProfessions-neoforge-1.21.1-1.0.3.jar": {
+    "jarName": "EMIProfessions-neoforge-1.21.1-1.0.3.jar",
+    "modId": "emiprofessions",
+    "name": "EMI Professions (EMIP)",
+    "version": "1.0.3",
+    "curseForgeHash": 1171734073,
+    "modrinthHash": "df830a2c4eae2cd8eaecb3445d10b86a3af0c759"
+  },
   "emixx-neoforge-1.2.3.jar": {
     "jarName": "emixx-neoforge-1.2.3.jar",
     "modId": "emixx",
@@ -679,21 +687,21 @@
     "curseForgeHash": 2049429281,
     "modrinthHash": "686d4e784c28c14f7760cc22b2de6a8573b56b74"
   },
-  "ftb-quests-neoforge-2101.1.23.jar": {
-    "jarName": "ftb-quests-neoforge-2101.1.23.jar",
+  "ftb-quests-neoforge-2101.1.24.jar": {
+    "jarName": "ftb-quests-neoforge-2101.1.24.jar",
     "modId": "ftbquests",
     "name": "FTB Quests",
-    "version": "2101.1.23",
-    "curseForgeHash": 1228057399,
-    "modrinthHash": "49ead4db72ab59c129021f0f0b532263650f819e"
+    "version": "2101.1.24",
+    "curseForgeHash": 2850207425,
+    "modrinthHash": "abe5eeccbddf10ae4e40c350cdb6e95ee9e4cde1"
   },
-  "ftb-teams-neoforge-2101.1.9.jar": {
-    "jarName": "ftb-teams-neoforge-2101.1.9.jar",
+  "ftb-teams-neoforge-2101.1.10.jar": {
+    "jarName": "ftb-teams-neoforge-2101.1.10.jar",
     "modId": "ftbteams",
     "name": "FTB Teams",
-    "version": "2101.1.9",
-    "curseForgeHash": 2109677839,
-    "modrinthHash": "328e04bf1a445870aacea8fe7637670f84272a8f"
+    "version": "2101.1.10",
+    "curseForgeHash": 3463802119,
+    "modrinthHash": "363376ae0fb22cb0527170fdf6a066d1da9b0225"
   },
   "ftb-xmod-compat-neoforge-21.1.8.jar": {
     "jarName": "ftb-xmod-compat-neoforge-21.1.8.jar",
@@ -710,6 +718,14 @@
     "version": "3.2.0-1.21.1",
     "curseForgeHash": 1487209247,
     "modrinthHash": "28e4926c62f9f010aea43a091f7fc113200175be"
+  },
+  "fzzy_config-0.7.6+1.21+neoforge.jar": {
+    "jarName": "fzzy_config-0.7.6+1.21+neoforge.jar",
+    "modId": "fzzy_config",
+    "name": "Fzzy Config",
+    "version": "0.7.6+1.21+neoforge",
+    "curseForgeHash": 3178451079,
+    "modrinthHash": "c0910f9b975aaab8545ce950539748fb33d704d1"
   },
   "geckolib-neoforge-1.21.1-4.8.4.jar": {
     "jarName": "geckolib-neoforge-1.21.1-4.8.4.jar",
@@ -884,13 +900,13 @@
     "curseForgeHash": 3830429501,
     "modrinthHash": "97cfa1b8ecc663763101e87390ae7830ca425723"
   },
-  "moonlight-1.21-2.29.26-neoforge.jar": {
-    "jarName": "moonlight-1.21-2.29.26-neoforge.jar",
+  "moonlight-1.21-2.29.29-neoforge.jar": {
+    "jarName": "moonlight-1.21-2.29.29-neoforge.jar",
     "modId": "moonlight",
     "name": "Moonlight Lib",
-    "version": "1.21-2.29.26",
-    "curseForgeHash": 2423368223,
-    "modrinthHash": "639e4cab7b5e178412b4b64920a290e34035111e"
+    "version": "1.21-2.29.29",
+    "curseForgeHash": 4196923356,
+    "modrinthHash": "db89b7ccd5d722a59cae9feb054d33e884a4ca42"
   },
   "moreculling-neoforge-1.21.1-1.0.7.jar": {
     "jarName": "moreculling-neoforge-1.21.1-1.0.7.jar",
@@ -908,13 +924,13 @@
     "curseForgeHash": 845432825,
     "modrinthHash": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc"
   },
-  "NaturesCompass-1.21.1-3.0.3-neoforge.jar": {
-    "jarName": "NaturesCompass-1.21.1-3.0.3-neoforge.jar",
+  "NaturesCompass-1.21.1-3.4.0-neoforge.jar": {
+    "jarName": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
     "modId": "naturescompass",
     "name": "Nature\u0027s Compass",
-    "version": "1.21.1-3.0.2-neoforge",
-    "curseForgeHash": 4061845266,
-    "modrinthHash": "4a91af947622a2bb2c0381db249cc6f06c1f1843"
+    "version": "1.21.1-3.4.0-neoforge",
+    "curseForgeHash": 1427430770,
+    "modrinthHash": "e19721873bebc4dbc1674bb101af39d0ea406b95"
   },
   "noisium-neoforge-2.7.0+mc1.21-1.21.1.jar": {
     "jarName": "noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
@@ -971,14 +987,6 @@
     "version": "21.1.11",
     "curseForgeHash": 3352390329,
     "modrinthHash": "5174059ecf97340a0de5ef211b938de26c4eaa36"
-  },
-  "ProbeJS-7.7.2.jar": {
-    "jarName": "ProbeJS-7.7.2.jar",
-    "modId": "probejs",
-    "name": "ProbeJS",
-    "version": "7.7.2",
-    "curseForgeHash": 762329298,
-    "modrinthHash": "3f0b9288845fd547338b535cdaed6ef2bb3787e8"
   },
   "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar": {
     "jarName": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
@@ -1052,13 +1060,13 @@
     "curseForgeHash": 2527579799,
     "modrinthHash": "5d014d031fa77ab600e07835b032ef4dcb79b442"
   },
-  "sophisticatedbackpacks-1.21.1-3.25.36.1629.jar": {
-    "jarName": "sophisticatedbackpacks-1.21.1-3.25.36.1629.jar",
+  "sophisticatedbackpacks-1.21.1-3.25.37.1646.jar": {
+    "jarName": "sophisticatedbackpacks-1.21.1-3.25.37.1646.jar",
     "modId": "sophisticatedbackpacks",
     "name": "Sophisticated Backpacks",
-    "version": "3.25.36",
-    "curseForgeHash": 2108579604,
-    "modrinthHash": "7d85bec5cbe008511fafdaa7043a7cc2f706cea5"
+    "version": "3.25.37",
+    "curseForgeHash": 3402194585,
+    "modrinthHash": "94b6244681c7666553d14bda679a452d04dfc480"
   },
   "sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar": {
     "jarName": "sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
@@ -1068,13 +1076,13 @@
     "curseForgeHash": 2555194351,
     "modrinthHash": "51851c61e8be5b799b5ad8aa109b3416509605b7"
   },
-  "sophisticatedcore-1.21.1-1.4.18.1629.jar": {
-    "jarName": "sophisticatedcore-1.21.1-1.4.18.1629.jar",
+  "sophisticatedcore-1.21.1-1.4.23.1664.jar": {
+    "jarName": "sophisticatedcore-1.21.1-1.4.23.1664.jar",
     "modId": "sophisticatedcore",
     "name": "Sophisticated Core",
-    "version": "1.4.18",
-    "curseForgeHash": 4173464908,
-    "modrinthHash": "89f48bd1514a65b143dbd890c7212d0f3dc6d7fd"
+    "version": "1.4.23",
+    "curseForgeHash": 384449721,
+    "modrinthHash": "66806e0a8563f61043458d5906b880be864fab7a"
   },
   "sophisticatedinventoryinteractions-1.21.1-0.1.5.65.jar": {
     "jarName": "sophisticatedinventoryinteractions-1.21.1-0.1.5.65.jar",
@@ -1100,13 +1108,13 @@
     "curseForgeHash": 3890241139,
     "modrinthHash": "1dc83075c078f7b6c3f0f04b9a84722d359804fa"
   },
-  "supplementaries-1.21-3.5.31-neoforge.jar": {
-    "jarName": "supplementaries-1.21-3.5.31-neoforge.jar",
+  "supplementaries-1.21-3.5.34-neoforge.jar": {
+    "jarName": "supplementaries-1.21-3.5.34-neoforge.jar",
     "modId": "supplementaries",
     "name": "Supplementaries",
-    "version": "1.21-3.5.31",
-    "curseForgeHash": 3389746361,
-    "modrinthHash": "4d17bcb804faeea80e52b2ca9a41a6fad42de20d"
+    "version": "1.21-3.5.34",
+    "curseForgeHash": 1920154426,
+    "modrinthHash": "9fa5889f7669d1f5f20e658f96cbf31a17c52171"
   },
   "suppsquared-1.21-1.2.17-neoforge.jar": {
     "jarName": "suppsquared-1.21-1.2.17-neoforge.jar",

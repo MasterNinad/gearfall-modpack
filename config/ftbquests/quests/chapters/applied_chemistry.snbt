@@ -12,7 +12,7 @@
 		image: "kubejs:textures/quests/applied_chemistry_title.png"
 		rotation: 0.0d
 		width: 16.0d
-		x: -2.5d
+		x: -2.9d
 		y: -4.0d
 	}]
 	order_index: 0
@@ -86,6 +86,8 @@
 			dependencies: ["01EABF1FDD93FFA1"]
 			hide_until_deps_complete: true
 			id: "5DF96FCE09BBEBA6"
+			shape: "hexagon"
+			size: 1.2d
 			tasks: [{
 				id: "282B7DF2E3C9F5AA"
 				item: { count: 1, id: "chemica:argon_bucket" }
@@ -139,8 +141,8 @@
 				item: { count: 1, id: "chemica:titanium_ingot" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 3.0d
+			x: 4.5d
+			y: 4.5d
 		}
 		{
 			dependencies: [
@@ -649,6 +651,19 @@
 				type: "item"
 			}]
 			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1F5748E3E93B8E42"]
+			id: "2F87F199D40DD0BC"
+			shape: "rsquare"
+			size: 1.0d
+			tasks: [{
+				id: "0490FD0A8257A80F"
+				item: { count: 1, id: "chemica:high_octane_gasoline_bucket" }
+				type: "item"
+			}]
+			x: -4.5d
 			y: 6.0d
 		}
 	]
