@@ -41,14 +41,6 @@
       "modrinthHash": "a21b02ef825124b417a7ed8e44afd68342c00748"
     },
     {
-      "jarName": "alexscavesdelight-1.0.28.jar",
-      "modId": "alexscavesdelight",
-      "name": "Alex's Caves Delight",
-      "version": "1.0.28",
-      "curseForgeHash": 1318966111,
-      "modrinthHash": "ace42d4940be77372b9c41d04718f966c4a00658"
-    },
-    {
       "jarName": "alltheleaks-1.1.7+1.21.1-neoforge.jar",
       "modId": "alltheleaks",
       "name": "All The Leaks",
@@ -241,12 +233,12 @@
       "modrinthHash": "aa5da2269d02e8bb1c1abc260af242b09ceae5ea"
     },
     {
-      "jarName": "create_ltab-3.8.5.jar",
+      "jarName": "create_ltab-3.8.6.jar",
       "modId": "create_ltab",
       "name": "Create Let The Adventure Begin",
       "version": "3.8.2",
-      "curseForgeHash": 2893443743,
-      "modrinthHash": "b25235b6f5db9dae14fa104942764eeeb073c3cd"
+      "curseForgeHash": 3506449999,
+      "modrinthHash": "af65fd5c24bfee9dbfbd60f7ff84611a6c319377"
     },
     {
       "jarName": "cmlinkedremote-neoforge-2.0.0.jar",
@@ -289,12 +281,12 @@
       "modrinthHash": "93ec8d7d6a77f3ee8ba1533c81563cdbcc261293"
     },
     {
-      "jarName": "colorful_catalysts-1.2.3.jar",
+      "jarName": "colorful_catalysts-1.3.jar",
       "modId": "colorful_catalysts",
       "name": "Create: Colorful Catalysts",
-      "version": "1.2.3",
-      "curseForgeHash": 514527353,
-      "modrinthHash": "e75bce3d20d8e135ccab739bb5e9747adace56fc"
+      "version": "1.3",
+      "curseForgeHash": 341675330,
+      "modrinthHash": "568362534a0ef37ce614a92f4e826760f55c8a1c"
     },
     {
       "jarName": "create_connected-1.1.13-mc1.21.1.jar",
@@ -425,6 +417,38 @@
       "modrinthHash": "e9118da99498a4af0b06d6b3a1b8bf004bd229db"
     },
     {
+      "jarName": "drippyloadingscreen_neoforge_3.1.0_MC_1.21.1.jar",
+      "modId": "drippyloadingscreen",
+      "name": "Drippy Loading Screen",
+      "version": "3.1.0",
+      "curseForgeHash": 2531035188,
+      "modrinthHash": "907f43294b63cd845bf2fdad1ea5fe5c52552508"
+    },
+    {
+      "jarName": "drippy_early_loading_module_neoforge_3.1.0_MC_1.21.1.jar",
+      "modId": "",
+      "name": "drippy_early_loading_module_neoforge_3.1.0_MC_1.21.1.jar",
+      "version": "N/A",
+      "curseForgeHash": 3498533428,
+      "modrinthHash": "f6d8992603842fbf1f39eaa70ec5aa7c2c15dee4"
+    },
+    {
+      "jarName": "EMIProfessions-neoforge-1.21.1-1.0.3.jar",
+      "modId": "emiprofessions",
+      "name": "EMI Professions (EMIP)",
+      "version": "1.0.3",
+      "curseForgeHash": 1171734073,
+      "modrinthHash": "df830a2c4eae2cd8eaecb3445d10b86a3af0c759"
+    },
+    {
+      "jarName": "fancymenu_neoforge_3.8.1_MC_1.21.1.jar",
+      "modId": "fancymenu",
+      "name": "FancyMenu",
+      "version": "3.8.1",
+      "curseForgeHash": 3495812626,
+      "modrinthHash": "061a2c1ae0563d9d433928c243c58ee9b45f630f"
+    },
+    {
       "jarName": "FarmersDelight-1.21.1-1.2.11.jar",
       "modId": "farmersdelight",
       "name": "Farmer's Delight",
@@ -465,6 +489,14 @@
       "modrinthHash": "e46eb138fbb13a12f37154fb4ec407d64b326475"
     },
     {
+      "jarName": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "modId": "fzzy_config",
+      "name": "Fzzy Config",
+      "version": "0.7.6+1.21+neoforge",
+      "curseForgeHash": 3178451079,
+      "modrinthHash": "c0910f9b975aaab8545ce950539748fb33d704d1"
+    },
+    {
       "jarName": "gnetum-3.3.1.jar",
       "modId": "gnetum",
       "name": "Gnetum",
@@ -495,6 +527,14 @@
       "version": "0.1.4",
       "curseForgeHash": 304345341,
       "modrinthHash": "3a1fde4119ccccaf39bcc738bf4db14f905c2b65"
+    },
+    {
+      "jarName": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "modId": "konkrete",
+      "name": "Konkrete",
+      "version": "1.9.9",
+      "curseForgeHash": 3128317181,
+      "modrinthHash": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa"
     },
     {
       "jarName": "kotlinforforge-5.11.0-all.jar",
@@ -529,6 +569,14 @@
       "modrinthHash": "73d0c0f2f751c5ea3c05298d616d19a04eebab20"
     },
     {
+      "jarName": "melody_neoforge_1.0.10_MC_1.21.jar",
+      "modId": "melody",
+      "name": "Melody",
+      "version": "1.0.10",
+      "curseForgeHash": 2029427820,
+      "modrinthHash": "e83052a92c4ca0016bcfe7f0207273983dc84698"
+    },
+    {
       "jarName": "molten_vents-2.1.3.jar",
       "modId": "molten_vents",
       "name": "Molten Vents",
@@ -537,12 +585,12 @@
       "modrinthHash": "97cfa1b8ecc663763101e87390ae7830ca425723"
     },
     {
-      "jarName": "moonlight-1.21-2.29.26-neoforge.jar",
+      "jarName": "moonlight-1.21-2.29.29-neoforge.jar",
       "modId": "moonlight",
       "name": "Moonlight Lib",
-      "version": "1.21-2.29.26",
-      "curseForgeHash": 2423368223,
-      "modrinthHash": "639e4cab7b5e178412b4b64920a290e34035111e"
+      "version": "1.21-2.29.29",
+      "curseForgeHash": 4196923356,
+      "modrinthHash": "db89b7ccd5d722a59cae9feb054d33e884a4ca42"
     },
     {
       "jarName": "moreculling-neoforge-1.21.1-1.0.7.jar",
@@ -561,12 +609,12 @@
       "modrinthHash": "6c209e6b755ff26218efd55aedf2dea49183d29b"
     },
     {
-      "jarName": "NaturesCompass-1.21.1-3.0.3-neoforge.jar",
+      "jarName": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
       "modId": "naturescompass",
       "name": "Nature's Compass",
-      "version": "1.21.1-3.0.2-neoforge",
-      "curseForgeHash": 4061845266,
-      "modrinthHash": "4a91af947622a2bb2c0381db249cc6f06c1f1843"
+      "version": "1.21.1-3.4.0-neoforge",
+      "curseForgeHash": 1427430770,
+      "modrinthHash": "e19721873bebc4dbc1674bb101af39d0ea406b95"
     },
     {
       "jarName": "noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
@@ -673,12 +721,12 @@
       "modrinthHash": "31cf754f9e5f62d1ca257f297e5dce394024696c"
     },
     {
-      "jarName": "supplementaries-1.21-3.5.31-neoforge.jar",
+      "jarName": "supplementaries-1.21-3.5.34-neoforge.jar",
       "modId": "supplementaries",
       "name": "Supplementaries",
-      "version": "1.21-3.5.31",
-      "curseForgeHash": 3389746361,
-      "modrinthHash": "4d17bcb804faeea80e52b2ca9a41a6fad42de20d"
+      "version": "1.21-3.5.34",
+      "curseForgeHash": 1920154426,
+      "modrinthHash": "9fa5889f7669d1f5f20e658f96cbf31a17c52171"
     },
     {
       "jarName": "suppsquared-1.21-1.2.17-neoforge.jar",
@@ -761,14 +809,6 @@
       "version": "2.0.9",
       "curseForgeHash": 3423038551,
       "modrinthHash": "a21b02ef825124b417a7ed8e44afd68342c00748"
-    },
-    {
-      "jarName": "alexscavesdelight-1.0.28.jar",
-      "modId": "alexscavesdelight",
-      "name": "Alex's Caves Delight",
-      "version": "1.0.28",
-      "curseForgeHash": 1318966111,
-      "modrinthHash": "ace42d4940be77372b9c41d04718f966c4a00658"
     },
     {
       "jarName": "alltheleaks-1.1.7+1.21.1-neoforge.jar",
@@ -979,12 +1019,12 @@
       "modrinthHash": null
     },
     {
-      "jarName": "create_ltab-3.8.5.jar",
+      "jarName": "create_ltab-3.8.6.jar",
       "modId": "create_ltab",
       "name": "Create Let The Adventure Begin",
       "version": "3.8.2",
-      "curseForgeHash": 2893443743,
-      "modrinthHash": "b25235b6f5db9dae14fa104942764eeeb073c3cd"
+      "curseForgeHash": 3506449999,
+      "modrinthHash": "af65fd5c24bfee9dbfbd60f7ff84611a6c319377"
     },
     {
       "jarName": "Create LootR Chest.zip (resourcepack)",
@@ -1043,12 +1083,12 @@
       "modrinthHash": "93ec8d7d6a77f3ee8ba1533c81563cdbcc261293"
     },
     {
-      "jarName": "colorful_catalysts-1.2.3.jar",
+      "jarName": "colorful_catalysts-1.3.jar",
       "modId": "colorful_catalysts",
       "name": "Create: Colorful Catalysts",
-      "version": "1.2.3",
-      "curseForgeHash": 514527353,
-      "modrinthHash": "e75bce3d20d8e135ccab739bb5e9747adace56fc"
+      "version": "1.3",
+      "curseForgeHash": 341675330,
+      "modrinthHash": "568362534a0ef37ce614a92f4e826760f55c8a1c"
     },
     {
       "jarName": "create_connected-1.1.13-mc1.21.1.jar",
@@ -1195,6 +1235,38 @@
       "modrinthHash": null
     },
     {
+      "jarName": "drippyloadingscreen_neoforge_3.1.0_MC_1.21.1.jar",
+      "modId": "drippyloadingscreen",
+      "name": "Drippy Loading Screen",
+      "version": "3.1.0",
+      "curseForgeHash": 2531035188,
+      "modrinthHash": "907f43294b63cd845bf2fdad1ea5fe5c52552508"
+    },
+    {
+      "jarName": "drippy_early_loading_module_neoforge_3.1.0_MC_1.21.1.jar",
+      "modId": "",
+      "name": "drippy_early_loading_module_neoforge_3.1.0_MC_1.21.1.jar",
+      "version": "N/A",
+      "curseForgeHash": 3498533428,
+      "modrinthHash": "f6d8992603842fbf1f39eaa70ec5aa7c2c15dee4"
+    },
+    {
+      "jarName": "EMIProfessions-neoforge-1.21.1-1.0.3.jar",
+      "modId": "emiprofessions",
+      "name": "EMI Professions (EMIP)",
+      "version": "1.0.3",
+      "curseForgeHash": 1171734073,
+      "modrinthHash": "df830a2c4eae2cd8eaecb3445d10b86a3af0c759"
+    },
+    {
+      "jarName": "fancymenu_neoforge_3.8.1_MC_1.21.1.jar",
+      "modId": "fancymenu",
+      "name": "FancyMenu",
+      "version": "3.8.1",
+      "curseForgeHash": 3495812626,
+      "modrinthHash": "061a2c1ae0563d9d433928c243c58ee9b45f630f"
+    },
+    {
       "jarName": "FarmersDelight-1.21.1-1.2.11.jar",
       "modId": "farmersdelight",
       "name": "Farmer's Delight",
@@ -1235,6 +1307,14 @@
       "modrinthHash": "e46eb138fbb13a12f37154fb4ec407d64b326475"
     },
     {
+      "jarName": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "modId": "fzzy_config",
+      "name": "Fzzy Config",
+      "version": "0.7.6+1.21+neoforge",
+      "curseForgeHash": 3178451079,
+      "modrinthHash": "c0910f9b975aaab8545ce950539748fb33d704d1"
+    },
+    {
       "jarName": "gnetum-3.3.1.jar",
       "modId": "gnetum",
       "name": "Gnetum",
@@ -1265,6 +1345,14 @@
       "version": "0.1.4",
       "curseForgeHash": 304345341,
       "modrinthHash": "3a1fde4119ccccaf39bcc738bf4db14f905c2b65"
+    },
+    {
+      "jarName": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "modId": "konkrete",
+      "name": "Konkrete",
+      "version": "1.9.9",
+      "curseForgeHash": 3128317181,
+      "modrinthHash": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa"
     },
     {
       "jarName": "kotlinforforge-5.11.0-all.jar",
@@ -1299,6 +1387,14 @@
       "modrinthHash": "73d0c0f2f751c5ea3c05298d616d19a04eebab20"
     },
     {
+      "jarName": "melody_neoforge_1.0.10_MC_1.21.jar",
+      "modId": "melody",
+      "name": "Melody",
+      "version": "1.0.10",
+      "curseForgeHash": 2029427820,
+      "modrinthHash": "e83052a92c4ca0016bcfe7f0207273983dc84698"
+    },
+    {
       "jarName": "molten_vents-2.1.3.jar",
       "modId": "molten_vents",
       "name": "Molten Vents",
@@ -1307,12 +1403,12 @@
       "modrinthHash": "97cfa1b8ecc663763101e87390ae7830ca425723"
     },
     {
-      "jarName": "moonlight-1.21-2.29.26-neoforge.jar",
+      "jarName": "moonlight-1.21-2.29.29-neoforge.jar",
       "modId": "moonlight",
       "name": "Moonlight Lib",
-      "version": "1.21-2.29.26",
-      "curseForgeHash": 2423368223,
-      "modrinthHash": "639e4cab7b5e178412b4b64920a290e34035111e"
+      "version": "1.21-2.29.29",
+      "curseForgeHash": 4196923356,
+      "modrinthHash": "db89b7ccd5d722a59cae9feb054d33e884a4ca42"
     },
     {
       "jarName": "moreculling-neoforge-1.21.1-1.0.7.jar",
@@ -1331,12 +1427,12 @@
       "modrinthHash": "6c209e6b755ff26218efd55aedf2dea49183d29b"
     },
     {
-      "jarName": "NaturesCompass-1.21.1-3.0.3-neoforge.jar",
+      "jarName": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
       "modId": "naturescompass",
       "name": "Nature's Compass",
-      "version": "1.21.1-3.0.2-neoforge",
-      "curseForgeHash": 4061845266,
-      "modrinthHash": "4a91af947622a2bb2c0381db249cc6f06c1f1843"
+      "version": "1.21.1-3.4.0-neoforge",
+      "curseForgeHash": 1427430770,
+      "modrinthHash": "e19721873bebc4dbc1674bb101af39d0ea406b95"
     },
     {
       "jarName": "noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
@@ -1443,12 +1539,12 @@
       "modrinthHash": "31cf754f9e5f62d1ca257f297e5dce394024696c"
     },
     {
-      "jarName": "supplementaries-1.21-3.5.31-neoforge.jar",
+      "jarName": "supplementaries-1.21-3.5.34-neoforge.jar",
       "modId": "supplementaries",
       "name": "Supplementaries",
-      "version": "1.21-3.5.31",
-      "curseForgeHash": 3389746361,
-      "modrinthHash": "4d17bcb804faeea80e52b2ca9a41a6fad42de20d"
+      "version": "1.21-3.5.34",
+      "curseForgeHash": 1920154426,
+      "modrinthHash": "9fa5889f7669d1f5f20e658f96cbf31a17c52171"
     },
     {
       "jarName": "suppsquared-1.21-1.2.17-neoforge.jar",
@@ -1491,26 +1587,11 @@
       "modrinthHash": "27e48e9b5b9c523dd5cb0ebae6afb780e37789ba"
     }
   ],
-  "missingRequiredBy": [
-    {
-      "jarName": "ProbeJS-7.7.2.jar",
-      "modId": "probejs",
-      "name": "ProbeJS",
-      "version": "7.7.2",
-      "curseForgeHash": 762329298,
-      "modrinthHash": "3f0b9288845fd547338b535cdaed6ef2bb3787e8"
-    }
-  ],
+  "missingRequiredBy": [],
   "failedLinkLookups": [
     {
       "name": "AE2 JEI Integration",
       "modId": "ae2jeiintegration",
-      "source": "modrinth",
-      "reason": "modrinth http error 404"
-    },
-    {
-      "name": "Alex's Caves Delight",
-      "modId": "alexscavesdelight",
       "source": "modrinth",
       "reason": "modrinth http error 404"
     },
@@ -1641,6 +1722,12 @@
       "reason": "missing curseForgeHash"
     },
     {
+      "name": "EMI Professions (EMIP)",
+      "modId": "emiprofessions",
+      "source": "modrinth",
+      "reason": "modrinth http error 404"
+    },
+    {
       "name": "Fast Suite",
       "modId": "fastsuite",
       "source": "modrinth",
@@ -1697,12 +1784,6 @@
     {
       "name": "Placebo",
       "modId": "placebo",
-      "source": "modrinth",
-      "reason": "modrinth http error 404"
-    },
-    {
-      "name": "ProbeJS",
-      "modId": "probejs",
       "source": "modrinth",
       "reason": "modrinth http error 404"
     },
