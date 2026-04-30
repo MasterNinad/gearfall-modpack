@@ -102,6 +102,7 @@
 				"0D74381FD24F9577"
 			]
 			id: "164A91534A8C5EA6"
+			shape: "rsquare"
 			tasks: [{
 				id: "1BBB7383D178F090"
 				item: { count: 1, id: "tfmg:cast_iron_chemical_vat" }
@@ -160,6 +161,14 @@
 			]
 			icon_scale: 0.9d
 			id: "24037994ED4727B0"
+			rewards: [{
+				id: "42638239C5108EC4"
+				item: {
+					count: 1
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
 			shape: "gear"
 			size: 1.2d
 			tasks: [{
@@ -305,12 +314,20 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 7.5d
+			y: 8.3d
 		}
 		{
 			dependencies: ["503B3D9AA34014A5"]
 			icon_scale: 0.9d
 			id: "6AF54F43C8E864D0"
+			rewards: [{
+				id: "782D6565A24444F5"
+				item: {
+					count: 1
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
 			shape: "gear"
 			size: 1.2d
 			tasks: [{
@@ -353,8 +370,8 @@
 				item: { count: 1, id: "tfmg:kerosene_bucket" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: 9.0d
+			x: 7.5d
+			y: 11.0d
 		}
 		{
 			dependencies: ["6AF54F43C8E864D0"]
@@ -398,11 +415,17 @@
 		}
 		{
 			dependencies: [
-				"5D6D572647676E0F"
 				"35DC2526D917670A"
+				"0159A6A81339D002"
 			]
 			hide_until_deps_complete: true
+			icon: {
+				id: "tfmg:pumpjack_crank"
+			}
+			icon_scale: 0.8d
 			id: "503B3D9AA34014A5"
+			shape: "diamond"
+			size: 1.2d
 			tasks: [
 				{
 					id: "06BF0F94D16F1E84"
@@ -414,27 +437,14 @@
 					item: { count: 1, id: "tfmg:pumpjack_crank" }
 					type: "item"
 				}
+				{
+					id: "739601EF3C6ABA7F"
+					item: { count: 1, id: "tfmg:machine_input" }
+					type: "item"
+				}
 			]
 			x: 7.5d
-			y: 7.5d
-		}
-		{
-			id: "5D6D572647676E0F"
-			invisible: true
-			shape: "hexagon"
-			size: 1.2d
-			tasks: [{
-				icon: {
-					id: "tfmg:oil_deposit"
-				}
-				id: "217F83F1F4679F4D"
-				observe_type: 0
-				timer: 0L
-				to_observe: "tfmg:oil_deposit"
-				type: "observation"
-			}]
-			x: 9.0d
-			y: 7.5d
+			y: 8.3d
 		}
 		{
 			dependencies: ["6AF54F43C8E864D0"]
@@ -698,10 +708,7 @@
 			y: 1.0d
 		}
 		{
-			dependencies: [
-				"239F922352C3DCD6"
-				"0DA1533418D076E2"
-			]
+			dependencies: ["3CA36BB2902F590A"]
 			hide_until_deps_complete: true
 			id: "0CBE55B40D543935"
 			tasks: [{
@@ -709,7 +716,7 @@
 				item: { count: 1, id: "tfmg:resistor" }
 				type: "item"
 			}]
-			x: 4.5d
+			x: 6.0d
 			y: 7.5d
 		}
 		{
@@ -726,7 +733,7 @@
 				type: "item"
 			}]
 			x: 6.0d
-			y: 7.5d
+			y: 6.0d
 		}
 		{
 			id: "3D3424E64FFC7E6A"
@@ -796,7 +803,7 @@
 				}
 			]
 			x: -1.5d
-			y: 7.5d
+			y: 8.3d
 		}
 		{
 			dependencies: ["7BA3563BB3790CE0"]
@@ -820,6 +827,14 @@
 			]
 			icon_scale: 0.9d
 			id: "01A151CBA90BD2BB"
+			rewards: [{
+				id: "03D51692310FE5D6"
+				item: {
+					count: 1
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
 			shape: "gear"
 			size: 1.2d
 			tasks: [{
@@ -828,7 +843,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 7.5d
+			y: 8.3d
 		}
 		{
 			dependencies: ["24037994ED4727B0"]
@@ -859,8 +874,52 @@
 					type: "item"
 				}
 			]
-			x: 3.0d
-			y: 6.0d
+			x: 2.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["0DA1533418D076E2"]
+			id: "3CA36BB2902F590A"
+			tasks: [{
+				id: "0A0912CE0DADF808"
+				item: { count: 1, id: "tfmg:constantan_ingot" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["164A91534A8C5EA6"]
+			icon_scale: 0.9d
+			id: "39A6216A7D7ABA1B"
+			rewards: [{
+				id: "3400479088737483"
+				item: {
+					count: 1
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "1210B35E625D9034"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(gearfall:impure_blocks)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["01A151CBA90BD2BB"]
+			id: "0159A6A81339D002"
+			tasks: [{
+				id: "1A34F80CBFBB3F7D"
+				item: { count: 1, id: "tfmg:surface_scanner" }
+				type: "item"
+			}]
+			x: 3.8d
+			y: 8.3d
 		}
 	]
 }

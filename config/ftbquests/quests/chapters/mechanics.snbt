@@ -83,13 +83,10 @@
 					type: "item"
 				}
 				{
-					id: "4E396D5E1D8EFBA5"
+					id: "41DB8E92E9E1EE37"
 					item: {
-						components: {
-							"ftbquests:missing_item": "numismatics:spur"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "numismatics:cog"
 					}
 					type: "item"
 				}
@@ -197,14 +194,24 @@
 			}
 			icon_scale: 0.9d
 			id: "0DA1533418D076E2"
-			rewards: [{
-				id: "57FC501A852DBA7E"
-				item: {
-					count: 1
-					id: "create:experience_block"
+			rewards: [
+				{
+					id: "57FC501A852DBA7E"
+					item: {
+						count: 1
+						id: "create:experience_block"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "19537742578162E7"
+					item: {
+						count: 1
+						id: "numismatics:cog"
+					}
+					type: "item"
+				}
+			]
 			shape: "gear"
 			size: 1.2d
 			tasks: [
@@ -298,10 +305,10 @@
 			icon_scale: 0.9d
 			id: "7DF7C19B39DB7189"
 			rewards: [{
-				id: "48420761D2BD00E0"
+				id: "3A389658D7C0C68F"
 				item: {
 					count: 1
-					id: "numismatics:bevel"
+					id: "numismatics:cog"
 				}
 				type: "item"
 			}]
@@ -382,13 +389,10 @@
 			icon_scale: 0.85d
 			id: "35FAF88A718D3797"
 			rewards: [{
-				id: "5362788F3EC95C91"
+				id: "318E6943F2CF59A7"
 				item: {
-					components: {
-						"ftbquests:missing_item": "numismatics:bevel"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "numismatics:cog"
 				}
 				type: "item"
 			}]
@@ -1010,6 +1014,14 @@
 			dependencies: ["31A4098D1E59F333"]
 			icon_scale: 0.9d
 			id: "49D7B55CB46B6554"
+			rewards: [{
+				id: "5FF9294F13552A43"
+				item: {
+					count: 1
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
 			shape: "gear"
 			size: 1.2d
 			tasks: [{

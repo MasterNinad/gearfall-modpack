@@ -88,6 +88,14 @@
 			dependencies: ["3EDA745B04D94DB4"]
 			icon_scale: 0.85d
 			id: "7F8200D61AC6AEC5"
+			rewards: [{
+				id: "15E896789CACC7F9"
+				item: {
+					count: 1
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
 			shape: "gear"
 			size: 1.2d
 			tasks: [{
@@ -136,6 +144,14 @@
 			dependencies: ["283753C2923F0AE0"]
 			icon_scale: 0.8d
 			id: "568564AFE8C690F6"
+			rewards: [{
+				id: "73B129763B8043A6"
+				item: {
+					count: 1
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
 			shape: "gear"
 			size: 1.2d
 			tasks: [{

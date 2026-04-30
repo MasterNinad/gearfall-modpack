@@ -116,6 +116,12 @@ global.recipesToRemove = [
 
   //Create Connected: Recipes
   "create_connected:item_application/seething_catalyst_from_empty_using_deployer",
+
+  //Create Dreams and Desires: Recipes
+  "dndesires:hydraulic_compacting/veridium_gen",
+  "dndesires:hydraulic_compacting/asurine_gen",
+  "dndesires:hydraulic_compacting/crimsite_gen",
+  "dndesires:hydraulic_compacting/ochrum_gen"
 ];
 
 //Remove items from creative tabs, including search tab (this is brute force approach, every item is checked for every tab, but it works :)

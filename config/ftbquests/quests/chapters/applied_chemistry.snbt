@@ -134,6 +134,14 @@
 			dependencies: ["6EAEDD9C472B95AA"]
 			icon_scale: 0.9d
 			id: "4F81A442D0376D1B"
+			rewards: [{
+				id: "2CFD7C8179DC0A11"
+				item: {
+					count: 1
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
 			shape: "gear"
 			size: 1.2d
 			tasks: [{
@@ -248,6 +256,14 @@
 				"1978F76E226EF60F"
 			]
 			id: "37CECFD79DF0BF65"
+			rewards: [{
+				id: "7B70108051C1A1D1"
+				item: {
+					count: 1
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
 			shape: "gear"
 			size: 1.2d
 			tasks: [{
@@ -630,6 +646,14 @@
 		{
 			dependencies: ["1978F76E226EF60F"]
 			id: "739367517EB494E0"
+			rewards: [{
+				id: "24057C3CDF9FEE79"
+				item: {
+					count: 1
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
 			shape: "gear"
 			size: 1.2d
 			tasks: [{

@@ -134,6 +134,14 @@
 			dependencies: ["78CA4F6BA720714D"]
 			icon_scale: 0.9d
 			id: "5D0C72CA183DE75F"
+			rewards: [{
+				id: "52D4C9D913A18D70"
+				item: {
+					count: 1
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
 			shape: "gear"
 			size: 1.2d
 			tasks: [{

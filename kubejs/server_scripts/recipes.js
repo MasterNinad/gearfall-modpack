@@ -34,6 +34,57 @@ ServerEvents.recipes((event) => {
         [`kubejs:active_${name}_vent`, `kubejs:${name}_lava_key`],
       )
       .id(`gearfall:recipes/unlocking_${name}_vent_manual_only`);
+
+    if (name === "crimsite") 
+    {
+      event
+      .custom({
+        type: "tfmg:vat_machine_recipe",
+        allowed_vat_types: [
+          "tfmg:firebrick_lined_vat",
+        ],
+        ingredients: [
+          {
+            amount: 2,
+            item: `kubejs:impure_${name}`,
+          }
+        ],
+        machines: ["tfmg:centrifuge"],
+        min_size: 1,
+        results: [
+          {
+            amount: 1,
+            id: `${block}`,
+          },
+        ],
+      })
+      .id(`gearfall:recipes/${name}_purification`);
+      return;
+    }
+
+    event
+      .custom({
+        type: "tfmg:vat_machine_recipe",
+        allowed_vat_types: [
+          "tfmg:cast_iron_vat",
+          "tfmg:steel_vat"
+        ],
+        ingredients: [
+          {
+            amount: 2,
+            item: `kubejs:impure_${name}`,
+          }
+        ],
+        machines: ["tfmg:centrifuge"],
+        min_size: 1,
+        results: [
+          {
+            amount: 1,
+            id: `${block}`,
+          },
+        ],
+      })
+      .id(`gearfall:recipes/${name}_purification`);
   });
 
   //Replace amethyst shard with polished amethyst in certain recipes to make it more useful
@@ -51,14 +102,18 @@ ServerEvents.recipes((event) => {
   });
 
   //Reparing anvil recipe
-  event.recipes.create.item_application(
-    ["minecraft:anvil"],
-    ["minecraft:chipped_anvil", "minecraft:iron_block"],
-  ).id("gearfall:recipes/repairing_chipped_anvil");
-  event.recipes.create.item_application(
-    ["minecraft:chipped_anvil"],
-    ["minecraft:damaged_anvil", "minecraft:iron_block"],
-  ).id("gearfall:recipes/repairing_damaged_anvil");
+  event.recipes.create
+    .item_application(
+      ["minecraft:anvil"],
+      ["minecraft:chipped_anvil", "minecraft:iron_block"],
+    )
+    .id("gearfall:recipes/repairing_chipped_anvil");
+  event.recipes.create
+    .item_application(
+      ["minecraft:chipped_anvil"],
+      ["minecraft:damaged_anvil", "minecraft:iron_block"],
+    )
+    .id("gearfall:recipes/repairing_damaged_anvil");
 
   //Added new recipe for Seething Fan Catalyst, since the original one is removed in to_remove_global.js
   event
