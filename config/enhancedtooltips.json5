@@ -7,7 +7,7 @@
 		/* Shows the category of an item in a badge on its tooltip.
 		   (default: true)
 		*/
-		"itemBadges": true,
+		"itemBadges": false,
 		/* Removes all spacing between lines.
 		   (default: false)
 		*/
@@ -157,13 +157,13 @@
 		/* Shows the durability of an item, represented by a bar, in its tooltip.
 		   (default: false)
 		*/
-		"durabilityBar": false
+		"durabilityBar": true
 	},
 	"heldItemTooltip": {
 		/* Toggles the improved held items tooltips feature.
 		   ON/MINIMAL/OFF (default: ON)
 		*/
-		"mode": "ON",
+		"mode": "MINIMAL",
 		/* Shows a neat background behind the held item tooltip text.
 		   (default: true)
 		*/

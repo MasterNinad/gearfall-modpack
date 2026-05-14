@@ -35,3 +35,5 @@ dynamic-data-pack-cache/**
 .probe/**
 
 .probe
+servers.dat
+servers.dat_old

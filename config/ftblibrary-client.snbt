@@ -9,44 +9,44 @@
 	sidebar: {
 		buttons: {
 			"ftbteams:my_team": {
-				enabled: true
-				x: 0
-				y: 1
+				enabled: false
+				x: -1
+				y: -1
 			}
 			"ftbquests:quests": {
 				enabled: true
-				x: 2
-				y: 1
-			}
-			"ftblibrary:toggle/night": {
-				enabled: true
-				x: 2
-				y: 0
-			}
-			"ftbteams:team_lives": {
-				enabled: true
-				x: 1
-				y: 1
-			}
-			"ftblibrary:toggle/gamemode": {
-				enabled: true
 				x: 0
 				y: 0
 			}
-			"ftblibrary:config": {
-				enabled: true
-				x: 3
-				y: 1
+			"ftblibrary:toggle/night": {
+				enabled: false
+				x: -1
+				y: -1
 			}
-			"ftblibrary:toggle/day": {
+			"ftbteams:team_lives": {
+				enabled: false
+				x: -1
+				y: -1
+			}
+			"ftblibrary:toggle/gamemode": {
+				enabled: false
+				x: -1
+				y: -1
+			}
+			"ftblibrary:config": {
 				enabled: true
 				x: 1
 				y: 0
 			}
+			"ftblibrary:toggle/day": {
+				enabled: false
+				x: -1
+				y: -1
+			}
 			"ftblibrary:toggle/rain": {
-				enabled: true
-				x: 3
-				y: 0
+				enabled: false
+				x: -1
+				y: -1
 			}
 		}
 		
