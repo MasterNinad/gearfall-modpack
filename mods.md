@@ -162,7 +162,7 @@
 | Create: Dreams n' Desires | 2.3a-BETA | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires) | [Click Here](https://modrinth.com/mod/create-dreams-and-desires) | [TODO: add purpose] |
 | Create: Enchantable Machinery | 3.6.0 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-enchantable-machinery) | [Click Here](https://modrinth.com/mod/create-enchantable-machinery) | [TODO: add purpose] |
 | Create: Extra Gauges | 2.1.2 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-extra-gauges) | N/A | [TODO: add purpose] |
-| Create: Fluid | 2.0.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-fluid) | [Click Here](https://modrinth.com/mod/create-fluid) | [TODO: add purpose] |
+| Create: Fluid | 2.1.0 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-fluid) | N/A | [TODO: add purpose] |
 | Create: New Age | 1.1.7c+mc1.21.1 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-new-age) | [Click Here](https://modrinth.com/mod/create-new-age) | [TODO: add purpose] |
 | Create: Pattern Schematics | 2.0.10 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-pattern-schematics) | [Click Here](https://modrinth.com/mod/create-pattern-schematics) | [TODO: add purpose] |
 | Create: Smart Bounds | 1.0.0 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/create-smart-bounds) | [Click Here](https://modrinth.com/mod/create-smart-bounds) | [TODO: add purpose] |
@@ -222,7 +222,7 @@
 | Supplementaries | 1.21.1-3.6.4 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/supplementaries) | [Click Here](https://modrinth.com/mod/supplementaries) | [TODO: add purpose] |
 | Supplementaries Squared | 1.21-1.2.17 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared) | [Click Here](https://modrinth.com/mod/supplementaries-squared) | [TODO: add purpose] |
 | Trimmed | 3.0.0 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/trimmed) | [Click Here](https://modrinth.com/mod/trimmed) | [TODO: add purpose] |
-| VanillaBackport | 1.1.7.3 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/vanillabackport) | [Click Here](https://modrinth.com/mod/vanillabackport) | [TODO: add purpose] |
+| VanillaBackport | 1.1.7.4 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/vanillabackport) | [Click Here](https://modrinth.com/mod/vanillabackport) | [TODO: add purpose] |
 | What Are They Up To | 1.21.0-1.2.7 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to) | [Click Here](https://modrinth.com/mod/what-are-they-up-to) | [TODO: add purpose] |
 | Xaero Train Map | 1.0.0 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/xaero-train-map) | [Click Here](https://modrinth.com/mod/xaero-train-map) | [TODO: add purpose] |
 | Xaero's Minimap | 25.3.13 | [Click Here](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | [Click Here](https://modrinth.com/mod/xaeros-minimap) | [TODO: add purpose] |
