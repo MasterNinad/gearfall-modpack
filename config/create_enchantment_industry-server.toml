@@ -65,7 +65,7 @@
 		#[@cui:RequiresReload:server]
 		# Default: 4000
 		# Range: > 1000
-		printerFluidCapacity = 4000
+		printerFluidCapacity = 16000
 		#.
 		#If the printing of Written Books function of Printers should be enabled.
 		#[@cui:RequiresReload:server]
@@ -115,13 +115,13 @@
 		#[@cui:RequiresReload:server]
 		# Default: 4000
 		# Range: > 1000
-		blazeEnchanterFluidCapacity = 4000
+		blazeEnchanterFluidCapacity = 16000
 		#.
 		#The amount of liquid a Blaze Forger can hold (mB).
 		#[@cui:RequiresReload:server]
 		# Default: 4000
 		# Range: > 1000
-		blazeForgerFluidCapacity = 4000
+		blazeForgerFluidCapacity = 16000
 		#.
 		#The amount of liquid an Experience Lantern can hold (mB).
 		#[@cui:RequiresReload:server]

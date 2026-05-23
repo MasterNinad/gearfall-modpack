@@ -4,4 +4,4 @@
 
 [stackGroups]
 	enableStackGroups = true
-	disabledStackGroups = ["mekanism:unit", "mekanism:crystals", "mekanism:dirty_dusts", "mekanism:enriched", "mekanism:clumps", "mekanism:shards", "minecraft:stairs", "minecraft:slabs", "minecraft:walls", "minecraft:trapdoors", "minecraft:doors", "c:raw_materials"]
+	disabledStackGroups = ["mekanism:unit", "mekanism:crystals", "mekanism:dirty_dusts", "mekanism:enriched", "mekanism:clumps", "mekanism:shards", "minecraft:stairs", "minecraft:slabs", "minecraft:walls", "minecraft:trapdoors", "minecraft:doors", "c:raw_materials", "minecraft:terracotta", "c:glazed_terracottas"]

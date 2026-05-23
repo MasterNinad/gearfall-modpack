@@ -90,6 +90,15 @@
 					}
 					type: "item"
 				}
+				{
+					count: 2
+					id: "5597661913A43C05"
+					item: {
+						count: 1
+						id: "farmersdelight:noodle_soup"
+					}
+					type: "item"
+				}
 			]
 			shape: "gear"
 			size: 1.2d
@@ -147,14 +156,25 @@
 		{
 			dependencies: ["1AC5225616A2DBEB"]
 			id: "6669FD2846C66964"
-			rewards: [{
-				id: "6E5838FC79403E65"
-				item: {
-					count: 1
-					id: "create:large_water_wheel"
+			rewards: [
+				{
+					id: "6E5838FC79403E65"
+					item: {
+						count: 1
+						id: "create:large_water_wheel"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 2
+					id: "4C10720866143C5D"
+					item: {
+						count: 1
+						id: "farmersdelight:pumpkin_pie_slice"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				count: 4L
 				id: "6ECB41C27918E81B"
@@ -1118,6 +1138,14 @@
 		{
 			dependencies: ["49D7B55CB46B6554"]
 			id: "7164E26C74EC6BE0"
+			rewards: [{
+				id: "7DB9FCDD6C75565B"
+				item: {
+					count: 1
+					id: "kubejs:crimsite_lava_key"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				count: 64L
@@ -1202,6 +1230,15 @@
 		{
 			dependencies: ["4A66349662612F04"]
 			id: "2A0033C45D04FCA5"
+			rewards: [{
+				count: 2
+				id: "37540592DF7D2649"
+				item: {
+					count: 1
+					id: "numismatics:spur"
+				}
+				type: "item"
+			}]
 			shape: "octagon"
 			size: 1.2d
 			tasks: [{
@@ -1338,18 +1375,11 @@
 			optional: true
 			shape: "square"
 			size: 0.75d
-			tasks: [
-				{
-					id: "1A370C029C7499D9"
-					item: { count: 1, id: "create_factory_logistics:factory_fluid_gauge" }
-					type: "item"
-				}
-				{
-					id: "7799DC1406DF6274"
-					item: { count: 1, id: "create_factory_logistics:jar_packager" }
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "691F2D5B9A6C75C1"
+				item: { count: 1, id: "extra_gauges:filter_gauge" }
+				type: "item"
+			}]
 			x: 6.75d
 			y: -6.75d
 		}

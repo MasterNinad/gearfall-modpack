@@ -1,9 +1,9 @@
 {
-  "neoforge-21.1.228 (modloader)": {
-    "jarName": "neoforge-21.1.228 (modloader)",
+  "neoforge-21.1.229 (modloader)": {
+    "jarName": "neoforge-21.1.229 (modloader)",
     "modId": "neoforge",
     "name": "neoforge",
-    "version": "neoforge-21.1.228"
+    "version": "neoforge-21.1.229"
   },
   "AchievementOptimizer-neoforge-1.21.1-2.1.0.jar": {
     "jarName": "AchievementOptimizer-neoforge-1.21.1-2.1.0.jar",
@@ -687,13 +687,13 @@
     "curseForgeHash": 1585335113,
     "modrinthHash": "3d7890fa10d71a2dff2a25b19a9bc259261989e0"
   },
-  "fluid-2.0.1.jar": {
-    "jarName": "fluid-2.0.1.jar",
+  "fluid-2.1.0.jar": {
+    "jarName": "fluid-2.1.0.jar",
     "modId": "fluid",
     "name": "Create: Fluid",
-    "version": "2.0.1",
-    "curseForgeHash": 1163183780,
-    "modrinthHash": "0c3279db034e67514a1b4225f048683f8fcc53d5"
+    "version": "2.1.0",
+    "curseForgeHash": 3217417164,
+    "modrinthHash": "a62825b0adec2c2f4b6b87963ed3cde2425310a9"
   },
   "fluidjs-1.2.3.jar": {
     "jarName": "fluidjs-1.2.3.jar",
@@ -1236,13 +1236,13 @@
     "curseForgeHash": 4173720088,
     "modrinthHash": "c1ee534f00f4ee476e868f4db4dea99c7d41570d"
   },
-  "VanillaBackport-neoforge-1.21.1-1.1.7.3.jar": {
-    "jarName": "VanillaBackport-neoforge-1.21.1-1.1.7.3.jar",
+  "VanillaBackport-neoforge-1.21.1-1.1.7.4.jar": {
+    "jarName": "VanillaBackport-neoforge-1.21.1-1.1.7.4.jar",
     "modId": "vanillabackport",
     "name": "VanillaBackport",
-    "version": "1.1.7.3",
-    "curseForgeHash": 874064937,
-    "modrinthHash": "83f6e22674b2f35e9b2a0b9d13a2c2b5663e0cfe"
+    "version": "1.1.7.4",
+    "curseForgeHash": 2485288639,
+    "modrinthHash": "ddf5d98cc31d1c3b9da67caab254f8f2b77fbc60"
   },
   "watut-neoforge-1.21.0-1.2.7.jar": {
     "jarName": "watut-neoforge-1.21.0-1.2.7.jar",

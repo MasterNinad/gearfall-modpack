@@ -1,0 +1,19 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "physical_engineering"
+	group: "597304061B9A21AD"
+	id: "72CBE8BC10F59308"
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		id: "7E9949D1394DEC5E"
+		tasks: [{
+			id: "5E241DAA2E3E074F"
+			item: { count: 1, id: "simulated:physics_assembler" }
+			type: "item"
+		}]
+		x: -1.0d
+		y: -0.5d
+	}]
+}

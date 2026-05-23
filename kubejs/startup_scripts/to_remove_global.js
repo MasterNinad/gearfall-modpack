@@ -68,8 +68,62 @@ global.itemsToRemove = [
   "createbb:ammonia_bucket",
   "createbb:hydrogen_bucket",
 
-  //Create: Things and Misc
+  //Create: Things and Misc: Item
   "create_things_and_misc:neon_tube",
+
+  //Artifacts: Items
+  "artifacts:everlasting_beef",
+  "artifacts:eternal_steak",
+  "artifacts:lucky_scarf",
+  "artifacts:scarf_of_invisibility",
+  "artifacts:rooted_boots",
+  "artifacts:warp_drive",
+
+  //Create Casing: Items
+  "createcasing:shadow_steel_configurable_gearbox",
+  "createcasing:shadow_steel_chain_conveyor",
+  "createcasing:shadow_steel_gearshift",
+  "createcasing:shadow_steel_clutch",
+  "createcasing:shadow_steel_automatic_clutch",
+  "createcasing:shadow_steel_deployer",
+  "createcasing:shadow_steel_portable_storage_interface",
+  "createcasing:shadow_steel_encased_fan",
+  "createcasing:shadow_steel_mechanical_harvester",
+  "createcasing:refined_radiance_gearbox",
+  "createcasing:vertical_refined_radiance_gearbox",
+  "createcasing:refined_radiance_mixer",
+  "createcasing:refined_radiance_depot",
+  "createcasing:refined_radiance_encased_chain_drive",
+  "createcasing:refined_radiance_adjustable_chain_gearshift",
+  "createcasing:refined_radiance_configurable_gearbox",
+  "createcasing:refined_radiance_chain_conveyor",
+  "createcasing:refined_radiance_press",
+  "createcasing:refined_radiance_gearshift",
+  "createcasing:refined_radiance_clutch",
+  "createcasing:refined_radiance_automatic_clutch",
+  "createcasing:refined_radiance_deployer",
+  "createcasing:refined_radiance_portable_storage_interface",
+  "createcasing:refined_radiance_encased_fan",
+  "createcasing:refined_radiance_mechanical_harvester",
+  "createcasing:refined_radiance_mechanical_saw",
+  "createcasing:refined_radiance_mechanical_drill",
+  "createcasing:refined_radiance_mechanical_plough",
+  "createcasing:refined_radiance_mechanical_roller",
+  "createcasing:shadow_steel_gearbox",
+  "createcasing:vertical_shadow_steel_gearbox",
+  "createcasing:shadow_steel_press",
+  "createcasing:shadow_steel_mixer",
+  "createcasing:shadow_steel_depot",
+  "createcasing:shadow_steel_encased_chain_drive",
+  "createcasing:shadow_steel_adjustable_chain_gearshift",
+  "createcasing:shadow_steel_mechanical_roller",
+  "createcasing:shadow_steel_mechanical_plough",
+  "createcasing:shadow_steel_mechanical_drill",
+  "createcasing:shadow_steel_mechanical_saw",
+
+  //Create: Items
+  "create:refined_radiance_casing",
+  "create:shadow_steel_casing",
 ].concat(replaceOld);
 
 global.fluidsToRemove = [
@@ -121,7 +175,7 @@ global.recipesToRemove = [
   "dndesires:hydraulic_compacting/veridium_gen",
   "dndesires:hydraulic_compacting/asurine_gen",
   "dndesires:hydraulic_compacting/crimsite_gen",
-  "dndesires:hydraulic_compacting/ochrum_gen"
+  "dndesires:hydraulic_compacting/ochrum_gen",
 ];
 
 //Remove items from creative tabs, including search tab (this is brute force approach, every item is checked for every tab, but it works :)

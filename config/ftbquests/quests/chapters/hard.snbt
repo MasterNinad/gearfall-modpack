@@ -70,6 +70,14 @@
 			}
 			icon_scale: 0.9d
 			id: "5A0322CB531DCC28"
+			rewards: [{
+				id: "37C71731849BB20D"
+				item: {
+					count: 1
+					id: "numismatics:crown"
+				}
+				type: "item"
+			}]
 			shape: "octagon"
 			size: 1.2d
 			tasks: [
@@ -163,6 +171,14 @@
 				"5B1FF5B0E6E8D4CB"
 			]
 			id: "31925971DFC2374D"
+			rewards: [{
+				id: "030DD8698244718F"
+				item: {
+					count: 1
+					id: "numismatics:crown"
+				}
+				type: "item"
+			}]
 			shape: "octagon"
 			size: 1.2d
 			tasks: [{

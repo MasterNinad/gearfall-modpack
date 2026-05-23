@@ -37,3 +37,4 @@ dynamic-data-pack-cache/**
 .probe
 servers.dat
 servers.dat_old
+.nl_password

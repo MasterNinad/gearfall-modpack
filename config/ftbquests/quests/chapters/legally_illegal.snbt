@@ -168,7 +168,10 @@
 				"06D400AED5CD9797"
 				"11BE8B9FED6A2EC5"
 			]
+			icon_scale: 0.9d
 			id: "4A1D9B847EC7A9B1"
+			shape: "diamond"
+			size: 1.2d
 			tasks: [{
 				id: "7398D387C69C8581"
 				item: { count: 1, id: "createbb:liquid_blue_methamphetamine_bucket" }
