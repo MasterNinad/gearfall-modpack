@@ -15,6 +15,14 @@
 			dependencies: ["3FBAE2BB5F26AFDF"]
 			icon_scale: 0.9d
 			id: "2C11A2FD7D162DEB"
+			rewards: [{
+				id: "31A689CA051A27E5"
+				item: {
+					count: 1
+					id: "numismatics:crown"
+				}
+				type: "item"
+			}]
 			shape: "octagon"
 			size: 1.2d
 			tasks: [

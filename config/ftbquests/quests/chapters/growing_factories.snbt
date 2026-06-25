@@ -549,6 +549,7 @@
 						id: "tfmg:bauxite"
 					}
 					id: "6D6E674E5A0488D4"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "tfmg:bauxite"
@@ -746,6 +747,7 @@
 						id: "tfmg:galena"
 					}
 					id: "0DBE32CB7C358FE7"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "tfmg:galena"
@@ -756,6 +758,7 @@
 						id: "tfmg:lead_ore"
 					}
 					id: "6984F0511B21D62C"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "tfmg:lead_ore"
@@ -766,6 +769,7 @@
 						id: "tfmg:deepslate_lead_ore"
 					}
 					id: "5EBD25947F8CDE6E"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "tfmg:deepslate_lead_ore"
@@ -786,6 +790,7 @@
 						id: "tfmg:nickel_ore"
 					}
 					id: "1070F290EA43E5AD"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "tfmg:nickel_ore"
@@ -796,6 +801,7 @@
 						id: "tfmg:deepslate_nickel_ore"
 					}
 					id: "0B94C015DF78B19D"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "tfmg:deepslate_nickel_ore"

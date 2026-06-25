@@ -6,14 +6,42 @@
 	id: "72CBE8BC10F59308"
 	order_index: 2
 	quest_links: [ ]
-	quests: [{
-		id: "7E9949D1394DEC5E"
-		tasks: [{
-			id: "5E241DAA2E3E074F"
-			item: { count: 1, id: "simulated:physics_assembler" }
-			type: "item"
-		}]
-		x: -1.0d
-		y: -0.5d
-	}]
+	quests: [
+		{
+			id: "7E9949D1394DEC5E"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				id: "5E241DAA2E3E074F"
+				item: { count: 1, id: "simulated:physics_assembler" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7E9949D1394DEC5E"]
+			id: "0F761C2DAE39CB18"
+			shape: "rsquare"
+			tasks: [{
+				id: "4B32F496F79352A9"
+				item: { count: 1, id: "aeroclaims:claim_block" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7E9949D1394DEC5E"]
+			id: "3092E6F8D7A33690"
+			shape: "rsquare"
+			tasks: [{
+				id: "682B63F260F17F80"
+				item: { count: 1, id: "aeronautics:adjustable_burner" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+	]
 }

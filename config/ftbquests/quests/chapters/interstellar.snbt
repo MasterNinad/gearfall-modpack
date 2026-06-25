@@ -60,7 +60,7 @@
 			id: "46C48141591D8AB0"
 			tasks: [{
 				id: "0D220935EA5C39AC"
-				item: { count: 1, id: "northstar:star_map" }
+				item: { count: 1, id: "northstar:space_atlas" }
 				type: "item"
 			}]
 			x: 4.5d
@@ -126,7 +126,7 @@
 			tasks: [{
 				count: 4L
 				id: "0BB162BA54C28A8B"
-				item: { count: 1, id: "northstar:jet_engine" }
+				item: { count: 1, id: "northstar:rocket_thruster" }
 				type: "item"
 			}]
 			x: 10.5d
@@ -385,7 +385,7 @@
 			size: 1.2d
 			tasks: [{
 				id: "56CCC882AF0E411E"
-				item: { count: 1, id: "northstar:martian_steel" }
+				item: { count: 1, id: "northstar:martian_steel_ingot" }
 				type: "item"
 			}]
 			x: 15.0d

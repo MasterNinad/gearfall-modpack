@@ -106,6 +106,7 @@
 					id: "chemica:fervorite"
 				}
 				id: "244FD01D5FB558B7"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "chemica:fervorite"
@@ -189,6 +190,7 @@
 					id: "chemica:zelosite"
 				}
 				id: "6125E6DF6B2A6758"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "chemica:zelosite"
@@ -302,6 +304,7 @@
 					id: "chemica:deepslate_silver_ore"
 				}
 				id: "7055196DEA514827"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "chemica:deepslate_silver_ore"
@@ -474,6 +477,7 @@
 					id: "chemica:deepslate_rutile_ore"
 				}
 				id: "51F376F2EC5113E8"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "'chemica:deepslate_rutile_ore'"
@@ -514,6 +518,7 @@
 					id: "chemica:deepslate_platinum_ore"
 				}
 				id: "497ED446A40C7E73"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "chemica:deepslate_platinum_ore"
@@ -618,6 +623,7 @@
 					id: "chemica:deepslate_antimony_ore"
 				}
 				id: "5307AB9844D02F0C"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "chemica:deepslate_antimony_ore"

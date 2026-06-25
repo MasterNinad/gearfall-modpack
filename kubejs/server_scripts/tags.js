@@ -117,8 +117,24 @@ ServerEvents.tags("item", (event) => {
     "create_connected:fan_smoking_catalyst",
     "create_connected:fan_blasting_catalyst",
     "create_connected:empty_fan_catalyst",
-  ].concat(event.get("colorful_catalysts:dyed_catalysts").getObjectIds());
+    "create_connected:white_fan_dyeing_catalyst",
+    "create_connected:orange_fan_dyeing_catalyst",
+    "create_connected:magenta_fan_dyeing_catalyst",
+    "create_connected:yellow_fan_dyeing_catalyst",
+    "create_connected:lime_fan_dyeing_catalyst",
+    "create_connected:pink_fan_dyeing_catalyst",
+    "create_connected:gray_fan_dyeing_catalyst",
+    "create_connected:light_gray_fan_dyeing_catalyst",
+    "create_connected:light_blue_fan_dyeing_catalyst",
+    "create_connected:cyan_fan_dyeing_catalyst",
+    "create_connected:purple_fan_dyeing_catalyst",
+    "create_connected:brown_fan_dyeing_catalyst",
+    "create_connected:green_fan_dyeing_catalyst",
+    "create_connected:red_fan_dyeing_catalyst",
+    "create_connected:black_fan_dyeing_catalyst",
+    "create_connected:blue_fan_dyeing_catalyst",
+  ];
   fan_catalysts.forEach((fan_catalyst) => {
-    event.add("gearfall:fan_catalysts", fan_catalyst);
+    event.add("create_connected:fan_catalysts", fan_catalyst);
   });
 });
