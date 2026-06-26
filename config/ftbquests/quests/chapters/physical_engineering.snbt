@@ -3,11 +3,16 @@
 	default_quest_shape: ""
 	filename: "physical_engineering"
 	group: "597304061B9A21AD"
+	icon: {
+		id: "simulated:physics_assembler"
+	}
 	id: "72CBE8BC10F59308"
 	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["4632BE033D180212"]
+			hide_until_deps_complete: true
 			id: "7E9949D1394DEC5E"
 			shape: "hexagon"
 			size: 1.2d
@@ -42,6 +47,39 @@
 			}]
 			x: -1.0d
 			y: 1.0d
+		}
+		{
+			dependencies: ["7E9949D1394DEC5E"]
+			id: "75900C7417A24049"
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "4A2518167DB3E969"
+					item: { count: 1, id: "createdeliveryrequired:market" }
+					type: "item"
+				}
+				{
+					id: "6F8B6272924A904D"
+					item: { count: 1, id: "createdeliveryrequired:contractor" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["75900C7417A24049"]
+			id: "3935D48BB8B72837"
+			optional: true
+			shape: "square"
+			size: 0.75d
+			tasks: [{
+				id: "73F335FCE60F7ECB"
+				item: { count: 1, id: "createdeliveryrequired:numismatics_monocle" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.5d
 		}
 	]
 }

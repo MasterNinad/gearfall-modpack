@@ -123,4 +123,17 @@ ServerEvents.recipes((event) => {
       C: "create_connected:empty_fan_catalyst",
     })
     .id("create_connected:fan_seething_catalyst");
+
+  //Replace minecraft:tuff crushing recipe with less output
+  event.recipes.create
+    .crushing(
+      [
+        CreateItem.of("minecraft:flint", 0.20),
+        CreateItem.of("minecraft:gold_nugget", 0.05),
+        CreateItem.of("create:zinc_nugget", 0.05),
+        CreateItem.of("createaddition:electrum_nugget", 0.10)
+      ],
+      "minecraft:tuff",
+    )
+    .id("create:crushing/tuff");
 });

@@ -9,6 +9,15 @@ global.itemsToReplace = [
   { old: "northstar:titanium_nugget", new: "chemica:titanium_nugget" },
   { old: "northstar:titanium_sheet", new: "chemica:titanium_sheet" },
   { old: "northstar:hardened_precision_mechanism", new: "tfmg:steel_mechanism" },
+
+  //Chemica: Items
+  { old: "chemica:steel_based_tough_alloy", new: "cataclysm:black_steel_ingot" },
+
+  //Create: Items
+  { old: "create:dough", new: "farmersdelight:wheat_dough" },
+
+  //Mr Crayfish's Furniture Mod: Items
+  { old: "refurbished_furniture:dough", new: "farmersdelight:wheat_dough" },
 ];
 
 const replaceOld = global.itemsToReplace.map(function (item) {
@@ -176,6 +185,9 @@ global.recipesToRemove = [
   "dndesires:hydraulic_compacting/asurine_gen",
   "dndesires:hydraulic_compacting/crimsite_gen",
   "dndesires:hydraulic_compacting/ochrum_gen",
+
+  //Create: Recipes
+  "create:crushing/tuff_recycling",
 ];
 
 //Remove items from creative tabs, including search tab (this is brute force approach, every item is checked for every tab, but it works :)
