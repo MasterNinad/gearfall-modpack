@@ -26,6 +26,18 @@
 	# Default: 8.0
 	# Range: 0.0 ~ 256.0
 	suctionLimitBlocks = 8.0
+	#Let an open pipe end draw fluid IN from the world when the network is under
+	#suction (its head sits below the pipe mouth): a self-regenerating source (a
+	#lake), a cauldron, or a finite/hand-placed source block. To keep it from
+	#sucking back what it just spilled, a network that spilled from ANY open end
+	#recently will not pull a finite source (lakes/cauldrons are unaffected).
+	enableOpenEndIntake = true
+	#After an open end on a network spills, how many ticks before that network
+	#may pull a finite source again (the anti-reclaim window). Lakes and cauldrons
+	#ignore this. Larger = safer against flicker on networks that both push and pull.
+	# Default: 20
+	# Range: 0 ~ 200
+	openEndIntakeCooldownTicks = 20
 
 [sableCompat]
 	#When an open-ended pipe on a Sable sub-level spills fluid,

@@ -89,6 +89,11 @@ globalExecutorParallelism = 2
 	# (Default: true) Whether to enable StructureWeightSampler optimizations to accelerate world generation
 	# 
 	optimizeStructureWeightSampler = "default"
+	# (Default: true) Enables the built-in integrations with other worldgen mods in density function compiler.
+	# 
+	# Depends on vanillaWorldGenOptimizations.useDensityFunctionCompiler
+	# 
+	enableBuiltinDFCIntegrations = "default"
 
 [noTickViewDistance]
 	# (Default: 6) No-tick view distance max concurrent chunk loads 
