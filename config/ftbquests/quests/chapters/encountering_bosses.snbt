@@ -121,6 +121,12 @@
 			dependencies: ["6D827E6DFBDC1D40"]
 			icon_scale: 0.9d
 			id: "73EC82BB26EF2640"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5B81E5BC23AEECB8"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			shape: "diamond"
 			size: 1.2d
 			tasks: [{
@@ -211,6 +217,12 @@
 			dependencies: ["2C79BDE90BC631C5"]
 			id: "553125902DFE3B7F"
 			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6F2F9ABDDA425AE7"
+				table_id: 1772101481099344800L
+				type: "random"
+			}]
 			shape: "square"
 			size: 0.75d
 			tasks: [{

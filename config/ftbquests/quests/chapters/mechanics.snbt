@@ -13,7 +13,7 @@
 		rotation: 0.0d
 		width: 9.5d
 		x: 7.5d
-		y: -9.0d
+		y: -9.5d
 	}]
 	order_index: 0
 	quest_links: [ ]
@@ -34,13 +34,10 @@
 					type: "item"
 				}
 				{
-					count: 2
-					id: "2EAE5D3CE5728870"
-					item: {
-						count: 1
-						id: "numismatics:spur"
-					}
-					type: "item"
+					exclude_from_claim_all: true
+					id: "17E752E4649F21A8"
+					table_id: 2283226959771725479L
+					type: "random"
 				}
 			]
 			shape: "hexagon"
@@ -98,6 +95,12 @@
 						id: "farmersdelight:noodle_soup"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "052719732D257527"
+					table_id: 2324480973079952343L
+					type: "random"
 				}
 			]
 			shape: "gear"
@@ -231,6 +234,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "08155952DBB3F0B1"
+					table_id: 2324480973079952343L
+					type: "random"
+				}
 			]
 			shape: "gear"
 			size: 1.2d
@@ -255,26 +264,12 @@
 			dependencies: ["3553EC3AC10A0583"]
 			hide_until_deps_complete: true
 			id: "11CB386FB0EBFE18"
-			rewards: [
-				{
-					count: 2
-					id: "519873362ACD5FED"
-					item: {
-						count: 1
-						id: "create:cogwheel"
-					}
-					type: "item"
-				}
-				{
-					count: 2
-					id: "4BF1E192512BEAD9"
-					item: {
-						count: 1
-						id: "create:large_cogwheel"
-					}
-					type: "item"
-				}
-			]
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3FBCB0A1E3DA3EF8"
+				table_id: 2324480973079952343L
+				type: "random"
+			}]
 			tasks: [{
 				id: "69ECEFDBD6B870E7"
 				item: { count: 1, id: "create:deployer" }
@@ -308,6 +303,12 @@
 		{
 			dependencies: ["2C2969D5B84CD1D7"]
 			id: "04616501E2CD18B1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7A69829D667F3A7A"
+				table_id: 2324480973079952343L
+				type: "random"
+			}]
 			shape: "octagon"
 			size: 1.2d
 			tasks: [{
@@ -324,14 +325,22 @@
 			hide_until_deps_complete: true
 			icon_scale: 0.9d
 			id: "7DF7C19B39DB7189"
-			rewards: [{
-				id: "3A389658D7C0C68F"
-				item: {
-					count: 1
-					id: "numismatics:cog"
+			rewards: [
+				{
+					id: "3A389658D7C0C68F"
+					item: {
+						count: 1
+						id: "numismatics:cog"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "5E03E5CDBF31400A"
+					table_id: 2324480973079952343L
+					type: "random"
+				}
+			]
 			shape: "gear"
 			size: 1.2d
 			tasks: [{
@@ -408,14 +417,22 @@
 			dependencies: ["1F4824B0AAC158BF"]
 			icon_scale: 0.85d
 			id: "35FAF88A718D3797"
-			rewards: [{
-				id: "318E6943F2CF59A7"
-				item: {
-					count: 1
-					id: "numismatics:cog"
+			rewards: [
+				{
+					id: "318E6943F2CF59A7"
+					item: {
+						count: 1
+						id: "numismatics:cog"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "30B4B5835599C20B"
+					table_id: 2324480973079952343L
+					type: "random"
+				}
+			]
 			shape: "gear"
 			size: 1.2d
 			tasks: [{
@@ -448,6 +465,12 @@
 			hide_until_deps_complete: true
 			icon_scale: 1.2d
 			id: "0AE3C9B45544091F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6ED744DF13A1AC83"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "2D6B3548FAA33431"
@@ -478,6 +501,12 @@
 			}
 			icon_scale: 0.9d
 			id: "0603CB7BA17DDE22"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1B53285ABDAB1086"
+				table_id: 2324480973079952343L
+				type: "random"
+			}]
 			shape: "diamond"
 			size: 1.2d
 			tasks: [
@@ -551,12 +580,10 @@
 			}
 			id: "02491C8751B8E7F0"
 			rewards: [{
-				id: "0EF72AC138259B2C"
-				item: {
-					count: 1
-					id: "create:experience_block"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "6F519E343241A698"
+				table_id: 1772101481099344800L
+				type: "random"
 			}]
 			shape: "rsquare"
 			tasks: [
@@ -581,6 +608,12 @@
 				id: "create:controls"
 			}
 			id: "07EBF6DADD923BE5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "23A955D2A858A8F3"
+				table_id: 1772101481099344800L
+				type: "random"
+			}]
 			shape: "rsquare"
 			tasks: [
 				{
@@ -657,6 +690,12 @@
 				id: "create_hypertube:hypertube_entrance"
 			}
 			id: "6A277BB7B3E8F6E6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7DAE163C8FC2212A"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			tasks: [
 				{
 					count: 2L
@@ -840,6 +879,12 @@
 			icon_scale: 1.4d
 			id: "56055D9886B51802"
 			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "053E3811F66EBBE4"
+				table_id: 1772101481099344800L
+				type: "random"
+			}]
 			shape: "square"
 			size: 0.75d
 			tasks: [
@@ -945,6 +990,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "06314E4579054874"
+					table_id: 1772101481099344800L
+					type: "random"
+				}
 			]
 			shape: "rsquare"
 			tasks: [
@@ -1034,14 +1085,22 @@
 			dependencies: ["31A4098D1E59F333"]
 			icon_scale: 0.9d
 			id: "49D7B55CB46B6554"
-			rewards: [{
-				id: "5FF9294F13552A43"
-				item: {
-					count: 1
-					id: "numismatics:cog"
+			rewards: [
+				{
+					id: "5FF9294F13552A43"
+					item: {
+						count: 1
+						id: "numismatics:cog"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "7BD5762E34B2A9B3"
+					table_id: 2324480973079952343L
+					type: "random"
+				}
+			]
 			shape: "gear"
 			size: 1.2d
 			tasks: [{
@@ -1168,22 +1227,23 @@
 				item: { count: 1, id: "cmpackagecouriers:location_transmitter" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: -7.125d
+			x: 0.375d
+			y: -6.0d
 		}
 		{
 			dependencies: ["0603CB7BA17DDE22"]
 			icon_scale: 1.4d
 			id: "600AA019D9A22829"
+			optional: true
 			shape: "square"
 			size: 0.75d
 			tasks: [{
-				id: "4913E829ABB8160C"
-				item: { count: 1, id: "cmpackagecouriers:portable_stock_ticker" }
+				id: "7B97301AE8F5E118"
+				item: { count: 1, id: "create_mobile_packages:portable_stock_ticker" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: -7.125d
+			x: 3.75d
+			y: -5.25d
 		}
 		{
 			dependencies: ["6A277BB7B3E8F6E6"]
@@ -1206,6 +1266,12 @@
 				id: "create:schematicannon"
 			}
 			id: "7461D4E648BB0ECF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1F4AE8C47EB64136"
+				table_id: 1772101481099344800L
+				type: "random"
+			}]
 			shape: "rsquare"
 			tasks: [
 				{
@@ -1231,13 +1297,10 @@
 			dependencies: ["4A66349662612F04"]
 			id: "2A0033C45D04FCA5"
 			rewards: [{
-				count: 2
-				id: "37540592DF7D2649"
-				item: {
-					count: 1
-					id: "numismatics:spur"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "57DAC141E9E2F085"
+				table_id: 2283226959771725479L
+				type: "random"
 			}]
 			shape: "octagon"
 			size: 1.2d
@@ -1382,6 +1445,70 @@
 			}]
 			x: 6.75d
 			y: -6.75d
+		}
+		{
+			dependencies: ["7DF7C19B39DB7189"]
+			id: "01A30F21D3A95C71"
+			optional: true
+			shape: "square"
+			size: 0.75d
+			tasks: [{
+				id: "40D517CBB645024D"
+				item: { count: 1, id: "dndesires:omni_speed_controller" }
+				type: "item"
+			}]
+			x: 8.25d
+			y: -2.25d
+		}
+		{
+			dependencies: ["02491C8751B8E7F0"]
+			id: "78DD41EDE3F5C6A1"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4B683B7B396D02E6"
+				table_id: 2324480973079952343L
+				type: "random"
+			}]
+			shape: "square"
+			size: 0.75d
+			tasks: [{
+				id: "718303D624C71AB2"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(create:toolboxes)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0603CB7BA17DDE22"]
+			id: "7C58EE46BE84B3C7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "635F8E815347AE74"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2DDA93779DB6067E"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(create:table_cloths)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["05E0B29BA4268A4C"]
+			id: "210A3BF4224553C0"
+			shape: "square"
+			size: 0.75d
+			tasks: [{
+				id: "57A85261B68FBA0A"
+				item: { count: 1, id: "create:stockpile_switch" }
+				type: "item"
+			}]
+			x: 0.375d
+			y: -3.0d
 		}
 	]
 }

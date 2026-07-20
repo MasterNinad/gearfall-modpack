@@ -293,5 +293,56 @@
 			x: 1.8d
 			y: -3.75d
 		}
+		{
+			dependencies: ["3FBAE2BB5F26AFDF"]
+			icon_scale: 0.9d
+			id: "48731E89206AF043"
+			rewards: [{
+				id: "107766B73E7A3A36"
+				item: {
+					count: 1
+					id: "numismatics:crown"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 1.2d
+			tasks: [
+				{
+					dimension: "northstar:venus"
+					icon: {
+						id: "northstar:venus_gravel"
+					}
+					id: "6D93457C214E9C00"
+					type: "dimension"
+				}
+				{
+					dimension: "northstar:mars"
+					icon: {
+						id: "northstar:mars_gravel"
+					}
+					id: "0EFF1E8DC4AC665B"
+					type: "dimension"
+				}
+				{
+					dimension: "northstar:mercury"
+					icon: {
+						id: "northstar:mercury_stone"
+					}
+					id: "7A6A46FA63DF78E5"
+					type: "dimension"
+				}
+				{
+					dimension: "northstar:moon"
+					icon: {
+						id: "northstar:moon_sand"
+					}
+					id: "4E12F9927B91440A"
+					type: "dimension"
+				}
+			]
+			x: -2.4d
+			y: -3.0d
+		}
 	]
 }

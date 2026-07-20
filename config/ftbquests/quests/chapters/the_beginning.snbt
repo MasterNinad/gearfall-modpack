@@ -27,15 +27,14 @@
 				{
 					exclude_from_claim_all: true
 					id: "700DD5653190F363"
+					table_id: 2322880812245041609L
 					type: "choice"
 				}
 				{
-					id: "22F2DA935F2FEED5"
-					item: {
-						count: 1
-						id: "numismatics:spur"
-					}
-					type: "item"
+					exclude_from_claim_all: true
+					id: "038031180D107C04"
+					table_id: 2283226959771725479L
+					type: "random"
 				}
 			]
 			shape: "hexagon"
@@ -96,8 +95,15 @@
 				}
 				{
 					exclude_from_claim_all: true
-					id: "3D7D5678906B69E4"
+					id: "11CC287DDFCFADD8"
+					table_id: 2322880812245041609L
 					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4DBAC2C566B85ACA"
+					table_id: 1772101481099344800L
+					type: "random"
 				}
 			]
 			tasks: [{
@@ -127,14 +133,6 @@
 					item: {
 						count: 1
 						id: "minecraft:pumpkin_pie"
-					}
-					type: "item"
-				}
-				{
-					id: "43BE250F383C6223"
-					item: {
-						count: 1
-						id: "numismatics:spur"
 					}
 					type: "item"
 				}
@@ -176,12 +174,16 @@
 					type: "item"
 				}
 				{
-					id: "795BD604A304D406"
-					item: {
-						count: 1
-						id: "numismatics:spur"
-					}
-					type: "item"
+					exclude_from_claim_all: true
+					id: "01E169E314EB6355"
+					table_id: 2283226959771725479L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "53123C73EBE8A077"
+					table_id: 1772101481099344800L
+					type: "random"
 				}
 			]
 			shape: "gear"
@@ -318,9 +320,10 @@
 			dependencies: ["22E824A43DCC1B81"]
 			id: "6F82C111705127AF"
 			rewards: [{
-				id: "723FD9FEA9DDA5D5"
-				type: "xp"
-				xp: 500
+				exclude_from_claim_all: true
+				id: "2C5A638E0FD7E176"
+				table_id: 1772101481099344800L
+				type: "random"
 			}]
 			tasks: [
 				{
@@ -347,22 +350,15 @@
 			id: "1B7BF1AE57D72BB9"
 			rewards: [
 				{
-					exclude_from_claim_all: true
-					id: "058174727F4B9D01"
-					type: "random"
-				}
-				{
 					id: "0785802054AC4C74"
 					type: "xp_levels"
 					xp_levels: 3
 				}
 				{
-					id: "6BFD05CFD1151AE9"
-					item: {
-						count: 1
-						id: "numismatics:bevel"
-					}
-					type: "item"
+					exclude_from_claim_all: true
+					id: "791DBBE462F54C7E"
+					table_id: 2283226959771725479L
+					type: "random"
 				}
 			]
 			shape: "rsquare"
@@ -455,6 +451,12 @@
 				"30B9F164155881E4"
 			]
 			id: "52F3DCF1B1532612"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "63E6964A3C272324"
+				table_id: 1772101481099344800L
+				type: "random"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "69547D43A771E9A0"

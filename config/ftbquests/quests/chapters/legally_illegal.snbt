@@ -85,6 +85,12 @@
 			]
 			icon_scale: 0.9d
 			id: "41B3DCB66C5916FF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "27E63F07330A42AF"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			shape: "diamond"
 			size: 1.2d
 			tasks: [{
@@ -170,6 +176,12 @@
 			]
 			icon_scale: 0.9d
 			id: "4A1D9B847EC7A9B1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "16707EBA913CF07D"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			shape: "diamond"
 			size: 1.2d
 			tasks: [{

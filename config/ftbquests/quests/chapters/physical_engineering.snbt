@@ -14,6 +14,12 @@
 			dependencies: ["4632BE033D180212"]
 			hide_until_deps_complete: true
 			id: "7E9949D1394DEC5E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2EE800C07A3C9370"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			shape: "hexagon"
 			size: 1.2d
 			tasks: [{

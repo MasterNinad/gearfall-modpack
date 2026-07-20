@@ -84,7 +84,6 @@ global.itemsToRemove = [
   "artifacts:everlasting_beef",
   "artifacts:eternal_steak",
   "artifacts:lucky_scarf",
-  "artifacts:scarf_of_invisibility",
   "artifacts:rooted_boots",
   "artifacts:warp_drive",
 
@@ -170,12 +169,17 @@ global.recipesToRemove = [
   "northstar:compacting/brine_to_salt",
   `northstar:compacting/carbon_from_biofuel`,
   `northstar:compacting/carbon_from_coal`,
-  "create:crushing/basalt",
   "northstar:crafting/iron_large_cogwheel",
   "northstar:crafting/iron_large_cogwheel_from_small",
   "northstar:crafting/iron_cogwheel",
   "northstar:mechanical_crafting/electrolysis_machine",
   "northstar:sequenced_assembly/hardened_precision_mechanism",
+  "northstar:liquid_burning/biofuel",
+  "northstar:liquid_burning/hydrocarbon",
+  "northstar:liquid_burning/liquid_hydrogen",
+  "northstar:liquid_burning/methane",
+  "northstar:liquid_burning/hydrogen",
+  "northstar:sequenced_assembly/titanium_compat_cbc",
 
   //Create Connected: Recipes
   "create_connected:item_application/seething_catalyst_from_empty_using_deployer",
@@ -188,6 +192,14 @@ global.recipesToRemove = [
 
   //Create: Recipes
   "create:crushing/tuff_recycling",
+  "create:crushing/basalt",
+
+  //Create Broken Bad: Recipes
+  "createbb:phase1/limestone_crushing",
+  "createbb:phase1/limestone_tag_crushing",
+
+  //TFMG: Recipes
+  "tfmg:compacting/cast_iron"
 ];
 
 //Remove items from creative tabs, including search tab (this is brute force approach, every item is checked for every tab, but it works :)

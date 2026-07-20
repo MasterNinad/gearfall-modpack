@@ -52,9 +52,10 @@
 			icon_scale: 0.9d
 			id: "35632E429074CAA7"
 			rewards: [{
-				id: "79FEC6C6A8FD3A25"
-				type: "xp"
-				xp: 100
+				exclude_from_claim_all: true
+				id: "54622481D101EE62"
+				table_id: 1772101481099344800L
+				type: "random"
 			}]
 			shape: "diamond"
 			size: 1.2d
@@ -71,9 +72,10 @@
 			icon_scale: 0.9d
 			id: "644D9B572DCF6A29"
 			rewards: [{
-				id: "4B3CDE663ADFA993"
-				type: "xp"
-				xp: 100
+				exclude_from_claim_all: true
+				id: "6AAD3DCB91E73FD3"
+				table_id: 1772101481099344800L
+				type: "random"
 			}]
 			shape: "diamond"
 			size: 1.2d
@@ -119,9 +121,10 @@
 			dependencies: ["644D9B572DCF6A29"]
 			id: "7E52EE32432A9D25"
 			rewards: [{
-				id: "0C9D0F709E99A368"
-				type: "xp"
-				xp: 100
+				exclude_from_claim_all: true
+				id: "25E0BB197220EB00"
+				table_id: 1772101481099344800L
+				type: "random"
 			}]
 			tasks: [{
 				id: "606A1B32B2A41713"
@@ -205,6 +208,12 @@
 					}
 					type: "item"
 				}
+				{
+					exclude_from_claim_all: true
+					id: "1E01B0FB5733E74E"
+					table_id: 1772101481099344800L
+					type: "random"
+				}
 			]
 			shape: "rsquare"
 			tasks: [{
@@ -273,12 +282,10 @@
 					type: "item"
 				}
 				{
-					id: "59AF03EB6FEBCF9C"
-					item: {
-						count: 1
-						id: "numismatics:bevel"
-					}
-					type: "item"
+					exclude_from_claim_all: true
+					id: "52886EB7132F7796"
+					table_id: 2283226959771725479L
+					type: "random"
 				}
 			]
 			shape: "rsquare"
@@ -312,15 +319,23 @@
 		{
 			dependencies: ["4AC6946A5116258E"]
 			id: "3C7D767CE1B0337C"
-			rewards: [{
-				count: 3
-				id: "4914B43162FA8436"
-				item: {
-					count: 1
-					id: "minecraft:obsidian"
+			rewards: [
+				{
+					count: 3
+					id: "4914B43162FA8436"
+					item: {
+						count: 1
+						id: "minecraft:obsidian"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "46C96C106748D882"
+					table_id: 1772101481099344800L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "7B93C3E6443FFD7F"
 				item: { count: 1, id: "minecraft:nether_star" }
@@ -348,12 +363,10 @@
 					xp_levels: 2
 				}
 				{
-					id: "62E9C2BB7818E021"
-					item: {
-						count: 1
-						id: "numismatics:bevel"
-					}
-					type: "item"
+					exclude_from_claim_all: true
+					id: "4C15DEF2944F97CC"
+					table_id: 2283226959771725479L
+					type: "random"
 				}
 			]
 			shape: "rsquare"
@@ -395,13 +408,10 @@
 			dependencies: ["28D124B4976CC9D6"]
 			id: "20112DE80FFA4E8B"
 			rewards: [{
-				count: 2
-				id: "662BFFDF33160082"
-				item: {
-					count: 1
-					id: "numismatics:spur"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "0B03401E17669120"
+				table_id: 2283226959771725479L
+				type: "random"
 			}]
 			shape: "rsquare"
 			tasks: [
@@ -450,6 +460,12 @@
 		{
 			dependencies: ["67E7943E63EB45F4"]
 			id: "7389A60FCE7B7700"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "11B480B6C3E6D348"
+				table_id: 1772101481099344800L
+				type: "random"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "498AAEAE3BF3DDE0"
@@ -462,6 +478,12 @@
 		{
 			dependencies: ["594F6C2480AD8097"]
 			id: "249D6B4EB627A696"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "692062C2D631C65B"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				count: 4L

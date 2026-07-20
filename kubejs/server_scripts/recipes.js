@@ -35,45 +35,39 @@ ServerEvents.recipes((event) => {
       )
       .id(`gearfall:recipes/unlocking_${name}_vent_manual_only`);
 
-    if (name === "crimsite") 
-    {
+    if (name === "crimsite") {
       event
-      .custom({
-        type: "tfmg:vat_machine_recipe",
-        allowed_vat_types: [
-          "tfmg:firebrick_lined_vat",
-        ],
-        ingredients: [
-          {
-            amount: 2,
-            item: `kubejs:impure_${name}`,
-          }
-        ],
-        machines: ["tfmg:centrifuge"],
-        min_size: 1,
-        results: [
-          {
-            amount: 1,
-            id: `${block}`,
-          },
-        ],
-      })
-      .id(`gearfall:recipes/${name}_purification`);
+        .custom({
+          type: "tfmg:vat_machine_recipe",
+          allowed_vat_types: ["tfmg:firebrick_lined_vat"],
+          ingredients: [
+            {
+              amount: 2,
+              item: `kubejs:impure_${name}`,
+            },
+          ],
+          machines: ["tfmg:centrifuge"],
+          min_size: 1,
+          results: [
+            {
+              amount: 1,
+              id: `${block}`,
+            },
+          ],
+        })
+        .id(`gearfall:recipes/${name}_purification`);
       return;
     }
 
     event
       .custom({
         type: "tfmg:vat_machine_recipe",
-        allowed_vat_types: [
-          "tfmg:cast_iron_vat",
-          "tfmg:steel_vat"
-        ],
+        allowed_vat_types: ["tfmg:cast_iron_vat", "tfmg:steel_vat"],
         ingredients: [
           {
             amount: 2,
             item: `kubejs:impure_${name}`,
-          }
+          },
         ],
         machines: ["tfmg:centrifuge"],
         min_size: 1,
@@ -128,12 +122,97 @@ ServerEvents.recipes((event) => {
   event.recipes.create
     .crushing(
       [
-        CreateItem.of("minecraft:flint", 0.20),
+        CreateItem.of("minecraft:flint", 0.2),
         CreateItem.of("minecraft:gold_nugget", 0.05),
         CreateItem.of("create:zinc_nugget", 0.05),
-        CreateItem.of("createaddition:electrum_nugget", 0.10)
+        CreateItem.of("createaddition:electrum_nugget", 0.1),
       ],
       "minecraft:tuff",
     )
     .id("create:crushing/tuff");
+
+  //Add cobblestone, stone and limestone extruding recipes
+  event.recipes.create_mechanical_extruder
+    .extruding(Item.of("minecraft:cobblestone"), [
+      BlockPredicate.of("minecraft:water"),
+      BlockPredicate.of("minecraft:lava"),
+    ])
+    .catalyst(BlockPredicate.of("minecraft:cobblestone"))
+    .id(`gearfall:recipes/extruding_cobblestone`);
+  event.recipes.create_mechanical_extruder
+    .extruding(Item.of("minecraft:stone"), [
+      BlockPredicate.of("minecraft:water"),
+      BlockPredicate.of("minecraft:lava"),
+    ])
+    .catalyst(BlockPredicate.of("minecraft:stone"))
+    .id(`gearfall:recipes/extruding_stone`);
+  event.recipes.create_mechanical_extruder
+    .extruding(Item.of("create:limestone"), [
+      BlockPredicate.of("create:honey"),
+      BlockPredicate.of("minecraft:lava"),
+    ])
+    .catalyst(BlockPredicate.of("create:limestone"))
+    .id(`gearfall:recipes/extruding_limestone`);
+  
+  //Add liquid burning recipe for (chemica) liquid hydrogen
+  event.custom({
+    type: "createaddition:liquid_burning",
+    burn_time: 6000,
+    ingredients: [
+      {
+        type: "neoforge:tag",
+        amount: 1000,
+        tag: "c:liquid_hydrogen",
+      },
+    ],
+    results: [],
+    superheated: true,
+  }).id("gearfall:recipes/liquid_hydrogen_burning");
+
+  //Coarse dirt mixing recipe
+  event.recipes.create.mixing(
+    ['minecraft:coarse_dirt', 'minecraft:coarse_dirt', 'minecraft:coarse_dirt', 'minecraft:coarse_dirt'],
+    ['minecraft:dirt', 'minecraft:dirt', 'minecraft:gravel', 'minecraft:gravel']
+  ).id('gearfall:recipes/coarse_dirt_mixing');
+
+  //Smelt rotten flesh into leather
+  event.smelting('minecraft:leather', 'minecraft:rotten_flesh');
+
+  //Crushing amethyst shard into xp
+  event.recipes.create
+    .crushing(
+      [
+      'create:experience_nugget',
+        CreateItem.of('create:experience_nugget', 0.5),
+        CreateItem.of("create_sa:heap_of_experience", 0.1),
+      ],
+      "minecraft:amethyst_shard",
+    )
+    .id("gearfall:recipes/amethyst_shard");
+
+  //Crush limestone into limesand and white phosphorus
+  event.recipes.create
+    .crushing(
+      [
+        "tfmg:limesand",
+        CreateItem.of("createbb:white_phosphorus", 0.75),
+      ],
+      Ingredient.of('#create:stone_types/limestone').withCount(1),
+    )
+    .id("create:crushing/limestone");
+  
+  //Mixing quartz and cobblestone into andesite
+  event.recipes.create.mixing(
+    ["minecraft:diorite", "minecraft:diorite"], 
+    ["minecraft:cobblestone", "minecraft:cobblestone", "minecraft:quartz"]
+  )
+  .heated()
+  .id("gearfall:recipes/diorite_mixing");
+
+  //Replace granite crushing recipe to include rutile crystal
+  event.recipes.create.milling(
+    ["minecraft:red_sand", CreateItem.of("chemica:rutile_crystal", 0.01)],
+    "minecraft:granite"
+  )
+  .id("create:milling/granite");
 });

@@ -59,8 +59,8 @@
 			dependencies: ["51CD9DBF55BECE8A"]
 			id: "46C48141591D8AB0"
 			tasks: [{
-				id: "0D220935EA5C39AC"
-				item: { count: 1, id: "northstar:space_atlas" }
+				id: "13B579E60DE7FCEB"
+				item: { count: 1, id: "northstar:star_map" }
 				type: "item"
 			}]
 			x: 4.5d
@@ -96,6 +96,12 @@
 		{
 			dependencies: ["4F81A442D0376D1B"]
 			id: "66EA9F68E57EB111"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7D338A4EC8F17118"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			shape: "hexagon"
 			size: 1.2d
 			tasks: [{
@@ -110,6 +116,12 @@
 		{
 			dependencies: ["37CECFD79DF0BF65"]
 			id: "1A111B1E6048FE15"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "00463E8B3699F08E"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			shape: "hexagon"
 			size: 1.2d
 			tasks: [{
@@ -125,8 +137,8 @@
 			id: "7CB1C5AFB2F12B44"
 			tasks: [{
 				count: 4L
-				id: "0BB162BA54C28A8B"
-				item: { count: 1, id: "northstar:rocket_thruster" }
+				id: "7784E92096780CDD"
+				item: { count: 1, id: "northstar:jet_engine" }
 				type: "item"
 			}]
 			x: 10.5d
@@ -176,6 +188,12 @@
 			dependencies: ["3553EC3AC10A0583"]
 			hide_until_deps_complete: true
 			id: "0E4D519DDB53D4D7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7BC8E08ED0702DFA"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			shape: "hexagon"
 			size: 1.2d
 			tasks: [{
@@ -262,6 +280,12 @@
 		{
 			dependencies: ["0DA1533418D076E2"]
 			id: "11B1F7ECED1B8AA6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "596C2DC6CC9CE7F6"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			shape: "hexagon"
 			size: 1.2d
 			tasks: [
@@ -384,8 +408,8 @@
 			shape: "gear"
 			size: 1.2d
 			tasks: [{
-				id: "56CCC882AF0E411E"
-				item: { count: 1, id: "northstar:martian_steel_ingot" }
+				id: "0F569C09B2D0B270"
+				item: { count: 1, id: "northstar:martian_steel" }
 				type: "item"
 			}]
 			x: 15.0d
@@ -477,6 +501,12 @@
 		{
 			dependencies: ["6C1D28D5DC4A8E7B"]
 			id: "43987630D871CE9A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "256B12022A859C20"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			tasks: [
 				{
 					id: "17110E852A19030E"

@@ -52,9 +52,6 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "jadeaddons": {
-    "equipment_requirement": ""
-  },
   "jadeaddons.create": {
     "filter": true,
     "backtank_capacity": true,
@@ -72,14 +69,16 @@
     "entity": true,
     "entity_variant": true
   },
-  "jadeaddons.lootr": {
-    "info": true
-  },
   "ftbquests": {
     "barrier": true
   },
-  "supplementaries": {
-    "hat_stand": true
+  "pneumaticcraft": {
+    "pneumatic": true,
+    "tube_module": true,
+    "entity": true,
+    "redstone": true,
+    "camo": true,
+    "semiblock": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -92,12 +91,6 @@
     "block_properties": false,
     "mod_name": true
   },
-  "corpse": {
-    "corpse": true
-  },
-  "barbequesdelight": {
-    "grill": true
-  },
   "ae2": {
     "part_icon": true,
     "charger": true,
@@ -109,5 +102,23 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "create_mobile_packages": {
+    "bee_port": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "jadeaddons.lootr": {
+    "info": true
+  },
+  "supplementaries": {
+    "hat_stand": true
+  },
+  "corpse": {
+    "corpse": true
+  },
+  "barbequesdelight": {
+    "grill": true
   }
 }

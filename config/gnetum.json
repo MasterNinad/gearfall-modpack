@@ -12,6 +12,24 @@
   "maxFps": 50,
   "screenMaxFps": 25,
   "mapVanillaElements": {
+    "enderscape:debug": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 3
+    },
+    "enderscape:stare_screen": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "aeroworks:joystick_hud": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
     "create:value_settings": {
       "enabled": {
         "value": "AUTO"
@@ -37,6 +55,12 @@
       "pass": 1
     },
     "create:toolbox": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "createlazytick:lazytick_tooltip": {
       "enabled": {
         "value": "AUTO"
       },
@@ -72,6 +96,12 @@
       },
       "pass": 1
     },
+    "simulated:linked_typewriter_binding": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
     "create:track_placement": {
       "enabled": {
         "value": "AUTO"
@@ -95,6 +125,12 @@
         "value": "AUTO"
       },
       "pass": 2
+    },
+    "enderscape:nebulite_tool": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 3
     },
     "supplementaries:selectable_container_item": {
       "enabled": {
@@ -121,6 +157,12 @@
       "pass": 3
     },
     "minecraft:hotbar": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "artifacts:artifact_cooldowns": {
       "enabled": {
         "value": "AUTO"
       },
@@ -162,6 +204,12 @@
       },
       "pass": 1
     },
+    "enderscape:mirror_screen": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
     "barbequesdelight:block_info": {
       "enabled": {
         "value": "AUTO"
@@ -173,6 +221,12 @@
         "value": "AUTO"
       },
       "pass": 2
+    },
+    "xaerohud:hud": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
     },
     "minecraft:saving_indicator": {
       "enabled": {
@@ -225,6 +279,12 @@
       "pass": 1
     },
     "sodiumextras": {
+      "enabled": {
+        "value": "AUTO"
+      },
+      "pass": 1
+    },
+    "chloride": {
       "enabled": {
         "value": "AUTO"
       },

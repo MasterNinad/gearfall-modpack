@@ -82,6 +82,12 @@
 				"63D9B5C39079C29B"
 			]
 			id: "1556FE674BAE7DB0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "776B37C6666CF758"
+				table_id: 1772101481099344800L
+				type: "random"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "27D37D248830A694"
@@ -97,6 +103,12 @@
 				"328F2015D6073510"
 			]
 			id: "437679EC71E70DC0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "11C9D85B633EF0A6"
+				table_id: 1772101481099344800L
+				type: "random"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "50037BFDF4A02532"
@@ -210,6 +222,12 @@
 			dependencies: ["4C6468ADED13DD17"]
 			icon_scale: 0.9d
 			id: "7C4FB6FE06175052"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "55E4AB9B0BA32DC9"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			shape: "diamond"
 			size: 1.2d
 			tasks: [

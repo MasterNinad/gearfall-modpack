@@ -86,7 +86,16 @@
 				"3348966A273DBBD1"
 				"01EABF1FDD93FFA1"
 			]
+			icon_scale: 0.8d
 			id: "29DC80801F42DB39"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "75D321CC41E003BA"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
+			shape: "diamond"
+			size: 1.2d
 			tasks: [{
 				count: 2L
 				id: "4B6AE65790905380"
@@ -240,6 +249,12 @@
 			hide_until_deps_complete: true
 			icon_scale: 0.9d
 			id: "43AA1DC3CD174E6F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "04FB366B103F4557"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			shape: "diamond"
 			size: 1.2d
 			tasks: [{
@@ -591,6 +606,12 @@
 		{
 			dependencies: ["0B9E2D52A3BDE69F"]
 			id: "3642B45DA6DFA43F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "62E9C415DFA4694E"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "6986CCCBFDCBA2CA"
@@ -727,6 +748,12 @@
 				"6B795B8122C860B0"
 			]
 			id: "2A153AE4453C58DD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5C8FDAA66C4B19DD"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "7D1F9E015EAFFF0B"
@@ -814,6 +841,12 @@
 		{
 			dependencies: ["7BA3563BB3790CE0"]
 			id: "1FAED9AC793B4310"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4C4FCD9411E2A07F"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			shape: "octagon"
 			size: 1.2d
 			tasks: [{

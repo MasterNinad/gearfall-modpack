@@ -53,6 +53,12 @@
 				"7DF7C19B39DB7189"
 			]
 			id: "5D48E148D923D387"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3FF6A1EDA22FC394"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			tasks: [{
 				id: "3239745DDAD9F05B"
 				item: { count: 1, id: "immersive_aircraft:engine" }

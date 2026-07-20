@@ -52,6 +52,12 @@
 			dependencies: ["5FCBF6788248BCE1"]
 			icon_scale: 0.9d
 			id: "14E4C2D4CE3C342D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2346A908405692D5"
+				table_id: 1772101481099344800L
+				type: "random"
+			}]
 			shape: "diamond"
 			size: 1.2d
 			tasks: [{
@@ -66,12 +72,10 @@
 			dependencies: ["14E4C2D4CE3C342D"]
 			id: "46BD3A45DECD9B78"
 			rewards: [{
-				id: "6A000976BFBD7270"
-				item: {
-					count: 1
-					id: "numismatics:sprocket"
-				}
-				type: "item"
+				exclude_from_claim_all: true
+				id: "2A6DE0DE100ED14D"
+				table_id: 2283226959771725479L
+				type: "random"
 			}]
 			shape: "rsquare"
 			tasks: [{

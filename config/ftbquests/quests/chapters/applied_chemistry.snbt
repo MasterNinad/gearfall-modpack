@@ -38,6 +38,12 @@
 			]
 			icon_scale: 0.8d
 			id: "38928B93135D0138"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6E6BD15EF541EA22"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			shape: "diamond"
 			size: 1.2d
 			tasks: [{
@@ -284,6 +290,12 @@
 			]
 			icon_scale: 0.8d
 			id: "72AD3F54D462D223"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "663DBEB5E55EAED3"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			shape: "diamond"
 			size: 1.2d
 			tasks: [{
@@ -416,6 +428,12 @@
 			dependencies: ["56560F12EE765C6E"]
 			icon_scale: 0.9d
 			id: "1299E880D10AE3C6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1E1FF5294FDB2905"
+				table_id: 2283226959771725479L
+				type: "random"
+			}]
 			shape: "diamond"
 			size: 1.2d
 			tasks: [{
