@@ -215,4 +215,12 @@ ServerEvents.recipes((event) => {
     "minecraft:granite"
   )
   .id("create:milling/granite");
+
+  //Replace nickel alloy armour block recipe
+  event.recipes.create.mixing(
+    "s_a_b:nickelalloysteel",
+    ["s_a_b:steelblock", "tfmg:nickel_ingot"]
+  )
+  .heated()
+  .id("sab_tfmg_compat:mixing_nickelalloysteel2");
 });

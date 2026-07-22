@@ -32,7 +32,6 @@
 		}
 		{
 			dependencies: [
-				"289DDD3D311E3CA3"
 				"292AB2B33FA1BC50"
 				"52B53064255CFDCE"
 			]
@@ -66,7 +65,10 @@
 			y: 1.5d
 		}
 		{
-			dependencies: ["38928B93135D0138"]
+			dependencies: [
+				"38928B93135D0138"
+				"289DDD3D311E3CA3"
+			]
 			id: "59F8BA974936EBBA"
 			tasks: [{
 				id: "11C857F4D111AC5D"

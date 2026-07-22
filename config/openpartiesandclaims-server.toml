@@ -67,9 +67,11 @@
 		#Whether parties from the primary party system (option "primaryPartySystem") should act as owners of claims.
 		#The technical owner of a party's claims is still a player: the party owner.
 		#Party members who are at least the rank equivalent of Claimer can claim and unclaim as the party (owner).
+		#If "Whole Party Can Claim" is enabled in the party owner's config (or enforced by the default player config), then every player in the party can claim/unclaim.
 		#Party members who are at least the rank equivalent of Moderator can also include and exclude players
 		#to/from the player groups of the party's claim config.
 		#Party members who are at least the rank equivalent of Admin can also fully edit the party's claim config.
+		#If the primary party system supports party colors (e.g. FTB Teams), then the default color of the party's claims is the party color.
 		#Changing this option does not automatically reassign claims based on party relations or actual chunk claimers,
 		#so it is recommended to only set this option once based on the server's intended gameplay style.
 		#Other important options related to this feature are "claimBonusPerPartyMember", "forceloadBonusPerPartyMember",
@@ -115,9 +117,14 @@
 		# Default: 10
 		# Range: > 0
 		maxPlayerClaimForceloads = 10
-		#The permission that should override the default "maxPlayerClaims" value. Set it to an empty string to never check permissions. The used permission system can be configured with "permissionSystem".
+		#The permission that should override the default "maxPlayerClaims" value. Set it to an empty string to never check permissions.
+		#The value of this permission is ignored for primary party owners when partyOwnedClaims are enabled because checking permissions requires
+		#the player to be online, which doesn't work well with party-owned claims.
+		#The used permission system can be configured with "permissionSystem".
 		maxPlayerClaimsPermission = "xaero.pac_max_claims"
 		#The permission that should override the default "maxPlayerClaimForceloads" value. Set it to an empty string to never check permissions.
+		#The value of this permission is ignored for primary party owners when partyOwnedClaims are enabled because checking permissions requires
+		#the player to be online, which doesn't work well with party-owned claims.
 		#The permission override only takes effect after the player logs in at least once after a server (re)launch, so it is recommended to keep all permission-based forceload limits equal to or greater than "maxPlayerClaimForceloads".
 		#The used permission system can be configured with "permissionSystem".
 		maxPlayerClaimForceloadsPermission = "xaero.pac_max_forceloads"
@@ -148,6 +155,11 @@
 		claimsSynchronization = "ALL"
 		#Whether to display "welcome" messages when a player enters a claim or wilderness. Not recommended to turn off unless you have another mod handling this.
 		claimWelcomeMessages = true
+		#How often (in minutes) to allow players to access a claim when their own claim count is over the claim limit or the claim count
+		#of the owner of the claim is over the claim limit.
+		# Default: 5
+		# Range: > 0
+		overLimitClaimAccessCooldown = 5
 
 		[serverConfig.claims.protection]
 			#The type of the list defined in "friendlyChunkProtectedEntityList". ONLY - include only the listed entities. ALL_BUT - include all but the listed entities.
@@ -183,7 +195,7 @@
 			#Prefix "anything$" is the same as no prefix but allows interaction with any item held in the hand. Please make sure that no item does anything bad when used at a block with such an exception.
 			#Add the same block/tag multiple times to use multiple prefixes. Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
 			#For example ["minecraft:lever", "minecraft:*_button", "break$minecraft:*_button", "break$minecraft:(*_|)sand"]
-			forcedBlockProtectionExceptionList = ["minecraft:crafting_table","hand$create:white_table_cloth", "hand$numismatics:bank_terminal"]
+			forcedBlockProtectionExceptionList = ["minecraft:crafting_table", "hand$create:white_table_cloth", "hand$numismatics:bank_terminal"]
 			#Custom groups of blocks that a player/claim config should be able to make protection exceptions for. Each group can consist of multiple blocks and block tags.
 			#A group without a prefix creates a player config option for the right-click interaction with the group blocks. The format for a block group is <group ID>{<blocks/tags/wildcards separated by ,>}.
 			#The group ID should consist of at most 32 characters that are letters A-Z, numbers 0-9 or the - and _ characters, e.g. "ePiC-DIRT35{minecraft:dirt, minecraft:grass_block, minecraft:(oak|spruce)_*}".
@@ -200,7 +212,7 @@
 			#Prefix "anything$" is the same as no prefix but allows interaction with any item held in the hand. Please make sure that no item does anything bad when used at an entity with such an exception.
 			#Add the same entity/tag multiple times to use multiple prefixes. Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
 			#For example ["minecraft:villager", "break$minecraft:villager", "break$minecraft:(trader_|)llama"]
-			forcedEntityProtectionExceptionList = ["minecraft:minecart", "anything$minecraft:chicken", "anything$minecraft:wolf", "anything$minecraft:parrot", 	"anything$minecraft:sniffer"]
+			forcedEntityProtectionExceptionList = ["minecraft:minecart", "anything$minecraft:chicken", "anything$minecraft:wolf", "anything$minecraft:parrot", "anything$minecraft:sniffer"]
 			#Custom groups of entities that a player/claim config should be able to make protection exceptions for. Each group can consist of multiple entities and entity tags.
 			#A group without a prefix creates a player config option for the right-click interaction with the group entities. The format for an entity group is <group ID>{<entities/tags/wildcards separated by ,>}.
 			#The group ID should consist of at most 32 characters that are letters A-Z, numbers 0-9 or the - and _ characters, e.g. "ePiC-GUYS98{minecraft:pig, minecraft:c(ow|at), #minecraft:beehive_inhabitors}".

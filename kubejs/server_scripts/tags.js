@@ -137,4 +137,96 @@ ServerEvents.tags("item", (event) => {
   fan_catalysts.forEach((fan_catalyst) => {
     event.add("create_connected:fan_catalysts", fan_catalyst);
   });
+
+  const logs = [
+    "#chipped:oak_log",
+    "#chipped:spruce_log",
+    "#chipped:birch_log",
+    "#chipped:jungle_log",
+    "#chipped:acacia_log",
+    "#chipped:dark_oak_log",
+    "#chipped:mangrove_log",
+    "#chipped:crimson_stem",
+    "#chipped:warped_stem",
+    "#chipped:cherry_log",
+  ];
+  logs.forEach((log) => {
+    event.add("gearfall:logs", log);
+  });
+
+  const stripped_logs = [
+    "#chipped:stripped_oak_log",
+    "#chipped:stripped_spruce_log",
+    "#chipped:stripped_birch_log",
+    "#chipped:stripped_jungle_log",
+    "#chipped:stripped_acacia_log",
+    "#chipped:stripped_dark_oak_log",
+    "#chipped:stripped_mangrove_log",
+    "#chipped:stripped_crimson_stem",
+    "#chipped:stripped_warped_stem",
+    "#chipped:stripped_cherry_log",
+  ];
+  stripped_logs.forEach((stripped_log) => {
+    event.add("gearfall:stripped_logs", stripped_log);
+  });
+
+  const ore_blocks = [
+    "#chipped:gold_block",
+    "#chipped:iron_block",
+    "#chipped:redstone_block",
+    "#chipped:lapis_block",
+    "#chipped:diamond_block",
+    "#chipped:emerald_block",
+    "#chipped:netherite_block",
+    "#chipped:coal_block",
+    "#chipped:quartz_block",
+  ];
+  ore_blocks.forEach((ore_block) => {
+    event.add("gearfall:ore_blocks", ore_block);
+  });
+
+  const terracottas = [
+    "#chipped:terracotta",
+    "#chipped:white_terracotta",
+    "#chipped:light_gray_terracotta",
+    "#chipped:gray_terracotta",
+    "#chipped:black_terracotta",
+    "#chipped:brown_terracotta",
+    "#chipped:red_terracotta",
+    "#chipped:orange_terracotta",
+    "#chipped:yellow_terracotta",
+    "#chipped:lime_terracotta",
+    "#chipped:green_terracotta",
+    "#chipped:cyan_terracotta",
+    "#chipped:light_blue_terracotta",
+    "#chipped:blue_terracotta",
+    "#chipped:purple_terracotta",
+    "#chipped:magenta_terracotta",
+    "#chipped:pink_terracotta",
+  ];
+  terracottas.forEach((terracotta) => {
+    event.add("gearfall:terracottas", terracotta);
+  });
+
+  const glazed_terracottas = [
+    "#chipped:white_glazed_terracotta",
+    "#chipped:light_gray_glazed_terracotta",
+    "#chipped:gray_glazed_terracotta",
+    "#chipped:black_glazed_terracotta",
+    "#chipped:brown_glazed_terracotta",
+    "#chipped:red_glazed_terracotta",
+    "#chipped:orange_glazed_terracotta",
+    "#chipped:yellow_glazed_terracotta",
+    "#chipped:lime_glazed_terracotta",
+    "#chipped:green_glazed_terracotta",
+    "#chipped:cyan_glazed_terracotta",
+    "#chipped:light_blue_glazed_terracotta",
+    "#chipped:blue_glazed_terracotta",
+    "#chipped:purple_glazed_terracotta",
+    "#chipped:magenta_glazed_terracotta",
+    "#chipped:pink_glazed_terracotta",
+  ];
+  glazed_terracottas.forEach((glazed_terracotta) => {
+    event.add("gearfall:glazed_terracottas", glazed_terracotta);
+  });
 });

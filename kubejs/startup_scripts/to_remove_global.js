@@ -132,6 +132,25 @@ global.itemsToRemove = [
   //Create: Items
   "create:refined_radiance_casing",
   "create:shadow_steel_casing",
+
+  //Create Big Cannons: Items
+  "createbigcannons:steel_ingot",
+  "createbigcannons:steel_scrap",
+  "createbigcannons:steel_block",
+  "createbigcannons:cast_iron_ingot",
+  "createbigcannons:cast_iron_nugget",
+  "createbigcannons:cast_iron_block",
+
+  //Steel Armour Blocks: Items
+  "s_a_b:cardboard",
+
+  //Create Compack Transmission: Items
+  "create_compact_transmission:modern_injector",
+  "create_compact_transmission:fuel_injector",
+
+  //TFMG: Items
+  "tfmg:golden_turbo",
+  "tfmg:debug_cinderblock"
 ].concat(replaceOld);
 
 global.fluidsToRemove = [
@@ -153,6 +172,9 @@ global.fluidsToRemove = [
   "createbb:oxygen",
   "createbb:ammonia",
   "createbb:hydrogen",
+
+  //Create Big Cannons: Fluids
+  "createbigcannons:molten_steel",
 ];
 
 global.recipesToRemove = [
@@ -198,8 +220,8 @@ global.recipesToRemove = [
   "createbb:phase1/limestone_crushing",
   "createbb:phase1/limestone_tag_crushing",
 
-  //TFMG: Recipes
-  "tfmg:compacting/cast_iron"
+  //Create Big Cannons: Recipes
+  "createbigcannons:compacting/iron_to_cast_iron_ingot"
 ];
 
 //Remove items from creative tabs, including search tab (this is brute force approach, every item is checked for every tab, but it works :)

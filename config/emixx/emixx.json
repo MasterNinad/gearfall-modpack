@@ -8,7 +8,9 @@
   "enableStackGroups": true,
   "enableCreateStackGroupButton": true,
   "disabledStackGroups": [
-    "minecraft:logs"
+    "minecraft:logs",
+    "minecraft:terracotta",
+    "c:glazed_terracottas"
   ],
   "stackGroupItemOrder": {},
   "emiOnlyInRecipeBook": false
